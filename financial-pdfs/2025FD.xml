@@ -1270,6 +1270,17 @@
     <Last>Bohannan</Last>
     <First>Christina</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/15/2025</FilingDate>
+    <DocID>10071781</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bohannan</Last>
+    <First>Christina</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>IA01</StateDst>
     <Year>2025</Year>
@@ -3664,6 +3675,17 @@
     <DocID>10063358</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Despain</Last>
+    <First>Monique</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OR04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/15/2025</FilingDate>
+    <DocID>10072652</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>D'Esposito</Last>
     <First>Anthony P.</First>
@@ -5413,6 +5435,17 @@
     <DocID>20031032</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/15/2025</FilingDate>
+    <DocID>20032246</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Graham</Last>
     <First>James Henry</First>
@@ -6337,6 +6370,17 @@
     <DocID>20030339</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/16/2025</FilingDate>
+    <DocID>20032284</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Hernandez</Last>
     <First>Daniel</First>
@@ -6808,6 +6852,17 @@
     <Year>2025</Year>
     <FilingDate>9/23/2025</FilingDate>
     <DocID>20031023</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Jackson</Last>
+    <First>Jonathan</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IL01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/15/2025</FilingDate>
+    <DocID>20032232</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8645,6 +8700,17 @@
     <Year>2025</Year>
     <FilingDate>8/2/2025</FilingDate>
     <DocID>10071966</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>MacHo</Last>
+    <First>John Dominic</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>WI06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/30/2025</FilingDate>
+    <DocID>9115688</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12343,6 +12409,17 @@
     <DocID>10072317</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Scharer</Last>
+    <First>Gene Paul</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>9/24/2025</FilingDate>
+    <DocID>9115687</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Scheppelman</Last>
     <First>Hope G.</First>
@@ -12473,6 +12550,17 @@
     <Year>2025</Year>
     <FilingDate>1/23/2025</FilingDate>
     <DocID>8220731</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Self</Last>
+    <First>Keith Alan</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/14/2025</FilingDate>
+    <DocID>9115686</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
