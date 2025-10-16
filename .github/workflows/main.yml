@@ -3,14 +3,14 @@ name: Sync Financial Disclosure PDFs
 on:
   schedule:
     - cron: '0 2 * * *'   # Run every day at 02:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
@@ -20,13 +20,13 @@ jobs:
       - name: Ensure latest code
         run: git pull --rebase
 
-      # Step 3: Configure Git user
+      # Step 3: Configure Git identity
       - name: Configure Git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Step 4: Download and unzip 2025FD.zip
+      # Step 4: Download and unzip latest financial data
       - name: Fetch and unzip financial PDFs
         run: |
           set -euo pipefail
@@ -40,23 +40,25 @@ jobs:
           unzip -o "$DEST_ZIP" -d "$OUT_DIR" > /dev/null
           rm "$DEST_ZIP"
 
-      # Step 5: Set up Python & Chrome for Selenium
+      # Step 5: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install selenium
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
+      # Step 6: Set up Chrome (cleaner than apt-get)
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@v1
 
-      # Step 6: Run PDF download script
+      # Step 7: Install Python dependencies
+      - name: Install dependencies
+        run: pip install selenium
+
+      # Step 8: Run your Python PDF downloader
       - name: Run PDF downloader
         run: python scripts/dl_pdfs.py
 
-      # Step 7: Commit and push new PDFs
+      # Step 9: Commit and push any new PDFs
       - name: Commit and push changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
