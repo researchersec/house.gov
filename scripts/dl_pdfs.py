@@ -19,7 +19,7 @@ for member in root.findall('Member'):
             docids.append(docid_elem.text)
 
 # Set up download directory
-download_dir = os.path.join(os.getcwd(), 'pdf_downloads')
+download_dir = os.path.join(os.getcwd(), 'pdfs')
 os.makedirs(download_dir, exist_ok=True)
 
 # Set up Chrome for headless PDF download
