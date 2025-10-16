@@ -1,0 +1,35 @@
+name: Sync Financial PDFs
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # every day at 02:00 UTC (adjust as needed)
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true   # to allow pushing
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch and unzip financial PDFs
+        run: bash ./scripts/fetch_and_unzip.sh
+
+      - name: Commit changes
+        run: |
+          # check if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Sync financial PDFs from ${ZIP_URL}"
+            git push
+          else
+            echo "No changes to commit"
+          fi
