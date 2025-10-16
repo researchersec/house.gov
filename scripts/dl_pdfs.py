@@ -5,7 +5,8 @@ import time
 import os
 
 # Parse the XML file
-tree = ET.parse('financial-pdfs/2025FD.xml')
+xml_path = 'financial-pdfs/2025FD.xml'
+tree = ET.parse(xml_path)
 root = tree.getroot()
 
 # Extract DocIDs where FilingType is 'P'
@@ -17,13 +18,15 @@ for member in root.findall('Member'):
         if docid_elem is not None:
             docids.append(docid_elem.text)
 
-# Set up download directory (change this to your desired path)
+# Set up download directory
 download_dir = os.path.join(os.getcwd(), 'pdf_downloads')
-if not os.path.exists(download_dir):
-    os.makedirs(download_dir)
+os.makedirs(download_dir, exist_ok=True)
 
-# Set up Chrome options for automatic PDF download
+# Set up Chrome for headless PDF download
 chrome_options = Options()
+chrome_options.add_argument("--headless=new")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_experimental_option("prefs", {
     "download.default_directory": download_dir,
     "download.prompt_for_download": False,
@@ -31,16 +34,20 @@ chrome_options.add_experimental_option("prefs", {
     "plugins.always_open_pdf_externally": True
 })
 
-# Initialize WebDriver (assumes chromedriver is in PATH)
 driver = webdriver.Chrome(options=chrome_options)
 
-# Download each PDF
+new_downloads = 0
 for docid in docids:
-    url = f"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/{docid}.pdf"
-    driver.get(url)
-    time.sleep(3)  # Wait for download to complete (adjust if needed)
+    pdf_path = os.path.join(download_dir, f"{docid}.pdf")
+    if not os.path.exists(pdf_path):
+        url = f"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/{docid}.pdf"
+        print(f"Downloading new file: {url}")
+        driver.get(url)
+        time.sleep(3)  # Wait for download
+        new_downloads += 1
+    else:
+        print(f"Already have {docid}.pdf — skipping.")
 
-# Clean up
 driver.quit()
 
-print(f"Downloaded {len(docids)} PDFs to {download_dir}")
+print(f"Downloaded {new_downloads} new PDFs to {download_dir}")
