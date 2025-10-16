@@ -1,35 +1,57 @@
-name: Sync Financial PDFs
+name: Sync Financial Disclosure PDFs
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # every day at 02:00 UTC (adjust as needed)
-  workflow_dispatch:
+    - cron: '0 2 * * *'   # Run every day at 02:00 UTC
+  workflow_dispatch:       # Allow manual trigger via Actions tab
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true   # to allow pushing
+          persist-credentials: true    # Needed to push changes
 
-      - name: Set up Git
+      # Step 2: Ensure we're up to date with remote
+      - name: Ensure latest code
+        run: git pull --rebase
+
+      # Step 3: Set up Git identity for commits
+      - name: Configure Git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      # Step 4: Download and unzip latest disclosures
       - name: Fetch and unzip financial PDFs
-        run: bash ./scripts/fetch_and_unzip.sh
-
-      - name: Commit changes
         run: |
-          # check if there are changes
+          set -euo pipefail
+          ZIP_URL="https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025FD.zip"
+          DEST_ZIP="2025FD.zip"
+          OUT_DIR="financial-pdfs"
+
+          echo "Downloading from $ZIP_URL ..."
+          curl -L --fail "$ZIP_URL" -o "$DEST_ZIP"
+
+          echo "Unzipping to $OUT_DIR ..."
+          mkdir -p "$OUT_DIR"
+          unzip -o "$DEST_ZIP" -d "$OUT_DIR" > /dev/null
+
+          echo "Cleaning up..."
+          rm "$DEST_ZIP"
+
+      # Step 5: Commit and push if there are changes
+      - name: Commit and push changes
+        run: |
           if [ -n "$(git status --porcelain)" ]; then
+            echo "Changes detected — committing and pushing."
             git add .
-            git commit -m "Sync financial PDFs from ${ZIP_URL}"
+            git commit -m "Automated update: Sync latest 2025FD disclosures"
             git push
           else
-            echo "No changes to commit"
+            echo "No changes to commit."
           fi
