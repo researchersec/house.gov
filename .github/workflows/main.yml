@@ -3,30 +3,30 @@ name: Sync Financial Disclosure PDFs
 on:
   schedule:
     - cron: '0 2 * * *'   # Run every day at 02:00 UTC
-  workflow_dispatch:       # Allow manual trigger via Actions tab
+  workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repo
+      # Step 1: Checkout
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true    # Needed to push changes
+          persist-credentials: true
 
-      # Step 2: Ensure we're up to date with remote
+      # Step 2: Ensure latest code
       - name: Ensure latest code
         run: git pull --rebase
 
-      # Step 3: Set up Git identity for commits
+      # Step 3: Configure Git user
       - name: Configure Git user
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Step 4: Download and unzip latest disclosures
+      # Step 4: Download and unzip 2025FD.zip
       - name: Fetch and unzip financial PDFs
         run: |
           set -euo pipefail
@@ -36,21 +36,33 @@ jobs:
 
           echo "Downloading from $ZIP_URL ..."
           curl -L --fail "$ZIP_URL" -o "$DEST_ZIP"
-
-          echo "Unzipping to $OUT_DIR ..."
           mkdir -p "$OUT_DIR"
           unzip -o "$DEST_ZIP" -d "$OUT_DIR" > /dev/null
-
-          echo "Cleaning up..."
           rm "$DEST_ZIP"
 
-      # Step 5: Commit and push if there are changes
+      # Step 5: Set up Python & Chrome for Selenium
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install selenium
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      # Step 6: Run PDF download script
+      - name: Run PDF downloader
+        run: python scripts/dl_pdfs.py
+
+      # Step 7: Commit and push new PDFs
       - name: Commit and push changes
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected — committing and pushing."
             git add .
-            git commit -m "Automated update: Sync latest 2025FD disclosures"
+            git commit -m "Automated update: synced new 2025 PDFs"
             git push
           else
             echo "No changes to commit."
