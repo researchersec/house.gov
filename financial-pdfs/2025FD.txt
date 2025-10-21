@@ -70,6 +70,7 @@ Hon.	Banks	James E Hon		E	IN03	2025	1/7/2025	8220720
 	Barrett	Joseph Michael		C	TN07	2025	9/6/2025	10072375
 	Barringer	Paul		C	NC13	2025	6/21/2025	10071607
 	Barringer	Paul		X	NC13	2025	6/26/2025	30025218
+	Bean	Melissa Luburich		X	IL08	2025	10/16/2025	9115692
 	Beebe	Eric J.		C	IN02	2025	7/1/2025	10071688
 Mr.	Beers	Robert Lee	III	C	SC01	2025	7/5/2025	10071719
 	Behn	Aftyn		C	TN07	2025	9/9/2025	10072399
@@ -157,6 +158,7 @@ Hon.	Bresnahan	Rob		P	PA08	2025	10/14/2025	20032276
 	Brungardt	Kenneth Francis	Jr.	X	ID01	2025	8/5/2025	30025337
 	Buccola	Samuel		W	NJ09	2025	8/1/2025	8020
 	Buccola	Samuel		W	NJ09	2025	8/1/2025	8021
+	Buchwald	Jon		C	TX24	2025	10/19/2025	10071807
 	Buchwald	Jon		X	TX24	2025	7/22/2025	30025317
 	Buck	Carrie		X	NV01	2025	8/25/2025	30025382
 Mr.	Buck	Kelvin Oneal		C	MS01	2025	10/2/2025	10072603
@@ -365,6 +367,8 @@ Dr.	Douglass	Eugene Farley Dr		C	NC02	2025	5/3/2025	10067240
 	Dowell	Steven Clay	Jr.	X	TX31	2025	9/16/2025	30025421
 	Driver	Anthony	Jr.	A	IL07	2025	9/17/2025	10072489
 	Driver	Anthony	Jr.	C	IL07	2025	9/13/2025	10072439
+	Duensing	Skylar		C	IL06	2025	10/19/2025	10072686
+Mr.	Duffin	Michael Christian		X	VA08	2025	10/16/2025	9115693
 Hon.	Duncan	Jeff		T	SC03	2025	1/22/2025	10063270
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2025	3/10/2025	20027895
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2025	4/3/2025	20029068
@@ -398,6 +402,7 @@ Hon.	Evans	Dwight		P	PA03	2025	4/17/2025	20030179
 	Farnsworth	Tyler Scott		D	UT02	2025	7/7/2025	40004799
 	Farooqi	Aisha		X	MI11	2025	9/16/2025	30025420
 	Featherly	Zebulon Hart		C	MI01	2025	10/3/2025	10072597
+	Fechter	Leonard Benson		C	PA12	2025	10/17/2025	10072679
 	Feely	Thomas James		C	AZ05	2025	8/20/2025	10069137
 	Feely	Thomas James		X	AZ05	2025	5/22/2025	30023943
 Hon.	Ferguson	Anderson Drew	IV	T	GA03	2025	1/29/2025	10063324
@@ -592,6 +597,7 @@ Hon.	Hill	James French		P	AR02	2025	7/24/2025	20030551
 	Hinojosa	Alfredo	Jr.	D	TX34	2025	10/6/2025	40004854
 	Hinojosa	Alfredo	Jr.	X	TX34	2025	10/16/2025	30025464
 Mr.	Hocevar	Christopher John	II	C	AR03	2025	9/8/2025	10072392
+	Hockett	Chelsey Alexandra		C	TX05	2025	10/19/2025	10072607
 	Honer	Bradley J.		C	AZ04	2025	3/13/2025	10063488
 	Horowitz	Zurit Zuriel		C	CO05	2025	6/3/2025	10070422
 Mr.	Howard	Greg	Jr.	C	AL05	2025	4/30/2025	10067053
@@ -1017,6 +1023,7 @@ Hon.	Peters	Scott H.		P	CA50	2025	6/23/2025	20030517
 Hon.	Peters	Scott H.		P	CA50	2025	7/16/2025	20030663
 Hon.	Peters	Scott H.		P	CA50	2025	8/11/2025	20030876
 Hon.	Peters	Scott H.		P	CA50	2025	9/15/2025	20032054
+Hon.	Peters	Scott H.		P	CA50	2025	10/17/2025	20032283
 Hon.	Pettersen	Brittany Louise		G	CO07	2025	3/10/2025	8220792
 Hon.	Pfluger	August Lee	II	P	TX11	2025	2/15/2025	20021220
 Hon.	Pfluger	August Lee	II	P	TX11	2025	7/23/2025	20030714
@@ -1031,6 +1038,7 @@ Hon.	Phillips	Dean		X	MN03	2025	1/14/2025	30022471
 	Phillips-Staley	Effie		X	NY17	2025	8/12/2025	30025364
 	Piccinini	Katherine		C	CA10	2025	5/10/2025	10066880
 	Pickett	Deborah A.		C	IN05	2025	9/19/2025	10072508
+	Pierce	Michael David Ltc (Ret)		C	IL11	2025	10/18/2025	10072684
 Hon.	Pingree	Chellie		P	ME01	2025	6/11/2025	20030492
 	Pino	Rosemary		X	NJ09	2025	8/5/2025	30025349
 	Pinsley	Mark		X	PA07	2025	9/3/2025	30025397
@@ -1108,6 +1116,7 @@ Hon.	Rogers	Harold Dallas		P	KY05	2025	6/11/2025	8221123
 Hon.	Rogers	Harold Dallas		P	KY05	2025	7/23/2025	9115546
 Hon.	Rogers	Harold Dallas		P	KY05	2025	8/27/2025	9115623
 Hon.	Rogers	Harold Dallas		P	KY05	2025	9/4/2025	9115635
+Hon.	Rogers	Harold Dallas		P	KY05	2025	10/16/2025	9115689
 	Roma	Amy		W	VA11	2025	7/10/2025	8016
 	Roma	Amy		X	VA11	2025	6/26/2025	30025223
 	Rosario	Angelina Sigala		C	CA13	2025	5/8/2025	10067657
