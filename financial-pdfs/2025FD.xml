@@ -4512,6 +4512,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Ficker</Last>
+    <First>Robin</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/21/2025</FilingDate>
+    <DocID>10072695</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Fields</Last>
     <First>Cleo</First>
     <Suffix />
@@ -8249,6 +8260,17 @@
     <Year>2025</Year>
     <FilingDate>5/13/2025</FilingDate>
     <DocID>20030207</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lara</Last>
+    <First>Keith Joseph</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/21/2025</FilingDate>
+    <DocID>10072700</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12102,6 +12124,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Rhoades</Last>
+    <First>Crystal</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NE02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/21/2025</FilingDate>
+    <DocID>9115696</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Rice</Last>
     <First>Mark</First>
     <Suffix />
@@ -13661,6 +13694,17 @@
     <Year>2025</Year>
     <FilingDate>8/13/2025</FilingDate>
     <DocID>20030307</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Suozzi</Last>
+    <First>Thomas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NY03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/21/2025</FilingDate>
+    <DocID>20033321</DocID>
   </Member>
   <Member>
     <Prefix />
