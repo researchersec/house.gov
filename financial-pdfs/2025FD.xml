@@ -434,6 +434,17 @@
     <Last>Andres-Beck</Last>
     <First>Beth</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>10071876</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Andres-Beck</Last>
+    <First>Beth</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>MA06</StateDst>
     <Year>2025</Year>
@@ -3796,6 +3807,17 @@
     <DocID>20032245</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>20033335</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dellinger</Last>
     <First>Paul Lyal</First>
@@ -4533,6 +4555,17 @@
     <DocID>20030179</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Evans</Last>
+    <First>Dwight</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>20033370</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Farnham</Last>
     <First>Elizabeth Rhoads</First>
@@ -4707,6 +4740,17 @@
     <Year>2025</Year>
     <FilingDate>9/30/2025</FilingDate>
     <DocID>20032106</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>20033326</DocID>
   </Member>
   <Member>
     <Prefix>Mrs.</Prefix>
@@ -14026,6 +14070,17 @@
     <DocID>10072608</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Strickler</Last>
+    <First>Robert J.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>10072645</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Stutzman</Last>
     <First>Marlin</First>
@@ -15740,6 +15795,17 @@
     <Year>2025</Year>
     <FilingDate>5/27/2025</FilingDate>
     <DocID>10070259</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wiman</Last>
+    <First>Angela</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/30/2025</FilingDate>
+    <DocID>10072739</DocID>
   </Member>
   <Member>
     <Prefix />
