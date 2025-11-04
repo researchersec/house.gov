@@ -456,6 +456,17 @@
     <Last>Andrew</Last>
     <First>Philip Jerome</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/2/2025</FilingDate>
+    <DocID>10072705</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Andrew</Last>
+    <First>Philip Jerome</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>IL09</StateDst>
     <Year>2025</Year>
@@ -1090,6 +1101,17 @@
     <DocID>20032200</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Beyer</Last>
+    <First>Donald Sternoff</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/2/2025</FilingDate>
+    <DocID>20033325</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Bhatti</Last>
     <First>Ata-Ul-Salaam</First>
@@ -1132,6 +1154,17 @@
     <Year>2025</Year>
     <FilingDate>10/5/2025</FilingDate>
     <DocID>20032149</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Biggs</Last>
+    <First>Sheri</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/31/2025</FilingDate>
+    <DocID>20033379</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -11475,6 +11508,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Pearson</Last>
+    <First>Tobey Mr</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX32</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/2/2025</FilingDate>
+    <DocID>10072765</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Peck</Last>
     <First>Timothy</First>
     <Suffix />
@@ -12198,6 +12242,28 @@
     <Year>2025</Year>
     <FilingDate>9/11/2025</FilingDate>
     <DocID>10072418</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pruitt</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/31/2025</FilingDate>
+    <DocID>10072764</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pruitt</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/31/2025</FilingDate>
+    <DocID>10072745</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13056,6 +13122,17 @@
     <Year>2025</Year>
     <FilingDate>4/19/2025</FilingDate>
     <DocID>10066355</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ruszkowski ( Rush )</Last>
+    <First>Rob</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/1/2025</FilingDate>
+    <DocID>10072744</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14860,6 +14937,17 @@
     <Year>2025</Year>
     <FilingDate>9/19/2025</FilingDate>
     <DocID>9115660</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Vancil</Last>
+    <First>Dillan</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL17</StateDst>
+    <Year>2025</Year>
+    <FilingDate>10/31/2025</FilingDate>
+    <DocID>10070244</DocID>
   </Member>
   <Member>
     <Prefix />
