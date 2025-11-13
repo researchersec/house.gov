@@ -23,6 +23,17 @@
     <DocID>10072640</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Aboujaoude</Last>
+    <First>Rock Adel</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>FL03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072809</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Abrevaya</Last>
     <First>David</First>
@@ -351,6 +362,17 @@
     <Year>2025</Year>
     <FilingDate>5/18/2025</FilingDate>
     <DocID>10070230</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Alvarado</Last>
+    <First>Ralph A.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>KY06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/11/2025</FilingDate>
+    <DocID>10071944</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8296,6 +8318,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Kelly</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA16</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/11/2025</FilingDate>
+    <DocID>20033447</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Kennedy</Last>
     <First>Mike</First>
     <Suffix />
@@ -10968,6 +11001,17 @@
     <DocID>20032256</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>20033413</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Moraitis</Last>
     <First>George R.</First>
@@ -12319,6 +12363,17 @@
     <Year>2025</Year>
     <FilingDate>10/17/2025</FilingDate>
     <DocID>20032283</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Petersen</Last>
+    <First>Garrett</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072810</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -14310,6 +14365,17 @@
     <Year>2025</Year>
     <FilingDate>8/31/2025</FilingDate>
     <DocID>10072346</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Smart</Last>
+    <First>Colby</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/11/2025</FilingDate>
+    <DocID>10072802</DocID>
   </Member>
   <Member>
     <Prefix />
