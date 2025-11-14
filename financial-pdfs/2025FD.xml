@@ -687,6 +687,17 @@
     <Last>Bains</Last>
     <First>Jasmeet</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA22</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072007</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bains</Last>
+    <First>Jasmeet</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CA22</StateDst>
     <Year>2025</Year>
@@ -4038,6 +4049,17 @@
     <DocID>20033335</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>20033431</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dellinger</Last>
     <First>Paul Lyal</First>
@@ -4047,6 +4069,17 @@
     <Year>2025</Year>
     <FilingDate>10/1/2025</FilingDate>
     <DocID>10072598</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dembo</Last>
+    <First>Zach</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>KY06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072755</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -5006,6 +5039,17 @@
     <DocID>20033326</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>20033424</DocID>
+  </Member>
+  <Member>
     <Prefix>Mrs.</Prefix>
     <Last>Fine</Last>
     <First>Laura Beth</First>
@@ -5114,6 +5158,17 @@
     <Year>2025</Year>
     <FilingDate>8/15/2025</FilingDate>
     <DocID>9115670</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Flores</Last>
+    <First>Eric</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX34</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072014</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -5521,6 +5576,17 @@
     <Year>2025</Year>
     <FilingDate>10/13/2025</FilingDate>
     <DocID>10072642</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fulmer</Last>
+    <First>Matthew</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>SC01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>40004870</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13177,6 +13243,17 @@
     <Year>2025</Year>
     <FilingDate>10/21/2025</FilingDate>
     <DocID>9115696</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Rice</Last>
+    <First>Andrew James</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CT03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/12/2025</FilingDate>
+    <DocID>10072816</DocID>
   </Member>
   <Member>
     <Prefix />
