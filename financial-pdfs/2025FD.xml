@@ -181,6 +181,17 @@
     <Last>Aleman</Last>
     <First>Katherine</First>
     <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2025</Year>
+    <FilingDate />
+    <DocID>8221241</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Aleman</Last>
+    <First>Katherine</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CA41</StateDst>
     <Year>2025</Year>
@@ -4808,6 +4819,17 @@
     <DocID>10072541</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Easton</Last>
+    <First>Andre Clement</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>10072871</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Edwards</Last>
     <First>Amanda</First>
@@ -5226,6 +5248,17 @@
     <DocID>20033424</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>20033493</DocID>
+  </Member>
+  <Member>
     <Prefix>Mrs.</Prefix>
     <Last>Fine</Last>
     <First>Laura Beth</First>
@@ -5334,6 +5367,17 @@
     <Year>2025</Year>
     <FilingDate>8/15/2025</FilingDate>
     <DocID>9115670</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Fleischmann</Last>
+    <First>Charles J. "Chuck"</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/14/2025</FilingDate>
+    <DocID>8221237</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -6799,6 +6843,17 @@
     <DocID>20033462</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Greene</Last>
+    <First>Marjorie Taylor</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>GA14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>20033505</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Greene-Scott</Last>
     <First>Marquette</First>
@@ -6863,6 +6918,17 @@
     <Year>2025</Year>
     <FilingDate>10/8/2025</FilingDate>
     <DocID>10072609</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Guest</Last>
+    <First>Michael Patrick</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MS03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>20033416</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9817,6 +9883,17 @@
     <Last>Lincoln</Last>
     <First>Kevin J.</First>
     <Suffix>II</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>CA09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>10072272</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lincoln</Last>
+    <First>Kevin J.</First>
+    <Suffix>II</Suffix>
     <FilingType>X</FilingType>
     <StateDst>CA09</StateDst>
     <Year>2025</Year>
@@ -10870,6 +10947,28 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>McMahon</Last>
+    <First>Linda Diane</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>NJ03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/14/2025</FilingDate>
+    <DocID>8221239</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>McMahon</Last>
+    <First>Linda Diane</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2025</Year>
+    <FilingDate />
+    <DocID>8221242</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>McQueen</Last>
     <First>Eldon Dan</First>
     <Suffix />
@@ -11219,6 +11318,17 @@
     <Year>2025</Year>
     <FilingDate>6/3/2025</FilingDate>
     <DocID>8010</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Minton</Last>
+    <First>Daniel Patrick</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TX06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/8/2025</FilingDate>
+    <DocID>8221240</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14085,6 +14195,17 @@
     <Last>Rosas</Last>
     <First>Etienne</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX34</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>10071953</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Rosas</Last>
+    <First>Etienne</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX34</StateDst>
     <Year>2025</Year>
@@ -14981,6 +15102,17 @@
     <Year>2025</Year>
     <FilingDate>7/24/2025</FilingDate>
     <DocID>9115549</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Smith</Last>
+    <First>Adrian</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NE03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/14/2025</FilingDate>
+    <DocID>8221238</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -16164,6 +16296,17 @@
     <Last>Twedt-Ball</Last>
     <First>Clinton Gene</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>IA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>10072874</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Twedt-Ball</Last>
+    <First>Clinton Gene</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>IA02</StateDst>
     <Year>2025</Year>
@@ -16246,6 +16389,17 @@
     <Year>2025</Year>
     <FilingDate>9/19/2025</FilingDate>
     <DocID>9115660</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Van Epps</Last>
+    <First>Matthew Robert</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/19/2025</FilingDate>
+    <DocID>10072849</DocID>
   </Member>
   <Member>
     <Prefix />
