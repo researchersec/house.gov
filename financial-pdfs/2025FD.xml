@@ -3555,6 +3555,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Croft</Last>
+    <First>Cammie L.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/21/2025</FilingDate>
+    <DocID>10072837</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Croisant</Last>
     <First>John Thomas</First>
     <Suffix />
@@ -3585,6 +3596,17 @@
     <Year>2025</Year>
     <FilingDate>3/3/2025</FilingDate>
     <DocID>40003719</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Croley</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/23/2025</FilingDate>
+    <DocID>10072579</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3871,6 +3893,17 @@
     <Year>2025</Year>
     <FilingDate>7/8/2025</FilingDate>
     <DocID>30025252</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Davis</Last>
+    <First>Richard Harvey</First>
+    <Suffix>III</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>TX14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/21/2025</FilingDate>
+    <DocID>10072877</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7613,6 +7646,17 @@
     <DocID>10070422</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Hoskins</Last>
+    <First>Rory E.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/22/2025</FilingDate>
+    <DocID>10072886</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Howard</Last>
     <First>Greg</First>
@@ -10693,6 +10737,17 @@
     <DocID>8221212</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McClain</Last>
+    <First>Lisa</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/21/2025</FilingDate>
+    <DocID>20033446</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>McClintock</Last>
     <First>Charlie</First>
@@ -11859,6 +11914,28 @@
     <DocID>20030455</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moskowitz</Last>
+    <First>Jared</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL23</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/22/2025</FilingDate>
+    <DocID>20033421</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Mosolf</Last>
+    <First>Patrick</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/13/2025</FilingDate>
+    <DocID>8221243</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Moss</Last>
     <First>Jeremy</First>
@@ -11956,6 +12033,17 @@
     <Year>2025</Year>
     <FilingDate>8/10/2025</FilingDate>
     <DocID>10071820</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Nagel</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MN05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/23/2025</FilingDate>
+    <DocID>10072887</DocID>
   </Member>
   <Member>
     <Prefix />
