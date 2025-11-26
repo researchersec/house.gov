@@ -3976,6 +3976,17 @@
     <Last>Decio</Last>
     <First>Jamee</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/24/2025</FilingDate>
+    <DocID>10072509</DocID>
+  </Member>
+  <Member>
+    <Prefix>Ms.</Prefix>
+    <Last>Decio</Last>
+    <First>Jamee</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>IN02</StateDst>
     <Year>2025</Year>
@@ -5939,6 +5950,17 @@
     <Year>2025</Year>
     <FilingDate>5/14/2025</FilingDate>
     <DocID>30023232</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gallant</Last>
+    <First>Christopher</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/24/2025</FilingDate>
+    <DocID>10072271</DocID>
   </Member>
   <Member>
     <Prefix />
