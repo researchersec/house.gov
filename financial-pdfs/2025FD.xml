@@ -111,6 +111,17 @@
     <DocID>30025402</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Ager</Last>
+    <First>Jamie Peterson</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NC11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072344</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Aisen</Last>
     <First>Joshua</First>
@@ -1902,6 +1913,17 @@
     <Year>2025</Year>
     <FilingDate>7/31/2025</FilingDate>
     <DocID>10071947</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Briem</Last>
+    <First>Margaret Elizabeth</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH13</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072324</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -5923,6 +5945,17 @@
     <Last>Gaines</Last>
     <First>Houston</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072287</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gaines</Last>
+    <First>Houston</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>GA10</StateDst>
     <Year>2025</Year>
@@ -8462,6 +8495,17 @@
   <Member>
     <Prefix />
     <Last>Jones</Last>
+    <First>David Allen</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA23</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072902</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
     <First>Eric</First>
     <Suffix />
     <FilingType>X</FilingType>
@@ -8524,6 +8568,17 @@
     <Year>2025</Year>
     <FilingDate>10/24/2025</FilingDate>
     <DocID>10072709</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kasky</Last>
+    <First>Cameron</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072898</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12726,6 +12781,17 @@
     <Year>2025</Year>
     <FilingDate>9/26/2025</FilingDate>
     <DocID>10072568</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Peace-Nichols</Last>
+    <First>Tracell</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/26/2025</FilingDate>
+    <DocID>10072903</DocID>
   </Member>
   <Member>
     <Prefix />
