@@ -991,6 +991,17 @@
     <DocID>30025218</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Bartie</Last>
+    <First>Thurman Bill</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/30/2025</FilingDate>
+    <DocID>10072860</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Bean</Last>
     <First>Melissa Luburich</First>
@@ -1990,6 +2001,17 @@
     <Year>2025</Year>
     <FilingDate>5/15/2025</FilingDate>
     <DocID>10068989</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bronin</Last>
+    <First>Luke</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CT01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/28/2025</FilingDate>
+    <DocID>10072277</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3717,6 +3739,17 @@
     <Year>2025</Year>
     <FilingDate>8/21/2025</FilingDate>
     <DocID>30025375</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cunningham</Last>
+    <First>Greg</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NM02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/30/2025</FilingDate>
+    <DocID>10072777</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -10089,6 +10122,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Lira</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX35</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/28/2025</FilingDate>
+    <DocID>10072905</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Little</Last>
     <First>Matt</First>
     <Suffix />
@@ -15733,6 +15777,28 @@
   <Member>
     <Prefix />
     <Last>Strickler</Last>
+    <First>Matt</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/29/2025</FilingDate>
+    <DocID>10072911</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Strickler</Last>
+    <First>Matt</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/29/2025</FilingDate>
+    <DocID>10072910</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Strickler</Last>
     <First>Robert J.</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -16147,6 +16213,17 @@
     <Year>2025</Year>
     <FilingDate>7/7/2025</FilingDate>
     <DocID>40004788</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Thain</Last>
+    <First>Terry Lee</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/28/2025</FilingDate>
+    <DocID>10072908</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
