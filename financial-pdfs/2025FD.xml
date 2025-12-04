@@ -4075,6 +4075,17 @@
     <Last>Deford</Last>
     <First>William Mac</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>SC01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>10072308</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Deford</Last>
+    <First>William Mac</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>SC01</StateDst>
     <Year>2025</Year>
@@ -7019,6 +7030,17 @@
     <DocID>20033505</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Greene</Last>
+    <First>Marjorie Taylor</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>GA14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>20033570</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Greene-Scott</Last>
     <First>Marquette</First>
@@ -8051,6 +8073,17 @@
     <Year>2025</Year>
     <FilingDate>10/16/2025</FilingDate>
     <DocID>10072305</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ingram</Last>
+    <First>Cody R.</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MI10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>30025557</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11881,6 +11914,17 @@
     <DocID>20033413</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>20033564</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Moraitis</Last>
     <First>George R.</First>
@@ -14266,6 +14310,17 @@
     <Year>2025</Year>
     <FilingDate>9/29/2025</FilingDate>
     <DocID>10072576</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Rios</Last>
+    <First>Felipe Jesus</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>10072929</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18105,6 +18160,17 @@
     <Year>2025</Year>
     <FilingDate>9/27/2025</FilingDate>
     <DocID>10072578</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Zabel</Last>
+    <First>Sarah</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>ID01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/2/2025</FilingDate>
+    <DocID>10072930</DocID>
   </Member>
   <Member>
     <Prefix>Ms.</Prefix>
