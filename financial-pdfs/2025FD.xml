@@ -1432,6 +1432,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Biggs</Last>
+    <First>Sheri</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/4/2025</FilingDate>
+    <DocID>20033579</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Bilirakis</Last>
     <First>Gus M.</First>
     <Suffix />
@@ -2430,6 +2441,17 @@
     <Year>2025</Year>
     <FilingDate>10/25/2025</FilingDate>
     <DocID>10072575</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Campbell</Last>
+    <First>Melvin Lee</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>PA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/4/2025</FilingDate>
+    <DocID>10072941</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7270,6 +7292,17 @@
     <Year>2025</Year>
     <FilingDate>7/10/2025</FilingDate>
     <DocID>40004796</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Halpin</Last>
+    <First>Patrick</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>11/17/2025</FilingDate>
+    <DocID>8221256</DocID>
   </Member>
   <Member>
     <Prefix />
