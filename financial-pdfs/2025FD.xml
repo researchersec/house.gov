@@ -4270,6 +4270,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Delaney</Last>
+    <First>April McClain</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/8/2025</FilingDate>
+    <DocID>20033604</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>DelBene</Last>
     <First>Suzan K.</First>
     <Suffix />
@@ -4421,6 +4432,17 @@
     <Year>2025</Year>
     <FilingDate>11/12/2025</FilingDate>
     <DocID>20033431</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/8/2025</FilingDate>
+    <DocID>20033587</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12545,6 +12567,17 @@
     <Last>Nair</Last>
     <First>Mark</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX13</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/8/2025</FilingDate>
+    <DocID>10072628</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Nair</Last>
+    <First>Mark</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX13</StateDst>
     <Year>2025</Year>
@@ -14453,6 +14486,17 @@
     <Year>2025</Year>
     <FilingDate>9/1/2025</FilingDate>
     <DocID>10072350</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Riebe</Last>
+    <First>Kathleen</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>UT01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/8/2025</FilingDate>
+    <DocID>10072969</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -17566,6 +17610,17 @@
     <Year>2025</Year>
     <FilingDate>10/24/2025</FilingDate>
     <DocID>20033320</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Wasserman Schultz</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL25</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/8/2025</FilingDate>
+    <DocID>20033581</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
