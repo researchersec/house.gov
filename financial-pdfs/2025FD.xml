@@ -2568,6 +2568,17 @@
     <Last>Carjuzaa</Last>
     <First>Nicolas</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>10072382</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Carjuzaa</Last>
+    <First>Nicolas</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CA08</StateDst>
     <Year>2025</Year>
@@ -3530,6 +3541,17 @@
     <Year>2025</Year>
     <FilingDate>8/25/2025</FilingDate>
     <DocID>30025389</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Coover</Last>
+    <First>Don</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>KS02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10072543</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -5609,6 +5631,17 @@
     <Year>2025</Year>
     <FilingDate>10/24/2025</FilingDate>
     <DocID>10072676</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Fisher</Last>
+    <First>Thomas</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>10072294</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -8539,6 +8572,17 @@
   <Member>
     <Prefix />
     <Last>James</Last>
+    <First>Lindsay</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>10072951</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>James</Last>
     <First>Wanda</First>
     <Suffix />
     <FilingType>X</FilingType>
@@ -10801,6 +10845,17 @@
     <Year>2025</Year>
     <FilingDate>11/4/2025</FilingDate>
     <DocID>30025511</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mangeris</Last>
+    <First>Douglas</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CO04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>10072998</DocID>
   </Member>
   <Member>
     <Prefix />
