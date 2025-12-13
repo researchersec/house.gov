@@ -3127,6 +3127,17 @@
   <Member>
     <Prefix />
     <Last>Cohen</Last>
+    <First>Brad J</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10072957</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cohen</Last>
     <First>Jeff</First>
     <Suffix />
     <FilingType>X</FilingType>
@@ -4894,6 +4905,17 @@
     <Year>2025</Year>
     <FilingDate>5/22/2025</FilingDate>
     <DocID>30023893</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dotson</Last>
+    <First>Ryan</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>KY06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10073005</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8865,6 +8887,17 @@
     <Year>2025</Year>
     <FilingDate>11/14/2025</FilingDate>
     <DocID>20033420</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Johnson</Last>
+    <First>Julie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX32</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>20033611</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13113,6 +13146,17 @@
     <DocID>8221155</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Oldfield</Last>
+    <First>Christopher</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CO01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>8221266</DocID>
+  </Member>
+  <Member>
     <Prefix>Ms.</Prefix>
     <Last>Oldham</Last>
     <First>Kortney Grant</First>
@@ -13839,6 +13883,17 @@
     <DocID>20033472</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Peters</Last>
+    <First>Scott H.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA50</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>20033588</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Petersen</Last>
     <First>Garrett</First>
@@ -14365,6 +14420,17 @@
     <Year>2025</Year>
     <FilingDate>5/12/2025</FilingDate>
     <DocID>10068116</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Rains</Last>
+    <First>Matthew</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MT01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/10/2025</FilingDate>
+    <DocID>8221267</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15597,6 +15663,17 @@
     <Year>2025</Year>
     <FilingDate>11/18/2025</FilingDate>
     <DocID>40004865</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Seifeldein</Last>
+    <First>Mo</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10072405</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18446,6 +18523,28 @@
     <Year>2025</Year>
     <FilingDate>8/1/2025</FilingDate>
     <DocID>30025327</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Williams</Last>
+    <First>Kelly Mikel</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>DC00</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10072657</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Williams</Last>
+    <First>Kelly Mikel</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>DC00</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/11/2025</FilingDate>
+    <DocID>10072657</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
