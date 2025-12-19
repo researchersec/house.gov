@@ -5384,6 +5384,17 @@
     <Last>Elkind</Last>
     <First>Liam</First>
     <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2025</Year>
+    <FilingDate />
+    <DocID>8221272</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Elkind</Last>
+    <First>Liam</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NY12</StateDst>
     <Year>2025</Year>
@@ -5730,6 +5741,17 @@
     <Year>2025</Year>
     <FilingDate>12/10/2025</FilingDate>
     <DocID>20033559</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/17/2025</FilingDate>
+    <DocID>20033616</DocID>
   </Member>
   <Member>
     <Prefix>Mrs.</Prefix>
@@ -10092,6 +10114,17 @@
     <Last>Lamb</Last>
     <First>Mark</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/17/2025</FilingDate>
+    <DocID>10072832</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lamb</Last>
+    <First>Mark</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>AZ05</StateDst>
     <Year>2025</Year>
@@ -13023,6 +13056,17 @@
     <Year>2025</Year>
     <FilingDate>5/14/2025</FilingDate>
     <DocID>30023215</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Nagy</Last>
+    <First>Jay</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX34</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/17/2025</FilingDate>
+    <DocID>10072814</DocID>
   </Member>
   <Member>
     <Prefix />
