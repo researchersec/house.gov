@@ -981,6 +981,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Barnett</Last>
+    <First>Michaela</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TN02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025601</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Barr</Last>
     <First>Callie</First>
     <Suffix />
@@ -2980,6 +2991,17 @@
     <Year>2025</Year>
     <FilingDate>10/28/2025</FilingDate>
     <DocID>10072735</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Chan</Last>
+    <First>Connie</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025604</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -5521,6 +5543,17 @@
     <Year>2025</Year>
     <FilingDate>9/4/2025</FilingDate>
     <DocID>9115634</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Enriquez</Last>
+    <First>Abraham</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>10073076</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -10177,6 +10210,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Koh</Last>
+    <First>Daniel Arrigg</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MA06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025600</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Konfrst</Last>
     <First>Jennifer</First>
     <Suffix />
@@ -12182,11 +12226,33 @@
     <Last>Mealer</Last>
     <First>Alexandra</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>10072505</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mealer</Last>
+    <First>Alexandra</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX09</StateDst>
     <Year>2025</Year>
     <FilingDate>9/24/2025</FilingDate>
     <DocID>30025433</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mejia</Last>
+    <First>Analilia</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025606</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13377,6 +13443,17 @@
     <DocID>8221219</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Nemorin</Last>
+    <First>Dalourny</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025594</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Newhouse</Last>
     <First>Dan</First>
@@ -14400,6 +14477,17 @@
     <DocID>10072810</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Peterson</Last>
+    <First>Cortney</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>OH11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025602</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Pettersen</Last>
     <First>Brittany Louise</First>
@@ -15160,6 +15248,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Reeside</Last>
+    <First>William Oliver</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>X</FilingType>
+    <StateDst>SC01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025598</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Reeves</Last>
     <First>Latonya T.</First>
     <Suffix />
@@ -15487,6 +15586,17 @@
     <Year>2025</Year>
     <FilingDate>9/29/2025</FilingDate>
     <DocID>30025454</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Robinson</Last>
+    <First>Timothy Brandt</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL13</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>10073080</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -17381,6 +17491,17 @@
     <DocID>30025551</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Swoboda</Last>
+    <First>Gina</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>AZ01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025597</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Tabacchi</Last>
     <First>Michael Eugene</First>
@@ -18325,6 +18446,17 @@
     <Year>2025</Year>
     <FilingDate>5/13/2025</FilingDate>
     <DocID>10067625</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Virts</Last>
+    <First>Terry</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>30025603</DocID>
   </Member>
   <Member>
     <Prefix />
