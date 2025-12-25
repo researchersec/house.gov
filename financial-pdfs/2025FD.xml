@@ -914,6 +914,17 @@
     <DocID>8220720</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Barbee</Last>
+    <First>James Bob</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/24/2025</FilingDate>
+    <DocID>10073092</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Barfield</Last>
     <First>Jillian</First>
@@ -2188,6 +2199,17 @@
     <Year>2025</Year>
     <FilingDate>8/25/2025</FilingDate>
     <DocID>30025387</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Brooks</Last>
+    <First>Bob</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/23/2025</FilingDate>
+    <DocID>10072544</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11320,6 +11342,17 @@
     <DocID>10072952</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Malliotakis</Last>
+    <First>Nicole</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NY11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/19/2025</FilingDate>
+    <DocID>8221276</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Mandel</Last>
     <First>Charles Scott Mr</First>
@@ -11659,6 +11692,17 @@
     <Year>2025</Year>
     <FilingDate>6/2/2025</FilingDate>
     <DocID>8221071</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McAdams</Last>
+    <First>Ben</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>UT01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>8221275</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12726,6 +12770,17 @@
     <Year>2025</Year>
     <FilingDate>11/10/2025</FilingDate>
     <DocID>30025514</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Montgomery</Last>
+    <First>Brian Allen</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/23/2025</FilingDate>
+    <DocID>10072524</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -14299,6 +14354,17 @@
     <Year>2025</Year>
     <FilingDate>7/8/2025</FilingDate>
     <DocID>30025245</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Peters</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/23/2025</FilingDate>
+    <DocID>10073091</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -16862,6 +16928,17 @@
     <Year>2025</Year>
     <FilingDate>4/2/2025</FilingDate>
     <DocID>10064644</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Smullen</Last>
+    <First>Robert</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NY21</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/22/2025</FilingDate>
+    <DocID>8221274</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -19524,6 +19601,17 @@
     <Year>2025</Year>
     <FilingDate>8/18/2025</FilingDate>
     <DocID>20030933</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Yakym</Last>
+    <First>Rudy C.</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>IN02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/23/2025</FilingDate>
+    <DocID>20033684</DocID>
   </Member>
   <Member>
     <Prefix />
