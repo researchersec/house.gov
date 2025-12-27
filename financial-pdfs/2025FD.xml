@@ -11225,6 +11225,17 @@
     <Last>Lujan</Last>
     <First>John</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX35</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/25/2025</FilingDate>
+    <DocID>10072559</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lujan</Last>
+    <First>John</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX35</StateDst>
     <Year>2025</Year>
