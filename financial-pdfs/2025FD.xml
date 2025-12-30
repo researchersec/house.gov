@@ -10125,6 +10125,28 @@
     <Last>Kirwan</Last>
     <First>Michael Brian</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>FL04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/27/2025</FilingDate>
+    <DocID>10073103</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kirwan</Last>
+    <First>Michael Brian</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/26/2025</FilingDate>
+    <DocID>10072639</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kirwan</Last>
+    <First>Michael Brian</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>FL04</StateDst>
     <Year>2025</Year>
@@ -11133,6 +11155,17 @@
     <DocID>30024002</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Lopez</Last>
+    <First>Adriel Ventura</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX28</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/27/2025</FilingDate>
+    <DocID>10073102</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Lopez</Last>
     <First>Greg</First>
@@ -11252,6 +11285,17 @@
     <Year>2025</Year>
     <FilingDate>8/13/2025</FilingDate>
     <DocID>10072008</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Luper</Last>
+    <First>Heather Marie</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/26/2025</FilingDate>
+    <DocID>10073099</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17891,6 +17935,17 @@
     <Last>Teixeira</Last>
     <First>Mark Charles</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX21</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/26/2025</FilingDate>
+    <DocID>10072494</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Teixeira</Last>
+    <First>Mark Charles</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX21</StateDst>
     <Year>2025</Year>
@@ -18864,6 +18919,17 @@
     <Year>2025</Year>
     <FilingDate>12/8/2025</FilingDate>
     <DocID>20033581</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wassgren</Last>
+    <First>Paul</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WI07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/26/2025</FilingDate>
+    <DocID>10072989</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
