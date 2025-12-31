@@ -1531,6 +1531,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Biggs</Last>
+    <First>Sheri</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>20033694</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Bilirakis</Last>
     <First>Gus M.</First>
     <Suffix />
@@ -3785,6 +3796,17 @@
     <DocID>10063539</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Cooper</Last>
+    <First>Robert David</First>
+    <Suffix>II</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>FL06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>10073106</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Cooper</Last>
     <First>Stuart</First>
@@ -4839,6 +4861,17 @@
     <Year>2025</Year>
     <FilingDate>8/6/2025</FilingDate>
     <DocID>40004816</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Derito</Last>
+    <First>Adam</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CO08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>10073109</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -7184,6 +7217,17 @@
     <DocID>20033398</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>20033576</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Graham</Last>
     <First>James Henry</First>
@@ -8744,6 +8788,17 @@
     <Year>2025</Year>
     <FilingDate>12/15/2025</FilingDate>
     <DocID>30025579</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ingram</Last>
+    <First>Cody R.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MI10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>10072895</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -16854,6 +16909,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Sills</Last>
+    <First>Katelyn Anne</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>10073083</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Simmons</Last>
     <First>Deva</First>
     <Suffix />
@@ -18963,6 +19029,17 @@
     <Year>2025</Year>
     <FilingDate>11/4/2025</FilingDate>
     <DocID>40004855</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Way</Last>
+    <First>Tahesha</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/29/2025</FilingDate>
+    <DocID>10073100</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
