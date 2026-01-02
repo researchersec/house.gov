@@ -717,6 +717,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Avila Chevalier</Last>
+    <First>Darializa</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY13</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>10073113</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Awa</Last>
     <First>Brenton</First>
     <Suffix />
@@ -3371,6 +3382,17 @@
     <Last>Cognetti</Last>
     <First>Paige</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>10073003</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cognetti</Last>
+    <First>Paige</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>PA08</StateDst>
     <Year>2025</Year>
@@ -5326,6 +5348,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Duckett</Last>
+    <First>Ryan Chad Casey</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>10073127</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Duensing</Last>
     <First>Skylar</First>
     <Suffix />
@@ -6918,6 +6951,17 @@
     <Year>2025</Year>
     <FilingDate>5/5/2025</FilingDate>
     <DocID>10067372</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gober</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>10072680</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -16952,6 +16996,17 @@
     <DocID>20033699</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Shreve</Last>
+    <First>Jefferson</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IN06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>20033700</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Sidwell</Last>
     <First>Austin Austin</First>
@@ -18798,6 +18853,17 @@
     <Year>2025</Year>
     <FilingDate>10/27/2025</FilingDate>
     <DocID>30025490</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Von Wilpert</Last>
+    <First>Marni</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2025</Year>
+    <FilingDate>12/31/2025</FilingDate>
+    <DocID>10072510</DocID>
   </Member>
   <Member>
     <Prefix />
