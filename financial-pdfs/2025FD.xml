@@ -1894,6 +1894,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bouchard</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MI10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/12/2026</FilingDate>
+    <DocID>10073185</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Bowlby</Last>
     <First>Judy</First>
     <Suffix />
@@ -2551,6 +2562,17 @@
     <Year>2025</Year>
     <FilingDate>2/2/2025</FilingDate>
     <DocID>10063293</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Burket</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/11/2026</FilingDate>
+    <DocID>10073004</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7591,6 +7613,17 @@
     <DocID>10071552</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Green</Last>
+    <First>Jennifer-Ruth</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/10/2026</FilingDate>
+    <DocID>10073098</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Green</Last>
     <First>Mark Dr</First>
@@ -10517,6 +10550,17 @@
     <DocID>40004765</DocID>
   </Member>
   <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Kimes</Last>
+    <First>Heavenly</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA13</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/9/2026</FilingDate>
+    <DocID>10072694</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>King</Last>
     <First>Joely Faren</First>
@@ -13408,6 +13452,17 @@
     <Year>2025</Year>
     <FilingDate>5/19/2025</FilingDate>
     <DocID>40004778</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Montavon</Last>
+    <First>Matthew</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL17</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/11/2026</FilingDate>
+    <DocID>10073061</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18023,6 +18078,17 @@
     <Last>Steinmann</Last>
     <First>Jessica Hart</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/9/2026</FilingDate>
+    <DocID>10072592</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Steinmann</Last>
+    <First>Jessica Hart</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX08</StateDst>
     <Year>2025</Year>
@@ -19601,6 +19667,17 @@
     <Year>2025</Year>
     <FilingDate>4/23/2025</FilingDate>
     <DocID>10066574</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Walls-Windhauser</Last>
+    <First>Angela Marie</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/9/2026</FilingDate>
+    <DocID>10073177</DocID>
   </Member>
   <Member>
     <Prefix />
