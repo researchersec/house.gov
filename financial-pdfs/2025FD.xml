@@ -5274,6 +5274,17 @@
     <Last>Dittmer</Last>
     <First>Mallory</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>SC05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/14/2026</FilingDate>
+    <DocID>10072650</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dittmer</Last>
+    <First>Mallory</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>SC05</StateDst>
     <Year>2025</Year>
@@ -13807,6 +13818,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Morris</Last>
+    <First>Vincent</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>DC00</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/14/2026</FilingDate>
+    <DocID>10073199</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Morrison</Last>
     <First>Curtis</First>
     <Suffix />
@@ -18903,6 +18925,17 @@
     <Last>Teixeira</Last>
     <First>Mark Charles</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX21</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/14/2026</FilingDate>
+    <DocID>10073192</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Teixeira</Last>
+    <First>Mark Charles</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>TX21</StateDst>
     <Year>2025</Year>
@@ -19458,6 +19491,17 @@
     <Year>2025</Year>
     <FilingDate>1/5/2026</FilingDate>
     <DocID>10073128</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ulrich</Last>
+    <First>Sarah</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>FL07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/6/2026</FilingDate>
+    <DocID>8221295</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -20492,6 +20536,17 @@
     <Year>2025</Year>
     <FilingDate>11/10/2025</FilingDate>
     <DocID>8221233</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wied</Last>
+    <First>Tony</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WI08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/9/2026</FilingDate>
+    <DocID>8221297</DocID>
   </Member>
   <Member>
     <Prefix />
