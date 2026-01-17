@@ -3998,6 +3998,17 @@
     <Last>Cooke</Last>
     <First>Rebecca</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>WI03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/15/2026</FilingDate>
+    <DocID>10073211</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cooke</Last>
+    <First>Rebecca</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>WI03</StateDst>
     <Year>2025</Year>
@@ -6522,6 +6533,17 @@
     <Year>2025</Year>
     <FilingDate>7/28/2025</FilingDate>
     <DocID>10071911</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fondren</Last>
+    <First>Jay</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/15/2026</FilingDate>
+    <DocID>10073214</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -14555,6 +14577,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Oberacker</Last>
+    <First>Peter Karl</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>NY19</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/15/2026</FilingDate>
+    <DocID>10072975</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Oberweis</Last>
     <First>James</First>
     <Suffix />
@@ -14794,6 +14827,17 @@
     <Year>2025</Year>
     <FilingDate>5/16/2025</FilingDate>
     <DocID>10069211</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Padora</Last>
+    <First>John J.</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>A</FilingType>
+    <StateDst>CO04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/15/2026</FilingDate>
+    <DocID>10073212</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15443,6 +15487,17 @@
     <Year>2025</Year>
     <FilingDate>11/12/2025</FilingDate>
     <DocID>10072810</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Peterson</Last>
+    <First>Cortney</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/15/2026</FilingDate>
+    <DocID>10072988</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -16246,6 +16301,17 @@
     <Year>2025</Year>
     <FilingDate>7/25/2025</FilingDate>
     <DocID>10071804</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Reeside</Last>
+    <First>William Oliver</First>
+    <Suffix>Jr.</Suffix>
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2025</Year>
+    <FilingDate />
+    <DocID>8221300</DocID>
   </Member>
   <Member>
     <Prefix />
