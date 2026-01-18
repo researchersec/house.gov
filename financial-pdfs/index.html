@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Financial Disclosure Viewer - Interactive table for exploring financial disclosure records">
+    <meta name="keywords" content="financial disclosure, government transparency, data visualization">
+    <title>Financial Disclosure Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="header__title">Financial Disclosure Viewer</h1>
+            <p class="header__subtitle">Explore financial disclosure records with advanced search and filtering</p>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Controls Section -->
+            <section class="controls">
+                <div class="controls__search">
+                    <input 
+                        type="text" 
+                        id="searchInput" 
+                        class="search-input" 
+                        placeholder="Search across all fields..."
+                        aria-label="Search financial disclosure records"
+                    >
+                    <button type="button" class="btn btn--clear" id="clearSearch" aria-label="Clear search">
+                        Clear
+                    </button>
+                </div>
+                
+                <div class="controls__actions">
+                    <button type="button" class="btn btn--primary" id="exportBtn" aria-label="Export filtered results to CSV">
+                        Export CSV
+                    </button>
+                    <button type="button" class="btn btn--secondary" id="legendBtn" aria-label="Show filing type legend">
+                        Filing Types
+                    </button>
+                </div>
+            </section>
+
+            <!-- Stats Section -->
+            <section class="stats" id="statsSection">
+                <div class="stats__item">
+                    <span class="stats__label">Total Records:</span>
+                    <span class="stats__value" id="totalRecords">Loading...</span>
+                </div>
+                <div class="stats__item">
+                    <span class="stats__label">Filtered Results:</span>
+                    <span class="stats__value" id="filteredRecords">Loading...</span>
+                </div>
+                <div class="stats__item">
+                    <span class="stats__label">Date Range:</span>
+                    <span class="stats__value" id="dateRange">Loading...</span>
+                </div>
+            </section>
+
+            <!-- Loading State -->
+            <div class="loading" id="loadingState">
+                <div class="loading__spinner"></div>
+                <p class="loading__text">Loading financial disclosure data...</p>
+            </div>
+
+            <!-- Table Section -->
+            <section class="table-section" id="tableSection" style="display: none;">
+                <div class="table-container">
+                    <table class="data-table" id="dataTable">
+                        <thead>
+                            <tr>
+                                <th class="sortable" data-column="prefix" tabindex="0" role="button" aria-label="Sort by prefix">
+                                    Prefix
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="lastName" tabindex="0" role="button" aria-label="Sort by last name">
+                                    Last Name
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="firstName" tabindex="0" role="button" aria-label="Sort by first name">
+                                    First Name
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="suffix" tabindex="0" role="button" aria-label="Sort by suffix">
+                                    Suffix
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="filingType" tabindex="0" role="button" aria-label="Sort by filing type">
+                                    Filing Type
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="stateDst" tabindex="0" role="button" aria-label="Sort by state/district">
+                                    State/District
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="year" tabindex="0" role="button" aria-label="Sort by year">
+                                    Year
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="filingDate" tabindex="0" role="button" aria-label="Sort by filing date">
+                                    Filing Date
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                                <th class="sortable" data-column="docID" tabindex="0" role="button" aria-label="Sort by document ID">
+                                    Document ID
+                                    <span class="sort-indicator" aria-hidden="true"></span>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            <!-- Table rows will be dynamically generated -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Empty State -->
+                <div class="empty-state" id="emptyState" style="display: none;">
+                    <h3>No results found</h3>
+                    <p>Try adjusting your search terms or clearing the search to see all records.</p>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Filing Type Legend Modal -->
+    <div class="modal" id="legendModal" style="display: none;" role="dialog" aria-labelledby="legendTitle" aria-hidden="true">
+        <div class="modal__backdrop" id="modalBackdrop"></div>
+        <div class="modal__content">
+            <div class="modal__header">
+                <h2 id="legendTitle">Filing Type Legend</h2>
+                <button type="button" class="modal__close" id="closeModal" aria-label="Close legend">×</button>
+            </div>
+            <div class="modal__body">
+                <dl class="legend-list">
+                    <dt>P</dt><dd>Periodic Transaction Report</dd>
+                    <dt>A</dt><dd>Annual Financial Disclosure</dd>
+                    <dt>C</dt><dd>Candidate Financial Disclosure</dd>
+                    <dt>T</dt><dd>Termination Report</dd>
+                    <dt>D</dt><dd>Disclosure Statement</dd>
+                    <dt>X</dt><dd>Extension Request</dd>
+                    <dt>W</dt><dd>Waiver Request</dd>
+                    <dt>E</dt><dd>Ethics Agreement</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Financial Disclosure Viewer. Data processing happens entirely in your browser.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
