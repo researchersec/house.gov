@@ -687,6 +687,17 @@
     <Last>Atwell</Last>
     <First>Daltson Theodore</First>
     <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>MI09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>8029</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Atwell</Last>
+    <First>Daltson Theodore</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>MI09</StateDst>
     <Year>2025</Year>
@@ -1902,6 +1913,17 @@
     <Year>2025</Year>
     <FilingDate>9/23/2025</FilingDate>
     <DocID>10072461</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bottcher</Last>
+    <First>Erik</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>NY12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>8039</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3140,6 +3162,17 @@
     <Last>Chaaban</Last>
     <First>Marc</First>
     <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>8031</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Chaaban</Last>
+    <First>Marc</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NJ11</StateDst>
     <Year>2025</Year>
@@ -3200,6 +3233,17 @@
     <Year>2025</Year>
     <FilingDate>10/28/2025</FilingDate>
     <DocID>10072735</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Chan</Last>
+    <First>Connie</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>10072956</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13161,6 +13205,17 @@
     <Last>Mejia</Last>
     <First>Analilia</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>10073067</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mejia</Last>
+    <First>Analilia</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NJ11</StateDst>
     <Year>2025</Year>
@@ -17415,6 +17470,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Scheel</Last>
+    <First>Tomas Roberto</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>WA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>40004894</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Scheppelman</Last>
     <First>Hope G.</First>
     <Suffix />
@@ -19197,6 +19263,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Thurow</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>WI06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>40004896</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Tijerina</Last>
     <First>Tano</First>
     <Suffix />
@@ -19824,6 +19901,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Villarreal</Last>
+    <First>Ricardo</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX21</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>10073233</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Villegas</Last>
     <First>Randy</First>
     <Suffix />
@@ -19843,6 +19931,17 @@
     <Year>2025</Year>
     <FilingDate>5/13/2025</FilingDate>
     <DocID>10067625</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Virts</Last>
+    <First>Terry</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX09</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>10073063</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -20030,6 +20129,17 @@
     <Year>2025</Year>
     <FilingDate>1/9/2026</FilingDate>
     <DocID>10073177</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Walls-Windhauser</Last>
+    <First>Angela Marie</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>FL10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>40004893</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -21207,6 +21317,17 @@
     <Year>2025</Year>
     <FilingDate>12/2/2025</FilingDate>
     <DocID>10072930</DocID>
+  </Member>
+  <Member>
+    <Prefix>Ms.</Prefix>
+    <Last>Zabriskie</Last>
+    <First>Kathryn (Kate)</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/20/2026</FilingDate>
+    <DocID>8041</DocID>
   </Member>
   <Member>
     <Prefix>Ms.</Prefix>
