@@ -3642,6 +3642,17 @@
     <DocID>30025466</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Cohen</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NE03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025638</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Cohen</Last>
     <First>Steve</First>
@@ -4025,6 +4036,17 @@
     <Year>2025</Year>
     <FilingDate>12/15/2025</FilingDate>
     <DocID>30025582</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Conway</Last>
+    <First>George</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NY12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025644</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13205,6 +13227,17 @@
     <Last>Mejia</Last>
     <First>Analilia</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>10073236</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mejia</Last>
+    <First>Analilia</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>NJ11</StateDst>
     <Year>2025</Year>
@@ -14852,6 +14885,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Ortega</Last>
+    <First>Matt</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025637</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Ortiz</Last>
     <First>Karen</First>
     <Suffix />
@@ -16477,6 +16521,17 @@
     <Year>2025</Year>
     <FilingDate>8/12/2025</FilingDate>
     <DocID>30025351</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Register</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025641</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -18207,6 +18262,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Smullen</Last>
+    <First>Robert</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>NY21</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025643</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Snow</Last>
     <First>Patty</First>
     <Suffix />
@@ -18303,6 +18369,17 @@
     <Year>2025</Year>
     <FilingDate>9/16/2025</FilingDate>
     <DocID>10072468</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Soriano</Last>
+    <First>Gavriel Eliyahu</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025639</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -19274,6 +19351,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Thurow</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>WI06</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025632</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Tijerina</Last>
     <First>Tano</First>
     <Suffix />
@@ -19604,6 +19692,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Turnage</Last>
+    <First>Evan</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MS02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>30025642</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Turner</Last>
     <First>Sylvester</First>
     <Suffix />
@@ -19887,6 +19986,17 @@
     <Year>2025</Year>
     <FilingDate>9/23/2025</FilingDate>
     <DocID>40004845</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Villareal</Last>
+    <First>Lacey</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/21/2026</FilingDate>
+    <DocID>10073239</DocID>
   </Member>
   <Member>
     <Prefix />
