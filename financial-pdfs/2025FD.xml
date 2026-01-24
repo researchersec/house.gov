@@ -712,6 +712,17 @@
     <FilingType>D</FilingType>
     <StateDst>TX20</StateDst>
     <Year>2025</Year>
+    <FilingDate>1/5/2026</FilingDate>
+    <DocID>8221307</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Atwood</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TX20</StateDst>
+    <Year>2025</Year>
     <FilingDate>1/6/2026</FilingDate>
     <DocID>8221288</DocID>
   </Member>
@@ -9773,6 +9784,17 @@
     <Last>Johnson</Last>
     <First>Cliff</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MS01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/22/2026</FilingDate>
+    <DocID>10072664</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Johnson</Last>
+    <First>Cliff</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>MS01</StateDst>
     <Year>2025</Year>
@@ -17060,6 +17082,17 @@
     <Year>2025</Year>
     <FilingDate>12/11/2025</FilingDate>
     <DocID>8221270</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rogers</Last>
+    <First>Harold Dallas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>KY05</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/16/2026</FilingDate>
+    <DocID>8221310</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
