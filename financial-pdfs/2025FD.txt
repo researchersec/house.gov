@@ -102,6 +102,7 @@ Mr.	Barbee	James Bob		C	TX19	2025	12/24/2025	10073092
 	Barrett	Joseph Michael		C	TN07	2025	9/6/2025	10072375
 	Barringer	Paul		C	NC13	2025	6/21/2025	10071607
 	Barringer	Paul		X	NC13	2025	6/26/2025	30025218
+	Barrios	Dan F.		C	TX32	2025	1/29/2026	10073175
 	Barrios	Dan F.		X	TX32	2025	1/12/2026	30025628
 Mr.	Bartie	Thurman Bill		C	TX14	2025	11/30/2025	10072860
 	Bean	Melissa Luburich		C	IL08	2025	1/8/2026	10073090
@@ -524,6 +525,7 @@ Dr.	Douglass	Eugene Farley Dr		C	NC02	2025	5/3/2025	10067240
 Mr.	Duffin	Michael Christian		C	VA08	2025	1/5/2026	10072620
 Mr.	Duffin	Michael Christian		X	VA08	2025	10/16/2025	9115693
 Hon.	Duncan	Jeff		T	SC03	2025	1/22/2025	10063270
+	Dunlap	Matt		C	ME02	2025	1/29/2026	10073110
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2025	3/10/2025	20027895
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2025	4/3/2025	20029068
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2025	8/13/2025	20030735
@@ -786,6 +788,7 @@ Mr.	Harris	Diop Jermaine	II	C	MI04	2025	6/30/2025	10070304
 	Harvie	Robert J.	Jr.	C	PA01	2025	8/13/2025	10067019
 	Hassan	Amir		C	MI08	2025	11/10/2025	10072010
 	Hassan	Amir		X	MI08	2025	8/12/2025	30025358
+	Hathaway	Joe		C	NJ11	2025	1/29/2026	10073253
 	Hathaway	Joe		X	NJ11	2025	11/4/2025	8221222
 	Hatley	Chris		C	TX27	2025	10/27/2025	10072730
 	Hawatmeh	Ola Nesheswat		A	FL19	2025	1/27/2026	10073269
@@ -1327,6 +1330,7 @@ Mr.	Nazhat	Enayat		D	CA07	2025	11/18/2025	40004864
 	Neal	Joyce Elaine		A	TN05	2025	5/24/2025	10070318
 	Neal	Joyce Elaine		C	TN05	2025	5/24/2025	10070317
 	Neidhart	David		C	CA27	2025	10/10/2025	10072632
+	Nemorin	Dalourny		C	NY15	2025	1/29/2026	10073028
 	Nemorin	Dalourny		X	NY15	2025	11/4/2025	8221219
 	Nemorin	Dalourny		X	NY15	2025	12/22/2025	30025594
 Hon.	Newhouse	Dan		P	WA04	2025	5/16/2025	20030292
@@ -1877,6 +1881,7 @@ Mr.	Wechtaluk	Ethan Parrott		C	MD06	2025	8/8/2025	10072057
 	Wedgeworth	Chasity		C	TX13	2025	10/24/2025	10072713
 Mr.	Weland	Jason Patrick		W	CA05	2025	3/3/2025	8002
 Mr.	Welford	Kofinsia Clyde Anthony		C	MI02	2025	1/2/2026	10073134
+	Wellman	Frederick Paul		C	MO02	2025	1/29/2026	10072743
 	Wellman	Frederick Paul		X	MO02	2025	11/4/2025	30025504
 	Wellman	Frederick Paul		X	MO02	2025	1/6/2026	30025617
 Hon.	Wenstrup	Brad R.		T	OH02	2025	3/4/2025	10063304

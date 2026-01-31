@@ -1138,6 +1138,17 @@
     <Last>Barrios</Last>
     <First>Dan F.</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX32</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/29/2026</FilingDate>
+    <DocID>10073175</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Barrios</Last>
+    <First>Dan F.</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX32</StateDst>
     <Year>2025</Year>
@@ -5776,6 +5787,17 @@
     <DocID>10063270</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Dunlap</Last>
+    <First>Matt</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>ME02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/29/2026</FilingDate>
+    <DocID>10073110</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Dunn</Last>
     <First>Neal Patrick MD, Facs</First>
@@ -8656,6 +8678,17 @@
     <Year>2025</Year>
     <FilingDate>8/12/2025</FilingDate>
     <DocID>30025358</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hathaway</Last>
+    <First>Joe</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/29/2026</FilingDate>
+    <DocID>10073253</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14607,6 +14640,17 @@
     <Year>2025</Year>
     <FilingDate>10/10/2025</FilingDate>
     <DocID>10072632</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Nemorin</Last>
+    <First>Dalourny</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/29/2026</FilingDate>
+    <DocID>10073028</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -20657,6 +20701,17 @@
     <Year>2025</Year>
     <FilingDate>1/2/2026</FilingDate>
     <DocID>10073134</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wellman</Last>
+    <First>Frederick Paul</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/29/2026</FilingDate>
+    <DocID>10072743</DocID>
   </Member>
   <Member>
     <Prefix />
