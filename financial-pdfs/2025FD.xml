@@ -115,6 +115,28 @@
     <Last>Ager</Last>
     <First>Jamie Peterson</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NC11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10073311</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Ager</Last>
+    <First>Jamie Peterson</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NC11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10073313</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Ager</Last>
+    <First>Jamie Peterson</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>NC11</StateDst>
     <Year>2025</Year>
@@ -7325,6 +7347,17 @@
     <Year>2025</Year>
     <FilingDate>1/8/2025</FilingDate>
     <DocID>10063229</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Garcia</Last>
+    <First>Patty</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10073274</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -16197,6 +16230,17 @@
     <Last>Pinto</Last>
     <First>Brooke</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>DC00</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10072752</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pinto</Last>
+    <First>Brooke</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>DC00</StateDst>
     <Year>2025</Year>
@@ -17357,6 +17401,17 @@
     <Year>2025</Year>
     <FilingDate>1/16/2026</FilingDate>
     <DocID>8221310</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Rogers</Last>
+    <First>John William</First>
+    <Suffix>III</Suffix>
+    <FilingType>D</FilingType>
+    <StateDst>NC11</StateDst>
+    <Year>2025</Year>
+    <FilingDate>1/10/2026</FilingDate>
+    <DocID>8221317</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -18765,6 +18820,17 @@
     <Year>2025</Year>
     <FilingDate>7/13/2025</FilingDate>
     <DocID>10071773</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Stanford</Last>
+    <First>Ala</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10072759</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -20404,6 +20470,17 @@
     <Year>2025</Year>
     <FilingDate>12/1/2025</FilingDate>
     <DocID>30025552</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Vo</Last>
+    <First>Chuong</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA45</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/2/2026</FilingDate>
+    <DocID>10072720</DocID>
   </Member>
   <Member>
     <Prefix />
