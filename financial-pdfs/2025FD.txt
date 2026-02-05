@@ -1359,6 +1359,7 @@ Hon.	Nickel	Wiley		X	NC13	2025	1/22/2025	30022477
 Hon.	Norcross	Donald W.		P	NJ01	2025	9/4/2025	20030894
 Hon.	Norton	Eleanor Holmes		P	DC00	2025	3/11/2025	20027950
 Hon.	Norton	Eleanor Holmes		P	DC00	2025	10/21/2025	20033318
+	Noveletsky	Hollie T.		C	NH01	2025	2/3/2026	10073286
 	Noveletsky	Hollie T.		X	NH01	2025	10/23/2025	8221211
 	Oakley	Angel		D	IL03	2025	12/3/2025	40004877
 	Oakley	Angel		X	IL03	2025	9/24/2025	30025431
