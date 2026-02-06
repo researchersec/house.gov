@@ -1806,6 +1806,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bius</Last>
+    <First>Walter Benjamin</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX10</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/4/2026</FilingDate>
+    <DocID>10073309</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Blaha</Last>
     <First>Dylan Thomas</First>
     <Suffix />
@@ -2727,6 +2738,17 @@
     <Year>2025</Year>
     <FilingDate>7/13/2025</FilingDate>
     <DocID>10071740</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Burt</Last>
+    <First>Steven</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>UT04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/5/2026</FilingDate>
+    <DocID>10072763</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -4944,6 +4966,17 @@
     <Last>De La Cruz</Last>
     <First>Carlos</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX35</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/4/2026</FilingDate>
+    <DocID>10072719</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>De La Cruz</Last>
+    <First>Carlos</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>TX35</StateDst>
     <Year>2025</Year>
@@ -5389,6 +5422,17 @@
     <Year>2025</Year>
     <FilingDate>1/6/2026</FilingDate>
     <DocID>30025616</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Deville</Last>
+    <First>Katrina Violetta</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>WI08</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/4/2026</FilingDate>
+    <DocID>30025654</DocID>
   </Member>
   <Member>
     <Prefix />
