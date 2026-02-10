@@ -965,6 +965,8 @@ Hon.	Keating	William R.		P	MA09	2025	6/23/2025	20030174
 Hon.	Keating	William R.		P	MA09	2025	9/4/2025	20031014
 Hon.	Keating	William R.		P	MA09	2025	12/16/2025	20033628
 	Keissieh	Claude Manuel		C	CA41	2025	9/9/2025	10072406
+	Keith	James Felton		C	NY13	2025	2/7/2026	10073290
+	Keith	James Felton		C	NY13	2025	2/7/2026	10073290
 Mrs.	Kelley	Erica Elizabeth		C	OH05	2025	7/17/2025	10071814
 	Kelloff	Alexander George		C	CO03	2025	8/27/2025	10070268
 	Kelloff	Alexander George		X	CO03	2025	5/28/2025	30024000
@@ -1044,6 +1046,7 @@ Hon.	Kuster	Ann M.		X	NH02	2025	1/16/2025	30022475
 Hon.	Lamborn	Doug		T	CO05	2025	2/11/2025	8220766
 	Lamondin	Richard		C	FL27	2025	10/15/2025	10070376
 	Lamondin	Richard		X	FL27	2025	6/4/2025	30024013
+Mr.	Lander	Brad		C	NY10	2025	2/7/2026	10073250
 Hon.	Landsman	Greg		P	OH01	2025	1/15/2025	20026551
 Hon.	Landsman	Greg		P	OH01	2025	3/5/2025	20027885
 Hon.	Landsman	Greg		P	OH01	2025	4/8/2025	20029084
