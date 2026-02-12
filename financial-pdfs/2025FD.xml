@@ -4284,6 +4284,17 @@
     <Last>Coover</Last>
     <First>Don</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>KS02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10073348</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Coover</Last>
+    <First>Don</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>KS02</StateDst>
     <Year>2025</Year>
@@ -6170,6 +6181,17 @@
     <Year>2025</Year>
     <FilingDate>9/3/2025</FilingDate>
     <DocID>10072267</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Eisenhauer</Last>
+    <First>Michael D.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MT02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/10/2026</FilingDate>
+    <DocID>10073342</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10266,6 +10288,17 @@
   <Member>
     <Prefix />
     <Last>Jones</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AR02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/10/2026</FilingDate>
+    <DocID>10072302</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
     <First>David Allen</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -12385,6 +12418,17 @@
     <Year>2025</Year>
     <FilingDate>12/26/2025</FilingDate>
     <DocID>10073099</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Luria</Last>
+    <First>Elaine</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/10/2026</FilingDate>
+    <DocID>10072870</DocID>
   </Member>
   <Member>
     <Prefix />
