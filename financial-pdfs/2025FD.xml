@@ -2491,6 +2491,17 @@
     <Last>Brown</Last>
     <First>Dan</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>SC01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10072827</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Brown</Last>
+    <First>Dan</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>SC01</StateDst>
     <Year>2025</Year>
@@ -6181,6 +6192,17 @@
     <Year>2025</Year>
     <FilingDate>9/3/2025</FilingDate>
     <DocID>10072267</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Eisenhauer</Last>
+    <First>Michael D.</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>MT02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10073349</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -13950,6 +13972,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Milleron</Last>
+    <First>Nadia D.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MA01</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10073352</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Million</Last>
     <First>Lauren</First>
     <Suffix />
@@ -15542,6 +15575,17 @@
     <Year>2025</Year>
     <FilingDate />
     <DocID>8221181</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pardee</Last>
+    <First>Alan</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY12</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10072677</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -19285,6 +19329,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Street</Last>
+    <First>Sharif</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/11/2026</FilingDate>
+    <DocID>10073346</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Strickler</Last>
     <First>Matt</First>
     <Suffix />
@@ -21449,17 +21504,6 @@
     <Year>2025</Year>
     <FilingDate>9/3/2025</FilingDate>
     <DocID>10072203</DocID>
-  </Member>
-  <Member>
-    <Prefix />
-    <Last>Wied</Last>
-    <First>Tony</First>
-    <Suffix />
-    <FilingType>H</FilingType>
-    <StateDst>WI08</StateDst>
-    <Year>2025</Year>
-    <FilingDate>5/14/2025</FilingDate>
-    <DocID>10066607</DocID>
   </Member>
   <Member>
     <Prefix />
