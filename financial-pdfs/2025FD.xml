@@ -3701,6 +3701,17 @@
     <Last>Clemons</Last>
     <First>Stephen</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/14/2026</FilingDate>
+    <DocID>10073148</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Clemons</Last>
+    <First>Stephen</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CA48</StateDst>
     <Year>2025</Year>
@@ -7529,6 +7540,17 @@
     <Last>Gies</Last>
     <First>Aaron</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY23</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/13/2026</FilingDate>
+    <DocID>10072778</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Gies</Last>
+    <First>Aaron</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NY23</StateDst>
     <Year>2025</Year>
@@ -10389,6 +10411,17 @@
     <Last>Jones</Last>
     <First>Gian A.</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY04</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/13/2026</FilingDate>
+    <DocID>10067880</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
+    <First>Gian A.</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NY04</StateDst>
     <Year>2025</Year>
@@ -11505,6 +11538,17 @@
     <Year>2025</Year>
     <FilingDate>1/5/2026</FilingDate>
     <DocID>30025611</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kumar</Last>
+    <First>Mantosh</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA15</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/13/2026</FilingDate>
+    <DocID>10072801</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15424,6 +15468,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Orozco</Last>
+    <First>Jose</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NM02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/14/2026</FilingDate>
+    <DocID>10072984</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Ortega</Last>
     <First>Matt</First>
     <Suffix />
@@ -18558,6 +18613,17 @@
     <DocID>10072831</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Showalter</Last>
+    <First>Reed</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL07</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/13/2026</FilingDate>
+    <DocID>10073358</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Shreve</Last>
     <First>Jefferson</First>
@@ -19106,6 +19172,17 @@
     <Year>2025</Year>
     <FilingDate>11/4/2025</FilingDate>
     <DocID>30025509</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Staten</Last>
+    <First>Geral Defrance</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/14/2026</FilingDate>
+    <DocID>10074367</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -20305,6 +20382,17 @@
     <Year>2025</Year>
     <FilingDate>6/4/2025</FilingDate>
     <DocID>30024016</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Troutman</Last>
+    <First>Eric J.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2025</Year>
+    <FilingDate>2/14/2026</FilingDate>
+    <DocID>10072790</DocID>
   </Member>
   <Member>
     <Prefix />
