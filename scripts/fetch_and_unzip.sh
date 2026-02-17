@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-ZIP_URL="https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025FD.zip"
-DEST_ZIP="2025FD.zip"
+ZIP_URL="https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2026FD.zip"
+DEST_ZIP="2026FD.zip"
 WORKDIR="financial-pdfs"
 
 # create or clean directory
