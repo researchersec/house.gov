@@ -5,7 +5,7 @@ import time
 import os
 
 # Parse the XML file
-xml_path = 'financial-pdfs/2025FD.xml'
+xml_path = 'financial-pdfs/2026FD.xml'
 tree = ET.parse(xml_path)
 root = tree.getroot()
 
