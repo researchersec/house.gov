@@ -1,5 +1,6 @@
 Prefix	Last	First	Suffix	FilingType	StateDst	Year	FilingDate	DocID
 Hon.	Allen	Richard W.		P	GA12	2026	1/15/2026	20033751
+Hon.	Allen	Richard W.		P	GA12	2026	2/17/2026	20033945
 	Amador	Jaliel		C	NY13	2026	1/30/2026	10073252
 	Anderson	Elizabeth		W	AL06	2026	1/20/2026	8036
 	Bartlett	John		C	NJ11	2026	1/14/2026	10073181
@@ -7,6 +8,7 @@ Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
 Hon.	Biggs	Sheri		P	SC03	2026	1/14/2026	20033800
 Hon.	Biggs	Sheri		P	SC03	2026	2/5/2026	20033927
+Hon.	Biggs	Sheri		P	SC03	2026	2/17/2026	20034013
 	Boyd	David Lawrence		D	IN06	2026	1/30/2026	8221329
 	Buckhout	Laurie		C	NC01	2026	1/24/2026	10073198
 	Buckhout	Laurie		X	NC01	2026	1/13/2026	8221292
@@ -40,6 +42,7 @@ Mr.	Frost	Jacob Thomas		C	OH09	2026	1/16/2026	10073215
 Hon.	Gottheimer	Josh		P	NJ05	2026	1/14/2026	20033756
 	Gray	Chuck		X	WY00	2026	2/4/2026	30025652
 Hon.	Greene	Marjorie Taylor		X	GA14	2026	2/4/2026	30025659
+Hon.	Guest	Michael Patrick		P	MS03	2026	2/17/2026	20033944
 	Guidice	Victor		C	MD01	2026	1/18/2026	10073226
 	Hamid	Omed		A	CA11	2026	2/1/2026	10073297
 	Hamid	Omed		C	CA11	2026	2/1/2026	10073243
@@ -72,6 +75,7 @@ Hon.	McClain	Lisa		P	MI09	2026	2/11/2026	20033964
 	McClellan	Kevin Harrison		X	FL20	2026	1/30/2026	30025650
 Hon.	McGuire	John		P	VA05	2026	2/10/2026	20033956
 	McKinney	Amanda		X	WA04	2026	2/9/2026	30025655
+Hon.	Meuser	Daniel		P	PA09	2026	2/17/2026	20034016
 Hon.	Miller	Max		P	OH07	2026	1/29/2026	20033881
 Hon.	Moore	Tim		P	NC14	2026	1/7/2026	20033746
 Hon.	Moore	Tim		P	NC14	2026	1/24/2026	20033856
@@ -93,6 +97,7 @@ Mr.	Roark	Keil Louis		C	IN09	2026	1/25/2026	10073256
 	Robinson	Michael D.		C	PA10	2026	2/11/2026	10073298
 	Rogers	Doug		C	TX36	2026	2/15/2026	10073187
 	Rogers	Doug		X	TX36	2026	1/13/2026	8221293
+Hon.	Rogers	Harold Dallas		P	KY05	2026	2/13/2026	8221332
 Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033758
 Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033759
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
