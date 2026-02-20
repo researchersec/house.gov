@@ -46,6 +46,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Balow</Last>
+    <First>Jillian</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>WY00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/18/2026</FilingDate>
+    <DocID>30025664</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Bartlett</Last>
     <First>John</First>
     <Suffix />
@@ -538,6 +549,17 @@
     <Year>2026</Year>
     <FilingDate>1/22/2026</FilingDate>
     <DocID>20033829</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/18/2026</FilingDate>
+    <DocID>20034012</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1134,6 +1156,17 @@
     <DocID>30025633</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Shepard</Last>
+    <First>Casey</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/18/2026</FilingDate>
+    <DocID>10073306</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Shreve</Last>
     <First>Jefferson</First>
@@ -1264,6 +1297,17 @@
     <Year>2026</Year>
     <FilingDate>1/9/2026</FilingDate>
     <DocID>10073174</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Weeks</Last>
+    <First>Carter Jordan</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/18/2026</FilingDate>
+    <DocID>40004902</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
