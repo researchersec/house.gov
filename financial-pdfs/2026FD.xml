@@ -144,6 +144,17 @@
     <DocID>8221329</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bresnahan</Last>
+    <First>Rob</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/22/2026</FilingDate>
+    <DocID>20034044</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Buckhout</Last>
     <First>Laurie</First>
@@ -926,6 +937,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/20/2026</FilingDate>
+    <DocID>20034034</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Morrison</Last>
     <First>Kelly Louise</First>
     <Suffix />
@@ -1102,6 +1124,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Robinson</Last>
+    <First>Michael D.</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>PA10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/20/2026</FilingDate>
+    <DocID>8043</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Rogers</Last>
     <First>Doug</First>
     <Suffix />
@@ -1275,6 +1308,17 @@
     <Year>2026</Year>
     <FilingDate>2/2/2026</FilingDate>
     <DocID>20033918</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/20/2026</FilingDate>
+    <DocID>20034036</DocID>
   </Member>
   <Member>
     <Prefix />
