@@ -31,6 +31,7 @@ Hon.	DelBene	Suzan K.		P	WA01	2026	1/23/2026	20033835
 	Diep	Christopher		D	NY12	2026	1/20/2026	8221308
 	Diep	Christopher		D	NY12	2026	1/20/2026	8221328
 Hon.	Dingell	Debbie		P	MI06	2026	1/12/2026	20033744
+Hon.	Dingell	Debbie		P	MI06	2026	2/23/2026	20034035
 Hon.	Doggett	Lloyd		P	TX37	2026	1/2/2026	20033713
 Hon.	Donalds	Byron		P	FL19	2026	1/7/2026	20033747
 Hon.	Donalds	Byron		P	FL19	2026	1/9/2026	20033780
@@ -40,6 +41,7 @@ Hon.	Donalds	Byron		P	FL19	2026	2/12/2026	20033981
 Hon.	Fleischmann	Charles J. "Chuck"		P	TN03	2026	2/9/2026	8221321
 Hon.	Foxx	Virginia		P	NC05	2026	1/5/2026	20033734
 Hon.	Foxx	Virginia		P	NC05	2026	2/6/2026	20033947
+Hon.	Franklin	Scott Scott		P	FL18	2026	2/23/2026	20034050
 Mr.	Frost	Jacob Thomas		C	OH09	2026	1/16/2026	10073215
 	Gonzalez	Aiden Alexander		C	PA07	2026	1/27/2026	10073267
 Hon.	Gottheimer	Josh		P	NJ05	2026	1/14/2026	20033756
@@ -58,6 +60,7 @@ Hon.	Hill	James French		P	AR02	2026	1/23/2026	20033661
 	Howard	Heath		X	NH01	2026	2/10/2026	8221325
 	Hueffmeier	Brett		X	MO05	2026	2/4/2026	30025651
 Hon.	Jackson	Jonathan		P	IL01	2026	1/8/2026	20033739
+Hon.	Jackson	Jonathan		P	IL01	2026	2/23/2026	20033929
 Hon.	Johnson	Julie		P	TX32	2026	1/15/2026	20033789
 Hon.	Jordan	James D		P	OH04	2026	1/14/2026	20033803
 	Kalai	Alexander Zachary		C	TX07	2026	2/1/2026	10073301
@@ -100,6 +103,7 @@ Hon.	Pfluger	August Lee	II	P	TX11	2026	2/11/2026	20033920
 	Reynoso	Antonio		X	NY07	2026	1/5/2026	8221289
 Mr.	Roark	Keil Louis		A	IN09	2026	2/13/2026	10073264
 Mr.	Roark	Keil Louis		C	IN09	2026	1/25/2026	10073256
+	Robinson	Michael		A	PA10	2026	2/23/2026	10074395
 	Robinson	Michael D.		C	PA10	2026	2/11/2026	10073298
 	Robinson	Michael D.		W	PA10	2026	2/20/2026	8043
 	Rogers	Doug		C	TX36	2026	2/15/2026	10073187

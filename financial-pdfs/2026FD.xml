@@ -354,6 +354,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Dingell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/23/2026</FilingDate>
+    <DocID>20034035</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Doggett</Last>
     <First>Lloyd</First>
     <Suffix />
@@ -450,6 +461,17 @@
     <Year>2026</Year>
     <FilingDate>2/6/2026</FilingDate>
     <DocID>20033947</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Franklin</Last>
+    <First>Scott Scott</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL18</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/23/2026</FilingDate>
+    <DocID>20034050</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -648,6 +670,17 @@
     <Year>2026</Year>
     <FilingDate>1/8/2026</FilingDate>
     <DocID>20033739</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Jackson</Last>
+    <First>Jonathan</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IL01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/23/2026</FilingDate>
+    <DocID>20033929</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1110,6 +1143,17 @@
     <Year>2026</Year>
     <FilingDate>1/25/2026</FilingDate>
     <DocID>10073256</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Robinson</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>PA10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/23/2026</FilingDate>
+    <DocID>10074395</DocID>
   </Member>
   <Member>
     <Prefix />
