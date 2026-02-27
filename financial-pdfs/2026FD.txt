@@ -92,6 +92,7 @@ Hon.	Moore	Tim		P	NC14	2026	2/20/2026	20034034
 Hon.	Morrison	Kelly Louise		P	MN03	2026	1/20/2026	20033830
 Hon.	Morrison	Kelly Louise		P	MN03	2026	2/4/2026	20033928
 Hon.	Morrison	Kelly Louise		P	MN03	2026	2/12/2026	20033989
+Hon.	Morrison	Kelly Louise		P	MN03	2026	2/25/2026	20034056
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
 	Morton	Maurice Gerard		X	MI13	2026	1/21/2026	30025640
 Hon.	Moskowitz	Jared		P	FL23	2026	1/16/2026	20033760
