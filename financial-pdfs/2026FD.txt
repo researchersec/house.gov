@@ -46,6 +46,7 @@ Hon.	Franklin	Scott Scott		P	FL18	2026	2/23/2026	20034050
 Mr.	Frost	Jacob Thomas		C	OH09	2026	1/16/2026	10073215
 	Gonzalez	Aiden Alexander		C	PA07	2026	1/27/2026	10073267
 Hon.	Gottheimer	Josh		P	NJ05	2026	1/14/2026	20033756
+Hon.	Gottheimer	Josh		P	NJ05	2026	2/26/2026	20033930
 	Gray	Chuck		X	WY00	2026	2/4/2026	30025652
 Hon.	Greene	Marjorie Taylor		X	GA14	2026	2/4/2026	30025659
 Hon.	Guest	Michael Patrick		P	MS03	2026	2/17/2026	20033944
@@ -69,6 +70,7 @@ Hon.	Jordan	James D		P	OH04	2026	1/14/2026	20033803
 Hon.	Kean	Thomas H.	Jr	P	NJ07	2026	1/16/2026	20033821
 Hon.	Kean	Thomas H.	Jr	P	NJ07	2026	2/19/2026	20034025
 Hon.	Keating	William R.		P	MA09	2026	2/6/2026	20033946
+Hon.	Keating	William R.		P	MA09	2026	2/26/2026	20034068
 Hon.	Kelly	Mike		P	PA16	2026	1/8/2026	20033763
 Hon.	Kelly	Mike		P	PA16	2026	2/12/2026	20033991
 Hon.	Khanna	Rohit		P	CA17	2026	2/6/2026	8221322
