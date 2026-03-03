@@ -8,6 +8,7 @@ Hon.	Auchincloss	Jake		P	MA04	2026	2/19/2026	20034024
 	Bartlett	John		C	NJ11	2026	1/14/2026	10073181
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
+Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	3/1/2026	20034085
 Hon.	Biggs	Sheri		P	SC03	2026	1/14/2026	20033800
 Hon.	Biggs	Sheri		P	SC03	2026	2/5/2026	20033927
 Hon.	Biggs	Sheri		P	SC03	2026	2/17/2026	20034013
