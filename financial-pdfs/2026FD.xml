@@ -486,6 +486,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Foxx</Last>
+    <First>Virginia</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/2/2026</FilingDate>
+    <DocID>20034095</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Franklin</Last>
     <First>Scott Scott</First>
     <Suffix />
@@ -1068,6 +1079,17 @@
     <DocID>20034056</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/2/2026</FilingDate>
+    <DocID>20034082</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Morton</Last>
     <First>Maurice Gerard</First>
@@ -1187,6 +1209,17 @@
     <Year>2026</Year>
     <FilingDate>1/5/2026</FilingDate>
     <DocID>8221289</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Richter</Last>
+    <First>Ernest</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA33</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/2/2026</FilingDate>
+    <DocID>10074430</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -1319,6 +1352,17 @@
     <Year>2026</Year>
     <FilingDate>1/21/2026</FilingDate>
     <DocID>30025633</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Sheahan</Last>
+    <First>Madison Dean</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/2/2026</FilingDate>
+    <DocID>10074388</DocID>
   </Member>
   <Member>
     <Prefix />

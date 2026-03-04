@@ -43,6 +43,7 @@ Hon.	Donalds	Byron		P	FL19	2026	2/12/2026	20033981
 Hon.	Fleischmann	Charles J. "Chuck"		P	TN03	2026	2/9/2026	8221321
 Hon.	Foxx	Virginia		P	NC05	2026	1/5/2026	20033734
 Hon.	Foxx	Virginia		P	NC05	2026	2/6/2026	20033947
+Hon.	Foxx	Virginia		P	NC05	2026	3/2/2026	20034095
 Hon.	Franklin	Scott Scott		P	FL18	2026	2/23/2026	20034050
 Mr.	Frost	Jacob Thomas		C	OH09	2026	1/16/2026	10073215
 	Gonzalez	Aiden Alexander		C	PA07	2026	1/27/2026	10073267
@@ -96,6 +97,7 @@ Hon.	Morrison	Kelly Louise		P	MN03	2026	1/20/2026	20033830
 Hon.	Morrison	Kelly Louise		P	MN03	2026	2/4/2026	20033928
 Hon.	Morrison	Kelly Louise		P	MN03	2026	2/12/2026	20033989
 Hon.	Morrison	Kelly Louise		P	MN03	2026	2/25/2026	20034056
+Hon.	Morrison	Kelly Louise		P	MN03	2026	3/2/2026	20034082
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
 	Morton	Maurice Gerard		X	MI13	2026	1/21/2026	30025640
 Hon.	Moskowitz	Jared		P	FL23	2026	1/16/2026	20033760
@@ -107,6 +109,7 @@ Hon.	Peters	Scott H.		P	CA50	2026	2/25/2026	20034010
 Hon.	Pfluger	August Lee	II	P	TX11	2026	1/20/2026	20033804
 Hon.	Pfluger	August Lee	II	P	TX11	2026	2/11/2026	20033920
 	Reynoso	Antonio		X	NY07	2026	1/5/2026	8221289
+	Richter	Ernest		C	CA33	2026	3/2/2026	10074430
 Mr.	Roark	Keil Louis		A	IN09	2026	2/13/2026	10073264
 Mr.	Roark	Keil Louis		C	IN09	2026	1/25/2026	10073256
 	Robinson	Michael		A	PA10	2026	2/23/2026	10074395
@@ -119,6 +122,7 @@ Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033758
 Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033759
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 	Servance	Squire		X	NJ12	2026	1/21/2026	30025633
+	Sheahan	Madison Dean		C	OH09	2026	3/2/2026	10074388
 	Shepard	Casey		C	TX17	2026	2/18/2026	10073306
 Hon.	Shreve	Jefferson		P	IN06	2026	1/1/2026	20033705
 Hon.	Shreve	Jefferson		P	IN06	2026	1/2/2026	20033709
