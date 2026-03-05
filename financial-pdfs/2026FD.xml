@@ -145,6 +145,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Boehnke</Last>
+    <First>Matthew</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>WA04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/23/2026</FilingDate>
+    <DocID>8221350</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Boyd</Last>
     <First>David Lawrence</First>
     <Suffix />
@@ -1090,6 +1101,17 @@
     <DocID>20034082</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/3/2026</FilingDate>
+    <DocID>20034102</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Morton</Last>
     <First>Maurice Gerard</First>
@@ -1421,6 +1443,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Story</Last>
+    <First>Jeremy</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/3/2026</FilingDate>
+    <DocID>10074442</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Stover</Last>
     <First>Brian C.</First>
     <Suffix />
@@ -1495,6 +1528,17 @@
     <Year>2026</Year>
     <FilingDate>1/31/2026</FilingDate>
     <DocID>10073293</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Vondras</Last>
+    <First>Joan</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MO02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>2/18/2026</FilingDate>
+    <DocID>8221351</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
