@@ -288,6 +288,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Cohen</Last>
+    <First>Steve</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/5/2026</FilingDate>
+    <DocID>20034119</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Collins</Last>
     <First>Michael A.</First>
     <Suffix>Jr</Suffix>
@@ -395,6 +406,17 @@
     <Year>2026</Year>
     <FilingDate>1/2/2026</FilingDate>
     <DocID>20033713</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX37</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/5/2026</FilingDate>
+    <DocID>20034132</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -672,6 +694,17 @@
     <DocID>20034012</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/6/2026</FilingDate>
+    <DocID>20034128</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Hicks-Callaway</Last>
     <First>Vanessa F.</First>
@@ -727,6 +760,17 @@
     <DocID>30025651</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Hueffmeier</Last>
+    <First>Brett</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MO05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/5/2026</FilingDate>
+    <DocID>30026671</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Jackson</Last>
     <First>Jonathan</First>
@@ -758,6 +802,17 @@
     <Year>2026</Year>
     <FilingDate>1/15/2026</FilingDate>
     <DocID>20033789</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
+    <First>Micah Q.</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/5/2026</FilingDate>
+    <DocID>30026672</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1132,6 +1187,17 @@
     <Year>2026</Year>
     <FilingDate>3/3/2026</FilingDate>
     <DocID>20034102</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/5/2026</FilingDate>
+    <DocID>20034123</DocID>
   </Member>
   <Member>
     <Prefix />
