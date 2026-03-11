@@ -255,6 +255,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Cisneros</Last>
+    <First>Gilbert</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA31</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/9/2026</FilingDate>
+    <DocID>20034144</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Cohen</Last>
     <First>Steve</First>
     <Suffix />
@@ -1484,6 +1495,17 @@
     <Year>2026</Year>
     <FilingDate>1/21/2026</FilingDate>
     <DocID>30025633</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Sessions</Last>
+    <First>Pete</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/9/2026</FilingDate>
+    <DocID>20033500</DocID>
   </Member>
   <Member>
     <Prefix />
