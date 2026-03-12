@@ -343,6 +343,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Delaney</Last>
+    <First>April McClain</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/10/2026</FilingDate>
+    <DocID>20034159</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>DelBene</Last>
     <First>Suzan K.</First>
     <Suffix />
@@ -1220,6 +1231,17 @@
     <Year>2026</Year>
     <FilingDate>3/5/2026</FilingDate>
     <DocID>20034123</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/10/2026</FilingDate>
+    <DocID>20034156</DocID>
   </Member>
   <Member>
     <Prefix />

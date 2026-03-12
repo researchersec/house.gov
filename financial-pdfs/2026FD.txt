@@ -30,6 +30,7 @@ Hon.	Cohen	Steve		P	TN09	2026	3/5/2026	20034119
 Hon.	Collins	Michael A.	Jr	P	GA10	2026	1/20/2026	20033840
 Hon.	Delaney	April McClain		P	MD06	2026	1/5/2026	20033737
 Hon.	Delaney	April McClain		P	MD06	2026	2/2/2026	20033921
+Hon.	Delaney	April McClain		P	MD06	2026	3/10/2026	20034159
 Hon.	DelBene	Suzan K.		P	WA01	2026	1/12/2026	20033766
 Hon.	DelBene	Suzan K.		P	WA01	2026	1/23/2026	20033835
 	Diep	Christopher		D	NY12	2026	1/20/2026	8221308
@@ -110,6 +111,7 @@ Hon.	Morrison	Kelly Louise		P	MN03	2026	2/25/2026	20034056
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/2/2026	20034082
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/3/2026	20034102
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/5/2026	20034123
+Hon.	Morrison	Kelly Louise		P	MN03	2026	3/10/2026	20034156
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
 	Morton	Maurice Gerard		X	MI13	2026	1/21/2026	30025640
 Hon.	Moskowitz	Jared		P	FL23	2026	1/16/2026	20033760
