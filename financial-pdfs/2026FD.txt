@@ -1,6 +1,7 @@
 Prefix	Last	First	Suffix	FilingType	StateDst	Year	FilingDate	DocID
 Hon.	Allen	Richard W.		P	GA12	2026	1/15/2026	20033751
 Hon.	Allen	Richard W.		P	GA12	2026	2/17/2026	20033945
+Hon.	Allen	Richard W.		P	GA12	2026	3/11/2026	20034133
 	Amador	Jaliel		C	NY13	2026	1/30/2026	10073252
 	Anderson	Elizabeth		W	AL06	2026	1/20/2026	8036
 Hon.	Auchincloss	Jake		P	MA04	2026	2/19/2026	20034024
@@ -86,6 +87,7 @@ Hon.	Keating	William R.		P	MA09	2026	2/26/2026	20034068
 Hon.	Kelly	Mike		P	PA16	2026	1/8/2026	20033763
 Hon.	Kelly	Mike		P	PA16	2026	2/12/2026	20033991
 Hon.	Khanna	Rohit		P	CA17	2026	2/6/2026	8221322
+Hon.	Khanna	Rohit		P	CA17	2026	3/9/2026	8221358
 Hon.	Larsen	Rick		P	WA02	2026	1/14/2026	20033814
 Hon.	Latta	Robert E.		P	OH05	2026	1/23/2026	20033857
 Hon.	Letlow	Julia		P	LA05	2026	1/13/2026	20030977
@@ -93,6 +95,7 @@ Hon.	Lofgren	Zoe		P	CA18	2026	1/6/2026	20033738
 Hon.	Matsui	Doris O.		P	CA07	2026	1/9/2026	20033695
 	May	Donald Robert Lee		C	TX19	2026	2/1/2026	10073278
 Hon.	McCaul	Michael T.		P	TX10	2026	2/11/2026	8221326
+Hon.	McCaul	Michael T.		P	TX10	2026	3/10/2026	8221359
 Hon.	McClain	Lisa		P	MI09	2026	1/7/2026	20033736
 Hon.	McClain	Lisa		P	MI09	2026	2/11/2026	20033964
 Hon.	McClain	Lisa		P	MI09	2026	3/4/2026	20034105
@@ -127,6 +130,7 @@ Hon.	Pfluger	August Lee	II	P	TX11	2026	2/11/2026	20033920
 Mr.	Roark	Keil Louis		A	IN09	2026	2/13/2026	10073264
 Mr.	Roark	Keil Louis		C	IN09	2026	1/25/2026	10073256
 	Robinson	Michael		A	PA10	2026	2/23/2026	10074395
+	Robinson	Michael		C	PA10	2026	3/11/2026	10074505
 	Robinson	Michael D.		C	PA10	2026	2/11/2026	10073298
 	Robinson	Michael D.		W	PA10	2026	2/20/2026	8043
 	Rogers	Doug		C	TX36	2026	2/15/2026	10073187
@@ -157,4 +161,5 @@ Hon.	Taylor	David J.		P	OH02	2026	3/6/2026	20034138
 Hon.	Wagner	Ann		P	MO02	2026	1/2/2026	20033718
 	Watson	Colby		C	NC08	2026	1/9/2026	10073174
 	Weeks	Carter Jordan		D	AZ06	2026	2/18/2026	40004902
+	Wied	Tony		P	WI08	2026	3/9/2026	8221360
 Hon.	Williams	Roger		P	TX25	2026	1/15/2026	20033783
