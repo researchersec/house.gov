@@ -188,6 +188,17 @@
     <DocID>20034044</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Bresnahan</Last>
+    <First>Rob</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/18/2026</FilingDate>
+    <DocID>20034202</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Buckhout</Last>
     <First>Laurie</First>
@@ -1520,6 +1531,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Peters</Last>
+    <First>Scott H.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA50</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/18/2026</FilingDate>
+    <DocID>20034178</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Pfluger</Last>
     <First>August Lee</First>
     <Suffix>II</Suffix>
@@ -1539,6 +1561,17 @@
     <Year>2026</Year>
     <FilingDate>2/11/2026</FilingDate>
     <DocID>20033920</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pfluger</Last>
+    <First>August Lee</First>
+    <Suffix>II</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>TX11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/19/2026</FilingDate>
+    <DocID>20034054</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1759,6 +1792,17 @@
     <Year>2026</Year>
     <FilingDate>2/18/2026</FilingDate>
     <DocID>10073306</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Shoaf</Last>
+    <First>Elgin Ledesma</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>NV03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/18/2026</FilingDate>
+    <DocID>8049</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
