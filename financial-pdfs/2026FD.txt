@@ -5,6 +5,7 @@ Hon.	Allen	Richard W.		P	GA12	2026	3/11/2026	20034133
 	Amador	Jaliel		C	NY13	2026	1/30/2026	10073252
 	Anderson	Elizabeth		W	AL06	2026	1/20/2026	8036
 Hon.	Auchincloss	Jake		P	MA04	2026	2/19/2026	20034024
+	Bachman	Ellis		W	GA11	2026	3/19/2026	8050
 	Balow	Jillian		X	WY00	2026	2/18/2026	30025664
 	Bartlett	John		C	NJ11	2026	1/14/2026	10073181
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
