@@ -166,6 +166,17 @@
     <DocID>20034013</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Biggs</Last>
+    <First>Sheri</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>SC03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/21/2026</FilingDate>
+    <DocID>20034195</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Boehnke</Last>
     <First>Matthew</First>
@@ -362,6 +373,17 @@
     <Year>2026</Year>
     <FilingDate>3/5/2026</FilingDate>
     <DocID>20034119</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Collins</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL19</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/17/2026</FilingDate>
+    <DocID>9115707</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -615,6 +637,17 @@
     <Year>2026</Year>
     <FilingDate>2/9/2026</FilingDate>
     <DocID>8221321</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Fleischmann</Last>
+    <First>Charles J. "Chuck"</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/20/2026</FilingDate>
+    <DocID>9115704</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1121,6 +1154,17 @@
     <Year>2026</Year>
     <FilingDate>3/9/2026</FilingDate>
     <DocID>8221358</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Kinner</Last>
+    <First>Jan</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/21/2026</FilingDate>
+    <DocID>10074555</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1707,6 +1751,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Rogers</Last>
+    <First>Harold Dallas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>KY05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/20/2026</FilingDate>
+    <DocID>9115711</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Rouzer</Last>
     <First>David</First>
     <Suffix />
@@ -1748,6 +1803,17 @@
     <Year>2026</Year>
     <FilingDate>3/4/2026</FilingDate>
     <DocID>8047</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Schnell</Last>
+    <First>Alexander</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/22/2026</FilingDate>
+    <DocID>10074556</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1893,6 +1959,17 @@
     <DocID>10073273</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Sundberg</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/17/2026</FilingDate>
+    <DocID>9115708</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Suozzi</Last>
     <First>Thomas</First>
@@ -1959,6 +2036,17 @@
     <DocID>20034138</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/20/2026</FilingDate>
+    <DocID>20034207</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Trobough</Last>
     <First>John</First>
@@ -1979,6 +2067,17 @@
     <Year>2026</Year>
     <FilingDate>1/31/2026</FilingDate>
     <DocID>10073293</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Vitus</Last>
+    <First>Adrian J.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/22/2026</FilingDate>
+    <DocID>10074557</DocID>
   </Member>
   <Member>
     <Prefix />
