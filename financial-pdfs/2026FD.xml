@@ -398,6 +398,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Davidson</Last>
+    <First>Warren</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/25/2026</FilingDate>
+    <DocID>20034223</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Delaney</Last>
     <First>April McClain</First>
     <Suffix />
@@ -1167,6 +1178,17 @@
     <DocID>10074555</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Krzeczkowski</Last>
+    <First>Joe</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CO07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/25/2026</FilingDate>
+    <DocID>40004921</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Larsen</Last>
     <First>Rick</First>
@@ -1572,6 +1594,17 @@
     <Year>2026</Year>
     <FilingDate>1/27/2026</FilingDate>
     <DocID>8221316</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Patty</Last>
+    <First>Bradley M.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/25/2026</FilingDate>
+    <DocID>10074582</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
