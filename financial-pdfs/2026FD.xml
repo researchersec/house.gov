@@ -79,6 +79,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bah</Last>
+    <First>Iman</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/29/2026</FilingDate>
+    <DocID>10074601</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Balow</Last>
     <First>Jillian</First>
     <Suffix />
@@ -604,6 +615,28 @@
     <Year>2026</Year>
     <FilingDate>3/17/2026</FilingDate>
     <DocID>20034114</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ellis</Last>
+    <First>Arthur Carr</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/29/2026</FilingDate>
+    <DocID>10074580</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Esrati</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/27/2026</FilingDate>
+    <DocID>10074591</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1374,6 +1407,17 @@
     <Year>2026</Year>
     <FilingDate>2/9/2026</FilingDate>
     <DocID>30025655</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>McPherson</Last>
+    <First>Paul Bryant</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/28/2026</FilingDate>
+    <DocID>10074411</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
