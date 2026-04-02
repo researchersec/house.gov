@@ -2,6 +2,17 @@
 <FinancialDisclosure>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Alford</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MO04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/31/2026</FilingDate>
+    <DocID>20034201</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Allen</Last>
     <First>Richard W.</First>
     <Suffix />
@@ -120,6 +131,28 @@
     <Year>2026</Year>
     <FilingDate>1/14/2026</FilingDate>
     <DocID>10073181</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Beckett</Last>
+    <First>Janice Castles</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/1/2026</FilingDate>
+    <DocID>10074415</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bedsworth</Last>
+    <First>Gabriella Michele</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/31/2026</FilingDate>
+    <DocID>40004926</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -2188,6 +2221,17 @@
     <Year>2026</Year>
     <FilingDate>3/17/2026</FilingDate>
     <DocID>20034188</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Tabor</Last>
+    <First>Scott Edward</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>OH05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>3/31/2026</FilingDate>
+    <DocID>40004927</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

@@ -1,4 +1,5 @@
 Prefix	Last	First	Suffix	FilingType	StateDst	Year	FilingDate	DocID
+Hon.	Alford	Mark		P	MO04	2026	3/31/2026	20034201
 Hon.	Allen	Richard W.		P	GA12	2026	1/15/2026	20033751
 Hon.	Allen	Richard W.		P	GA12	2026	2/17/2026	20033945
 Hon.	Allen	Richard W.		P	GA12	2026	3/11/2026	20034133
@@ -10,6 +11,8 @@ Hon.	Auchincloss	Jake		P	MA04	2026	2/19/2026	20034024
 	Bah	Iman		C	AZ06	2026	3/29/2026	10074601
 	Balow	Jillian		X	WY00	2026	2/18/2026	30025664
 	Bartlett	John		C	NJ11	2026	1/14/2026	10073181
+	Beckett	Janice Castles		C	OH10	2026	4/1/2026	10074415
+	Bedsworth	Gabriella Michele		D	VA05	2026	3/31/2026	40004926
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	3/1/2026	20034085
@@ -198,6 +201,7 @@ Hon.	Shreve	Jefferson		P	IN06	2026	3/14/2026	20034084
 	Stover	Brian C.		C	GA14	2026	2/9/2026	10073273
 	Sundberg	David		X	MD05	2026	3/17/2026	9115708
 Hon.	Suozzi	Thomas		P	NY03	2026	3/17/2026	20034188
+	Tabor	Scott Edward		D	OH05	2026	3/31/2026	40004927
 Hon.	Taylor	David J.		P	OH02	2026	1/21/2026	20033845
 Hon.	Taylor	David J.		P	OH02	2026	2/2/2026	20033916
 Hon.	Taylor	David J.		P	OH02	2026	2/2/2026	20033918
