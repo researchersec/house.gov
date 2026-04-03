@@ -67,6 +67,17 @@
     <DocID>8036</DocID>
   </Member>
   <Member>
+    <Prefix>Ms.</Prefix>
+    <Last>Arnold</Last>
+    <First>Marie Encar A</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>NV01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/1/2026</FilingDate>
+    <DocID>10074814</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Arnold</Last>
     <First>Marie Encar Arana</First>
@@ -1473,6 +1484,17 @@
     <Year>2026</Year>
     <FilingDate>2/10/2026</FilingDate>
     <DocID>20033956</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>McKenna</Last>
+    <First>Dylan</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/1/2026</FilingDate>
+    <DocID>10074471</DocID>
   </Member>
   <Member>
     <Prefix />
