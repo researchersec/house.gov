@@ -563,6 +563,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Dewell</Last>
+    <First>Ben</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/2/2026</FilingDate>
+    <DocID>10074588</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Diep</Last>
     <First>Christopher</First>
     <Suffix />
@@ -1695,6 +1706,17 @@
     <DocID>20034156</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/2/2026</FilingDate>
+    <DocID>20034213</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Morton</Last>
     <First>Maurice Gerard</First>
@@ -2320,6 +2342,17 @@
     <Year>2026</Year>
     <FilingDate>3/20/2026</FilingDate>
     <DocID>20034207</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/2/2026</FilingDate>
+    <DocID>20034280</DocID>
   </Member>
   <Member>
     <Prefix />

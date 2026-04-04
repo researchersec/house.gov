@@ -50,6 +50,7 @@ Hon.	Delaney	April McClain		P	MD06	2026	3/10/2026	20034159
 Hon.	DelBene	Suzan K.		P	WA01	2026	1/12/2026	20033766
 Hon.	DelBene	Suzan K.		P	WA01	2026	1/23/2026	20033835
 Hon.	DelBene	Suzan K.		P	WA01	2026	3/12/2026	20034155
+	Dewell	Ben		C	CA20	2026	4/2/2026	10074588
 	Diep	Christopher		D	NY12	2026	1/20/2026	8221308
 	Diep	Christopher		D	NY12	2026	1/20/2026	8221328
 Hon.	Dingell	Debbie		P	MI06	2026	1/12/2026	20033744
@@ -153,6 +154,7 @@ Hon.	Morrison	Kelly Louise		P	MN03	2026	3/2/2026	20034082
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/3/2026	20034102
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/5/2026	20034123
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/10/2026	20034156
+Hon.	Morrison	Kelly Louise		P	MN03	2026	4/2/2026	20034213
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
 	Morton	Maurice Gerard		X	MI13	2026	1/21/2026	30025640
 Hon.	Moskowitz	Jared		P	FL23	2026	1/16/2026	20033760
@@ -210,6 +212,7 @@ Hon.	Taylor	David J.		P	OH02	2026	2/2/2026	20033918
 Hon.	Taylor	David J.		P	OH02	2026	2/20/2026	20034036
 Hon.	Taylor	David J.		P	OH02	2026	3/6/2026	20034138
 Hon.	Taylor	David J.		P	OH02	2026	3/20/2026	20034207
+Hon.	Taylor	David J.		P	OH02	2026	4/2/2026	20034280
 	Trobough	John		X	AZ01	2026	1/13/2026	8221294
 	Vargas	Stephanie M.		C	CA33	2026	1/31/2026	10073293
 	Vitus	Adrian J.		C	OH06	2026	3/22/2026	10074557
