@@ -375,6 +375,17 @@
     <DocID>20034176</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Case</Last>
+    <First>Ed</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>HI01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>20034221</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Cervantes</Last>
     <First>Lyndon</First>
@@ -428,6 +439,17 @@
     <Year>2026</Year>
     <FilingDate>3/9/2026</FilingDate>
     <DocID>20034144</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cisneros</Last>
+    <First>Gilbert</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA31</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/7/2026</FilingDate>
+    <DocID>20034285</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -563,6 +585,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Delaney</Last>
+    <First>April McClain</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>20034299</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>DelBene</Last>
     <First>Suzan K.</First>
     <Suffix />
@@ -695,6 +728,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX37</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>20034292</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Donalds</Last>
     <First>Byron</First>
     <Suffix />
@@ -824,6 +868,17 @@
     <Year>2026</Year>
     <FilingDate>3/17/2026</FilingDate>
     <DocID>20034179</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/7/2026</FilingDate>
+    <DocID>20034295</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1388,6 +1443,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Kelly</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/7/2026</FilingDate>
+    <DocID>20034302</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Khanna</Last>
     <First>Rohit</First>
     <Suffix />
@@ -1508,6 +1574,17 @@
     <DocID>20033738</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Matrisciano</Last>
+    <First>Vincent</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>10074570</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Matsui</Last>
     <First>Doris O.</First>
@@ -1594,6 +1671,17 @@
     <Year>2026</Year>
     <FilingDate>1/30/2026</FilingDate>
     <DocID>30025650</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McCormick</Last>
+    <First>Richard Dean Dr</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>GA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/7/2026</FilingDate>
+    <DocID>20033648</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1902,6 +1990,17 @@
     <Year>2026</Year>
     <FilingDate>1/15/2026</FilingDate>
     <DocID>20033654</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Noble</Last>
+    <First>Dane-Brandon Cameron</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>NY07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>8052</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2290,6 +2389,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Septimo</Last>
+    <First>Amanda N.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>10075161</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Servance</Last>
     <First>Squire</First>
     <Suffix />
@@ -2639,5 +2749,16 @@
     <Year>2026</Year>
     <FilingDate>4/4/2026</FilingDate>
     <DocID>10075081</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Yakym</Last>
+    <First>Rudy C.</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>IN02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/6/2026</FilingDate>
+    <DocID>20034298</DocID>
   </Member>
 </FinancialDisclosure>
