@@ -67,6 +67,17 @@
     <DocID>8036</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Arness</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>10075322</DocID>
+  </Member>
+  <Member>
     <Prefix>Ms.</Prefix>
     <Last>Arnold</Last>
     <First>Marie Encar A</First>
@@ -782,6 +793,17 @@
     <DocID>20034134</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Donalds</Last>
+    <First>Byron</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL19</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>20034297</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dunigan</Last>
     <First>Adam Michael</First>
@@ -1011,6 +1033,17 @@
     <Year>2026</Year>
     <FilingDate>3/16/2026</FilingDate>
     <DocID>20034130</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>20034305</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1278,6 +1311,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Jackson</Last>
+    <First>Jonathan</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IL01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>20034301</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Jayapal</Last>
     <First>Pramila</First>
     <Suffix />
@@ -1475,6 +1519,17 @@
     <DocID>8221358</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Khanna</Last>
+    <First>Rohit</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/7/2026</FilingDate>
+    <DocID>9115726</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Kinner</Last>
     <First>Jan</First>
@@ -1484,6 +1539,17 @@
     <Year>2026</Year>
     <FilingDate>3/21/2026</FilingDate>
     <DocID>10074555</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mrs.</Prefix>
+    <Last>Kirtley</Last>
+    <First>Elizabeth Ann</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>OH06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>40004928</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2507,6 +2573,17 @@
     <Year>2026</Year>
     <FilingDate>1/30/2026</FilingDate>
     <DocID>30025646</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Stoops</Last>
+    <First>Jason Dwight</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>OH01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/8/2026</FilingDate>
+    <DocID>40004929</DocID>
   </Member>
   <Member>
     <Prefix />
