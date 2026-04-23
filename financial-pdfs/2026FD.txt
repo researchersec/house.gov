@@ -28,6 +28,7 @@ Dr.	Baez	Edgardo Rafael		C	TX20	2026	4/15/2026	10075672
 Mr.	Beers	Robert Lee	III	C	SC01	2026	4/13/2026	10075568
 Mr.	Beers	Robert Lee	III	W	SC01	2026	4/14/2026	8060
 	Benjamin	Laura S.		W	WI03	2026	4/20/2026	8069
+	Bettis	Shawn Stefan		C	FL11	2026	4/21/2026	10075986
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	3/1/2026	20034085
@@ -43,6 +44,7 @@ Hon.	Biggs	Sheri		P	SC03	2026	4/16/2026	20034346
 	Branda	Paola Dr		C	FL22	2026	4/15/2026	10075692
 Hon.	Bresnahan	Rob		P	PA08	2026	2/22/2026	20034044
 Hon.	Bresnahan	Rob		P	PA08	2026	3/18/2026	20034202
+	Brungardt	Kenneth Francis	Jr.	C	ID01	2026	4/21/2026	10075971
 	Buchwald	Jon		W	TX24	2026	4/15/2026	8065
 	Buckhout	Laurie		C	NC01	2026	1/24/2026	10073198
 	Buckhout	Laurie		X	NC01	2026	1/13/2026	8221292
@@ -61,6 +63,7 @@ Hon.	Cisneros	Gilbert		P	CA31	2026	1/12/2026	20033762
 Hon.	Cisneros	Gilbert		P	CA31	2026	2/13/2026	20033983
 Hon.	Cisneros	Gilbert		P	CA31	2026	3/9/2026	20034144
 Hon.	Cisneros	Gilbert		P	CA31	2026	4/7/2026	20034285
+Ms.	Clark	Gaige		W	MA03	2026	4/21/2026	8078
 Hon.	Cohen	Steve		P	TN09	2026	1/14/2026	20033754
 Hon.	Cohen	Steve		P	TN09	2026	1/26/2026	20033813
 Hon.	Cohen	Steve		P	TN09	2026	2/9/2026	20033889
@@ -132,6 +135,7 @@ Hon.	Gottheimer	Josh		P	NJ05	2026	1/14/2026	20033756
 Hon.	Gottheimer	Josh		P	NJ05	2026	2/26/2026	20033930
 Hon.	Gottheimer	Josh		P	NJ05	2026	3/16/2026	20034130
 Hon.	Gottheimer	Josh		P	NJ05	2026	4/8/2026	20034305
+	Graham	James Henry		C	IN09	2026	4/21/2026	10075956
 	Gray	Chuck		X	WY00	2026	2/4/2026	30025652
 Hon.	Greene	Marjorie Taylor		X	GA14	2026	2/4/2026	30025659
 Hon.	Greene	Marjorie Taylor		X	GA14	2026	4/13/2026	30026834
@@ -176,6 +180,7 @@ Hon.	Jayapal	Pramila		P	WA07	2026	3/15/2026	20034160
 	Jaye	Brian Steven		C	MI10	2026	4/13/2026	10075560
 Mr.	Johnson	George Melville		C	GA03	2026	4/19/2026	10075843
 Hon.	Johnson	Julie		P	TX32	2026	1/15/2026	20033789
+	Johnston	Mark Edmund		W		2026		9115760
 	Jones	Micah Q.		X	MA06	2026	3/5/2026	30026672
 Hon.	Jordan	James D		P	OH04	2026	1/14/2026	20033803
 Mr.	Joseph	Rodenay		C	FL20	2026	4/17/2026	10075821
@@ -319,6 +324,7 @@ Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033758
 Hon.	Rouzer	David		P	NC07	2026	1/7/2026	20033759
 Mr.	Ruiz	Ben Benyamin		C	IN01	2026	4/6/2026	10075098
 	Russ	David Honorable		C	OR06	2026	4/15/2026	10075699
+Hon.	Salazar	Maria Elvira		P	FL27	2026	4/21/2026	20033993
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 	Schaefer	Mike		C	CA48	2026	3/30/2026	9115720
 	Schneider	Jonathan		W	NY01	2026	3/4/2026	8047
@@ -374,5 +380,6 @@ Hon.	Wagner	Ann		P	MO02	2026	1/2/2026	20033718
 Hon.	Williams	Roger		P	TX25	2026	1/15/2026	20033783
 Mr.	Wilson	Todd Alan		C	OH02	2026	4/4/2026	10075081
 Hon.	Yakym	Rudy C.	III	P	IN02	2026	4/6/2026	20034298
+	Young	Martin		C	PA06	2026	4/22/2026	10075951
 	Youngerberg	Lucas Todd		C	MN01	2026	4/13/2026	10075573
 	Zeigler	Tabitha		C	IN08	2026	4/15/2026	10075648
