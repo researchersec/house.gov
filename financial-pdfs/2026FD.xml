@@ -3533,6 +3533,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Rogers</Last>
+    <First>Harold Dallas</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>KY05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/21/2026</FilingDate>
+    <DocID>9115762</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Rouzer</Last>
     <First>David</First>
     <Suffix />
@@ -3662,6 +3673,17 @@
     <Year>2026</Year>
     <FilingDate>4/6/2026</FilingDate>
     <DocID>10075161</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Servance</Last>
+    <First>Squire</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NJ12</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/22/2026</FilingDate>
+    <DocID>10073193</DocID>
   </Member>
   <Member>
     <Prefix />
