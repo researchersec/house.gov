@@ -255,6 +255,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Beatty</Last>
+    <First>Arnetress</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076281</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Beck</Last>
     <First>Chris</First>
     <Suffix />
@@ -2760,6 +2771,17 @@
     <Year>2026</Year>
     <FilingDate>4/15/2026</FilingDate>
     <DocID>40004935</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>McConnie-Saad</Last>
+    <First>Pablo An</First>
+    <Suffix>IV</Suffix>
+    <FilingType>W</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/27/2026</FilingDate>
+    <DocID>8083</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

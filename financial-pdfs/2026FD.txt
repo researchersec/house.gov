@@ -22,6 +22,7 @@ Dr.	Baez	Edgardo Rafael		C	TX20	2026	4/15/2026	10075672
 	Baptiste	Crystal Shauna		C	GA06	2026	4/13/2026	10075499
 	Barfield	Jillian		C	AZ08	2026	4/13/2026	10075529
 	Bartlett	John		C	NJ11	2026	1/14/2026	10073181
+	Beatty	Arnetress		C	GA05	2026	4/28/2026	10076281
 	Beck	Chris		C	OR02	2026	4/15/2026	10075712
 	Beckett	Janice Castles		C	OH10	2026	4/1/2026	10074415
 	Bedsworth	Gabriella Michele		D	VA05	2026	3/31/2026	40004926
@@ -250,6 +251,7 @@ Hon.	McClellan	Jennifer		P	VA04	2026	4/16/2026	20034311
 	McClellan	Kevin Harrison		X	FL20	2026	1/30/2026	30025650
 	McCombs	John		C	IL07	2026	4/14/2026	10075585
 	McConnell	Jack		D	TX31	2026	4/15/2026	40004935
+	McConnie-Saad	Pablo An	IV	W	PA03	2026	4/27/2026	8083
 Hon.	McCormick	Richard Dean Dr		P	GA06	2026	4/7/2026	20033648
 	McDowell	Chase		W	AR02	2026	4/20/2026	8072
 	McGowan	Chris		X	IA04	2026	4/15/2026	30026877
