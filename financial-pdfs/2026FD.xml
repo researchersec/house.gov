@@ -442,6 +442,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Blair</Last>
+    <First>Everton</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>GA13</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026983</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Boehnke</Last>
     <First>Matthew</First>
     <Suffix />
@@ -560,6 +571,17 @@
     <Year>2026</Year>
     <FilingDate>1/13/2026</FilingDate>
     <DocID>8221292</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Burt</Last>
+    <First>Steven</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>UT04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30027029</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -793,6 +815,17 @@
     <DocID>20034167</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cohen</Last>
+    <First>Steve</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>20034368</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Collins</Last>
     <First>Chris</First>
@@ -879,6 +912,17 @@
     <Year>2026</Year>
     <FilingDate>3/25/2026</FilingDate>
     <DocID>20034223</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Davis</Last>
+    <First>Jennifer</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>IL08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026970</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -969,6 +1013,17 @@
     <DocID>20034155</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>20034400</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dewell</Last>
     <First>Ben</First>
@@ -1044,6 +1099,17 @@
     <Year>2026</Year>
     <FilingDate>2/23/2026</FilingDate>
     <DocID>20034035</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Dingell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>20034416</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1190,6 +1256,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Duvieilh</Last>
+    <First>Candice</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AL05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076330</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Edwards</Last>
     <First>Amanda</First>
     <Suffix />
@@ -1223,6 +1300,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Enriquez</Last>
+    <First>Abraham</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX19</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026966</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Esrati</Last>
     <First>David</First>
     <Suffix />
@@ -1253,6 +1341,17 @@
     <Year>2026</Year>
     <FilingDate>4/26/2026</FilingDate>
     <DocID>10076193</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Featherly</Last>
+    <First>Zebulon Hart</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MI01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076299</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -1355,6 +1454,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Flores</Last>
+    <First>Eric</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX34</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026968</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Ford</Last>
     <First>J.D.</First>
     <Suffix />
@@ -1431,6 +1541,17 @@
     <DocID>20034095</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Fram</Last>
+    <First>Bree</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10075791</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Franklin</Last>
     <First>Scott Scott</First>
@@ -1464,6 +1585,17 @@
     <DocID>10073215</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Fuller</Last>
+    <First>Clay</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076097</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Garza</Last>
     <First>Mauro Everett</First>
@@ -1495,6 +1627,17 @@
     <Year>2026</Year>
     <FilingDate>4/13/2026</FilingDate>
     <DocID>10075565</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gober</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026955</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -1583,6 +1726,17 @@
     <Year>2026</Year>
     <FilingDate>4/21/2026</FilingDate>
     <DocID>10075956</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gray</Last>
+    <First>Chuck</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WY00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10073279</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2058,6 +2212,17 @@
     <DocID>10075859</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Jackson</Last>
+    <First>Terry Antonio</First>
+    <Suffix>II</Suffix>
+    <FilingType>X</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026962</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Jay</Last>
     <First>Bowman J.</First>
@@ -2122,6 +2287,17 @@
     <Year>2026</Year>
     <FilingDate />
     <DocID>9115760</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
+    <First>Chris</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>AR02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026963</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2355,6 +2531,17 @@
     <DocID>20034302</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Khanna</Last>
+    <First>Lisa Vedernikova</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>VA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>8084</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Khanna</Last>
     <First>Rohit</First>
@@ -2386,6 +2573,17 @@
     <Year>2026</Year>
     <FilingDate>4/7/2026</FilingDate>
     <DocID>9115726</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Killin</Last>
+    <First>Jessica Willow</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CO05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026971</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2540,6 +2738,17 @@
     <Year>2026</Year>
     <FilingDate>4/16/2026</FilingDate>
     <DocID>10075564</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Linh</Last>
+    <First>Nina</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA40</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/29/2026</FilingDate>
+    <DocID>10076354</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -2752,6 +2961,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>McClure</Last>
+    <First>Lamont</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>PA07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026953</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>McCombs</Last>
     <First>John</First>
     <Suffix />
@@ -2938,6 +3158,17 @@
     <DocID>20034247</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Miller</Last>
+    <First>Max</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>20034419</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Mitchell</Last>
     <First>James Gordon</First>
@@ -3002,6 +3233,28 @@
     <Year>2026</Year>
     <FilingDate>3/24/2026</FilingDate>
     <DocID>20034217</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>20034424</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Moraitis</Last>
+    <First>George R.</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL23</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026981</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3224,6 +3477,17 @@
     <DocID>20033654</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Nguyen</Last>
+    <First>Chi Charlie</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA45</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026989</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Nicholson</Last>
     <First>Daniel Stephen</First>
@@ -3277,6 +3541,17 @@
     <Year>2026</Year>
     <FilingDate>1/27/2026</FilingDate>
     <DocID>8221316</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ollivant</Last>
+    <First>Douglas</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>VA07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026984</DocID>
   </Member>
   <Member>
     <Prefix>Dr.</Prefix>
@@ -3543,6 +3818,17 @@
     <DocID>8063</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Redkey</Last>
+    <First>David Wayne</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>AZ01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026974</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Reynoso</Last>
     <First>Antonio</First>
@@ -3574,6 +3860,17 @@
     <Year>2026</Year>
     <FilingDate>3/2/2026</FilingDate>
     <DocID>10074430</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Riker</Last>
+    <First>Brandon</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30027041</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3651,6 +3948,17 @@
     <Year>2026</Year>
     <FilingDate>2/20/2026</FilingDate>
     <DocID>8043</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Rodriguez</Last>
+    <First>Maria Teresa</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>KY03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10075174</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3895,6 +4203,17 @@
     <DocID>20033500</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Sessler</Last>
+    <First>Jerrod</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WA04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076288</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Sewell</Last>
     <First>Terri A.</First>
@@ -3973,6 +4292,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Simonelli</Last>
+    <First>Lucia Dora</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>PA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026954</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Sin</Last>
     <First>Matthew</First>
     <Suffix />
@@ -4047,6 +4377,17 @@
     <Year>2026</Year>
     <FilingDate>4/14/2026</FilingDate>
     <DocID>20034345</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Stevenson</Last>
+    <First>Cherlynn</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>KY06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026952</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -4170,6 +4511,17 @@
     <DocID>40004927</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Taggart</Last>
+    <First>William M.</First>
+    <Suffix>IV</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>TX38</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>10076001</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Taylor</Last>
     <First>David J.</First>
@@ -4248,6 +4600,28 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Teixeira</Last>
+    <First>Mark Charles</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX21</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026994</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Tijerina</Last>
+    <First>Tano</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>TX28</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026992</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Treble</Last>
     <First>Jonathan</First>
     <Suffix />
@@ -4278,6 +4652,28 @@
     <Year>2026</Year>
     <FilingDate>1/13/2026</FilingDate>
     <DocID>8221294</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Trone</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30027042</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Varet</Last>
+    <First>Esther Kim</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CA40</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30027040</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -4358,6 +4754,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Wellman</Last>
+    <First>Frederick Paul</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MO02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30026951</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Wied</Last>
     <First>Tony</First>
     <Suffix />
@@ -4388,6 +4795,17 @@
     <Year>2026</Year>
     <FilingDate>4/4/2026</FilingDate>
     <DocID>10075081</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wood</Last>
+    <First>Jordan</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>ME02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>4/28/2026</FilingDate>
+    <DocID>30027039</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
