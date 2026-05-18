@@ -2343,7 +2343,7 @@ class FinancialDisclosureApp {
         this.statisticsController = null;
 
         this.isInitialized = false;
-        this.xmlFilename = '2025FD.xml';
+        this.xmlFilename = '2026FD.xml';
     }
 
     /**
