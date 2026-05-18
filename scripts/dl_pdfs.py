@@ -40,7 +40,7 @@ new_downloads = 0
 for docid in docids:
     pdf_path = os.path.join(download_dir, f"{docid}.pdf")
     if not os.path.exists(pdf_path):
-        url = f"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/{docid}.pdf"
+        url = f"https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/{docid}.pdf"
         print(f"Downloading new file: {url}")
         driver.get(url)
         time.sleep(3)  # Wait for download
