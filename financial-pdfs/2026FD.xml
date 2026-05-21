@@ -1904,6 +1904,28 @@
     <DocID>20034452</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cohen</Last>
+    <First>Steve</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/20/2026</FilingDate>
+    <DocID>20034589</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Coleman</Last>
+    <First>Carey</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH13</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/19/2026</FilingDate>
+    <DocID>10079766</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Colin</Last>
     <First>Loren</First>
@@ -1968,6 +1990,17 @@
     <Year>2026</Year>
     <FilingDate>5/8/2026</FilingDate>
     <DocID>10077181</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Conley</Last>
+    <First>Cait</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/19/2026</FilingDate>
+    <DocID>10076406</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3203,6 +3236,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Farrell</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>UT01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/19/2026</FilingDate>
+    <DocID>10079765</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Featherly</Last>
     <First>Zebulon Hart</First>
     <Suffix />
@@ -3838,6 +3882,17 @@
     <Year>2026</Year>
     <FilingDate>4/8/2026</FilingDate>
     <DocID>20034305</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/19/2026</FilingDate>
+    <DocID>20034585</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -6863,6 +6918,17 @@
     <Year>2026</Year>
     <FilingDate>4/28/2026</FilingDate>
     <DocID>20034424</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/19/2026</FilingDate>
+    <DocID>20034587</DocID>
   </Member>
   <Member>
     <Prefix />
