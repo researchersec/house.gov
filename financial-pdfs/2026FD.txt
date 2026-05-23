@@ -21,6 +21,7 @@ Mr.	Amyx	William Kory		C	IN06	2026	4/13/2026	10075521
 	Antropov	Jayden		D	FL22	2026	5/5/2026	40004954
 	Appeaning	Anjanita Monique		C	LA06	2026	4/14/2026	10075378
 	Aranda	Miguel		C	WI01	2026	5/14/2026	10076655
+	Arias	Vincent Michael		C	FL27	2026	5/21/2026	10079760
 	Arness	Mark		C	MD05	2026	4/8/2026	10075322
 Ms.	Arnold	Marie Encar A		A	NV01	2026	4/1/2026	10074814
 	Arnold	Marie Encar Arana		C	NV01	2026	3/30/2026	10074613
@@ -76,6 +77,7 @@ Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/2/2026	20033714
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	3/1/2026	20034085
 	Bhatti	Ata-Ul-Salaam		C	VA01	2026	5/15/2026	10076601
+Mr.	Bialota	James M.		A	SD00	2026	5/21/2026	10079801
 Mr.	Bialota	James M.		C	SD00	2026	5/16/2026	10078682
 Hon.	Biggs	Sheri		P	SC03	2026	1/14/2026	20033800
 Hon.	Biggs	Sheri		P	SC03	2026	2/5/2026	20033927
@@ -102,6 +104,7 @@ Hon.	Biggs	Sheri		P	SC03	2026	4/16/2026	20034346
 	Boyd	David Lawrence		A	IN06	2026	4/3/2026	10075095
 	Boyd	David Lawrence		C	IN06	2026	3/30/2026	10074611
 	Boyd	David Lawrence		D	IN06	2026	1/30/2026	8221329
+	Bracht	Blake		W	AZ05	2026	5/21/2026	8117
 	Branda	Paola Dr		C	FL22	2026	4/15/2026	10075692
 	Brattin	Richard Ray	Jr	C	MO05	2026	5/15/2026	10078520
 	Braun	John		C	WA03	2026	5/14/2026	10076473
@@ -353,6 +356,7 @@ Hon.	Fuller	Clay		C	GA14	2026	4/28/2026	10076097
 	Garcia	Patty		C	IL04	2026	5/18/2026	10079746
 Mr.	Garza	Mauro Everett		W	TX34	2026	4/24/2026	8081
 	Gegen	Caitlyn		C	GA09	2026	4/17/2026	10074562
+	Gendebien	Blake		C	NY21	2026	5/21/2026	10077034
 	Gendebien	Blake		X	NY21	2026	5/13/2026	30027570
 	Ghusar	Mandy		C	CA04	2026	4/13/2026	10075565
 	Gilchrest	Jillian		X	CT01	2026	5/13/2026	30027521
@@ -537,6 +541,7 @@ Mr.	Knoles	Ricky Patric		C	FL04	2026	4/20/2026	10075941
 	Kruttiventi	Vin		C	CA13	2026	5/15/2026	10077313
 	Krzeczkowski	Joe		D	CO07	2026	3/25/2026	40004921
 	Lacore	Nancy		C	SC01	2026	4/27/2026	10075388
+	Lahmeyer	Jackson		C	OK01	2026	5/21/2026	10079802
 Dr.	Lally	James		C	NV03	2026	4/29/2026	9115801
 	Lam	Adriel C.		D	HI01	2026	5/13/2026	40004962
 	Lamondin	Richard		W	FL27	2026	5/8/2026	8098
@@ -567,6 +572,7 @@ Hon.	Letlow	Julia		P	LA05	2026	3/12/2026	20034106
 	Lineberger	Ernest Robinson	III	W		2026		9115793
 	Linh	Nina		C	CA40	2026	4/29/2026	10076354
 	Lipetri	Mike		C	NY03	2026	3/24/2026	10074567
+	Lisonbee	Karianne		C	UT02	2026	5/21/2026	10074616
 	Little	Matt		X	MN02	2026	5/15/2026	30027879
 	Lloyd	Tanya W.		C	TX27	2026	5/15/2026	10078647
 Hon.	Lofgren	Zoe		P	CA18	2026	1/6/2026	20033738
@@ -591,6 +597,7 @@ Hon.	Lofgren	Zoe		P	CA18	2026	1/6/2026	20033738
 	Marsh-Foy	Deadra		C	TX05	2026	5/1/2026	10076483
 Mr.	Marter	James Thomas		C	IL14	2026	5/13/2026	10076590
 	Martin	James		X	FL21	2026	5/18/2026	30028027
+	Martin	Trey		C	OK05	2026	5/21/2026	10079730
 	Matrisciano	Vincent		C	NJ11	2026	4/6/2026	10074570
 Hon.	Matsui	Doris O.		P	CA07	2026	1/9/2026	20033695
 	Mawhiney	Billy		W	SD00	2026	4/20/2026	8073
@@ -669,6 +676,7 @@ Hon.	Morrison	Kelly Louise		P	MN03	2026	3/5/2026	20034123
 Hon.	Morrison	Kelly Louise		P	MN03	2026	3/10/2026	20034156
 Hon.	Morrison	Kelly Louise		P	MN03	2026	4/2/2026	20034213
 Hon.	Morrison	Kelly Louise		P	MN03	2026	5/5/2026	20034300
+Hon.	Morrison	Kelly Louise		P	MN03	2026	5/21/2026	20034520
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
 	Morton	Maurice Gerard		X	MI13	2026	1/21/2026	30025640
 Hon.	Moskowitz	Jared		P	FL23	2026	1/16/2026	20033760
@@ -820,6 +828,7 @@ Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 Hon.	Sanford	Mark		W		2026		9115825
 	Schaefer	Mike		C	CA48	2026	3/30/2026	9115720
 	Schlossberg	John (Jack) Bouvier Kennedy		C	NY12	2026	4/30/2026	10075520
+	Schmeelk	Jonathan Peter		W	VA07	2026	5/21/2026	8120
 	Schneider	Jonathan		W	NY01	2026	3/4/2026	8047
 	Schnell	Alexander		C	PA03	2026	3/22/2026	10074556
 	Schulz	Scott		C	OH07	2026	4/29/2026	10075534
