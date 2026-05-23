@@ -64,7 +64,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             echo "Changes detected — committing and pushing."
             git add .
-            git commit -m "Automated update: synced new 2025 PDFs"
+            git commit -m "Automated update: synced new PDFs"
             git push
           else
             echo "No changes to commit."
