@@ -258,6 +258,17 @@
     <Last>Arias</Last>
     <First>Vincent Michael</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>FL27</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/25/2026</FilingDate>
+    <DocID>10079846</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Arias</Last>
+    <First>Vincent Michael</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>FL27</StateDst>
     <Year>2026</Year>
@@ -6679,6 +6690,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Marques</Last>
+    <First>Rhett</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AL01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/25/2026</FilingDate>
+    <DocID>10079819</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Marschall</Last>
     <First>Joey</First>
     <Suffix />
@@ -8142,6 +8164,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Pan</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA46</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/25/2026</FilingDate>
+    <DocID>10079847</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Paniagua</Last>
     <First>Luis</First>
     <Suffix />
@@ -8986,6 +9019,17 @@
     <Year>2026</Year>
     <FilingDate>2/20/2026</FilingDate>
     <DocID>8043</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Roca</Last>
+    <First>Mariela</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MD06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/25/2026</FilingDate>
+    <DocID>10074544</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10515,6 +10559,17 @@
     <Year>2026</Year>
     <FilingDate>4/27/2026</FilingDate>
     <DocID>9115799</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Twedt-Ball</Last>
+    <First>Clinton Gene</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/25/2026</FilingDate>
+    <DocID>10079804</DocID>
   </Member>
   <Member>
     <Prefix />
