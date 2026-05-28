@@ -1168,6 +1168,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bowen</Last>
+    <First>Carlton E.</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>UT02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/26/2026</FilingDate>
+    <DocID>40004971</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Boyd</Last>
     <First>David Lawrence</First>
     <Suffix />
@@ -2806,6 +2817,17 @@
     <DocID>20034466</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>DelBene</Last>
+    <First>Suzan K.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/26/2026</FilingDate>
+    <DocID>20034615</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dembo</Last>
     <First>Zach</First>
@@ -2914,6 +2936,17 @@
     <Year>2026</Year>
     <FilingDate>5/13/2026</FilingDate>
     <DocID>30027304</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dewell</Last>
+    <First>Ben</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/26/2026</FilingDate>
+    <DocID>10079853</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7908,6 +7941,17 @@
     <Year>2026</Year>
     <FilingDate>4/20/2026</FilingDate>
     <DocID>10075935</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Nicole</Last>
+    <First>Frenchko Michele</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/27/2026</FilingDate>
+    <DocID>10079861</DocID>
   </Member>
   <Member>
     <Prefix />
