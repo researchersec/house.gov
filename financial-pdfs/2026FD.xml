@@ -145,6 +145,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Alponte</Last>
+    <First>Monica Maria</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/28/2026</FilingDate>
+    <DocID>10079877</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Altman</Last>
     <First>Susan Copius</First>
     <Suffix />
@@ -7394,6 +7405,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Miranda</Last>
+    <First>Hunter Garcia</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA47</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/28/2026</FilingDate>
+    <DocID>10079883</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Mitchell</Last>
     <First>James Gordon</First>
     <Suffix />
@@ -10026,6 +10048,17 @@
     <Last>Stevenson</Last>
     <First>Cherlynn</First>
     <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>KY06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/28/2026</FilingDate>
+    <DocID>8122</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Stevenson</Last>
+    <First>Cherlynn</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>KY06</StateDst>
     <Year>2026</Year>
@@ -10405,6 +10438,17 @@
     <Year>2026</Year>
     <FilingDate>5/7/2026</FilingDate>
     <DocID>20034489</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>5/28/2026</FilingDate>
+    <DocID>20034650</DocID>
   </Member>
   <Member>
     <Prefix />
