@@ -1105,6 +1105,17 @@
     <Last>Boafo</Last>
     <First>Adrian</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/3/2026</FilingDate>
+    <DocID>10079901</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Boafo</Last>
+    <First>Adrian</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>MD05</StateDst>
     <Year>2026</Year>
@@ -3731,6 +3742,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/3/2026</FilingDate>
+    <DocID>20034591</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Finnie</Last>
     <First>Shaun</First>
     <Suffix />
@@ -4355,6 +4377,17 @@
     <Year>2026</Year>
     <FilingDate>5/19/2026</FilingDate>
     <DocID>20034585</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/3/2026</FilingDate>
+    <DocID>20034693</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11252,6 +11285,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>9115881</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Walberg</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/3/2026</FilingDate>
+    <DocID>20034660</DocID>
   </Member>
   <Member>
     <Prefix />
