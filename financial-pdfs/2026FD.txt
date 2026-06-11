@@ -96,6 +96,7 @@ Hon.	Biggs	Sheri		P	SC03	2026	2/5/2026	20033927
 Hon.	Biggs	Sheri		P	SC03	2026	2/17/2026	20034013
 Hon.	Biggs	Sheri		P	SC03	2026	3/21/2026	20034195
 Hon.	Biggs	Sheri		P	SC03	2026	4/16/2026	20034346
+Hon.	Biggs	Sheri		P	SC03	2026	6/9/2026	20034496
 	Binkley	Ryan		W		2026		9115824
 	Bird	Shannon Kathleen		X	CO08	2026	5/13/2026	30027486
 	Biss	Daniel		X	IL09	2026	5/15/2026	30027940
@@ -385,6 +386,7 @@ Hon.	Friedman	Laura		P	CA30	2026	5/14/2026	20034563
 Mr.	Frost	Jacob Thomas		C	OH09	2026	1/16/2026	10073215
 Hon.	Fuller	Clay		C	GA14	2026	4/28/2026	10076097
 	Fulmer	Matthew		C	SC01	2026	5/15/2026	10075574
+Mr.	Fulton-Wiley	Augustus	IV	D	FL04	2026	6/9/2026	40004983
 	Gaines	Houston		C	GA10	2026	5/15/2026	10078453
 	Galan-Woods	Marlene		X	AZ01	2026	5/13/2026	30027503
 	Gallagher	James		C	CA01	2026	5/5/2026	10074472
@@ -934,6 +936,7 @@ Hon.	Salazar	Maria Elvira		P	FL27	2026	6/8/2026	20034709
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 Hon.	Sanford	Mark		W		2026		9115825
 	Schaefer	Mike		C	CA48	2026	3/30/2026	9115720
+	Scheffler	Mark Christopher		C	WI08	2026	6/9/2026	10079980
 	Schlossberg	John (Jack) Bouvier Kennedy		C	NY12	2026	4/30/2026	10075520
 	Schmeelk	Jonathan Peter		W	VA07	2026	5/21/2026	8120
 	Schneider	Jonathan		W	NY01	2026	3/4/2026	8047
@@ -1013,7 +1016,9 @@ Hon.	Steube	Greg		P	FL17	2026	4/14/2026	20034345
 	Sundberg	David		X	MD05	2026	3/17/2026	9115708
 Hon.	Suozzi	Thomas		P	NY03	2026	3/17/2026	20034188
 Hon.	Suozzi	Thomas		P	NY03	2026	5/8/2026	20034503
+Hon.	Suozzi	Thomas		P	NY03	2026	6/9/2026	20034747
 	Suttles	Anthony		X	VA10	2026	5/15/2026	30027614
+	Swanson	Trina		C	MN08	2026	6/9/2026	10079936
 	Swartz	Jessica		W	MI04	2026	4/15/2026	8061
 Mr.	Tabacchi	Michael Eugene		W	IL12	2026	4/15/2026	8055
 	Tabor	Scott Edward		D	OH05	2026	3/31/2026	40004927
@@ -1021,6 +1026,7 @@ Mr.	Tabacchi	Michael Eugene		W	IL12	2026	4/15/2026	8055
 	Talkington	Michelle		C	MD05	2026	5/15/2026	10078625
 	Tanner	Suzzanna		C	WA03	2026	5/15/2026	10078496
 	Taylor	Bernard		C	FL21	2026	5/15/2026	10078357
+	Taylor	Brent		X	TN09	2026	6/9/2026	30028211
 Hon.	Taylor	David J.		P	OH02	2026	1/21/2026	20033845
 Hon.	Taylor	David J.		P	OH02	2026	2/2/2026	20033916
 Hon.	Taylor	David J.		P	OH02	2026	2/2/2026	20033918
@@ -1034,6 +1040,7 @@ Hon.	Taylor	David J.		P	OH02	2026	5/28/2026	20034650
 	Taylor	Shannon Leigh		C	VA01	2026	5/12/2026	10077493
 	Techau	Kevin W.		X	IA02	2026	5/13/2026	30027497
 	Teixeira	Mark Charles		X	TX21	2026	4/28/2026	30026994
+	Thompson	Jeremy		X	TN09	2026	6/9/2026	30028212
 	Thompson	Larry		X	CA32	2026	5/6/2026	30027290
 	Thompson	Michael		C	FL22	2026	6/8/2026	10079952
 	Thompson	Michael		D	FL22	2026	5/22/2026	9115885
@@ -1113,6 +1120,7 @@ Mr.	Wilson	Todd Alan		C	OH02	2026	4/4/2026	10075081
 	Wirth	Cynthia (Cinde)		C	IN06	2026	5/11/2026	10077337
 	Wittrock	Quentin		C	MN03	2026	5/1/2026	9115844
 	Wolftornabane	Ashley		C	IA04	2026	6/7/2026	10079972
+	Won	Julie Jaehee		C	NY07	2026	6/9/2026	10079995
 	Wood	Jordan		X	ME02	2026	4/28/2026	30027039
 	Woods	Todd		C	OK01	2026	5/17/2026	10077983
 Hon.	Yakym	Rudy C.	III	P	IN02	2026	4/6/2026	20034298
