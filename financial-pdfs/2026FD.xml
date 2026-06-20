@@ -948,6 +948,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Beltran</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/19/2026</FilingDate>
+    <DocID>10079994</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Benitez-Thompson</Last>
     <First>Teresa</First>
     <Suffix />
@@ -2705,6 +2716,17 @@
     <Year>2026</Year>
     <FilingDate>6/16/2026</FilingDate>
     <DocID>30028463</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mrs.</Prefix>
+    <Last>Cooper-Sutton</Last>
+    <First>Yolanda</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/18/2026</FilingDate>
+    <DocID>40004986</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -4743,6 +4765,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Gilbert</Last>
+    <First>Oliver G.</First>
+    <Suffix>III</Suffix>
+    <FilingType>X</FilingType>
+    <StateDst>FL24</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/17/2026</FilingDate>
+    <DocID>9116180</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Gilbreath</Last>
     <First>Elinor</First>
     <Suffix />
@@ -6720,6 +6753,17 @@
     <Year>2026</Year>
     <FilingDate>5/22/2026</FilingDate>
     <DocID>20034616</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kean</Last>
+    <First>Thomas H.</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>NJ07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/18/2026</FilingDate>
+    <DocID>20034783</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
