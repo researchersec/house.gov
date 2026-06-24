@@ -1861,6 +1861,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Butler</Last>
+    <First>Benjamin Ben</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>30028470</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Cable</Last>
     <First>Conrad Roberts</First>
     <Suffix />
@@ -6260,6 +6271,17 @@
     <DocID>10074528</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Jackson</Last>
+    <First>DeVelle LaVaughn</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>40004987</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Jackson</Last>
     <First>Jonathan</First>
@@ -7567,6 +7589,17 @@
     <Year>2026</Year>
     <FilingDate>3/12/2026</FilingDate>
     <DocID>20034106</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Levine</Last>
+    <First>Jake</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>CA32</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>8130</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10705,6 +10738,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Rochford</Last>
+    <First>Robert Anthony Rocky Capt</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>10081130</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Rodriguez</Last>
     <First>Eliott</First>
     <Suffix />
@@ -12036,6 +12080,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Suttles</Last>
+    <First>Anthony</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>VA10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>30028468</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Swanson</Last>
     <First>Trina</First>
     <Suffix />
@@ -13320,6 +13375,17 @@
     <Year>2026</Year>
     <FilingDate>6/10/2026</FilingDate>
     <DocID>9116133</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Wood</Last>
+    <First>Jordan</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>ME02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/22/2026</FilingDate>
+    <DocID>8131</DocID>
   </Member>
   <Member>
     <Prefix />
