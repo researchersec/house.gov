@@ -150,6 +150,7 @@ Hon.	Bresnahan	Rob		P	PA08	2026	3/18/2026	20034202
 	Brown	Theodis	Sr.	D	MO03	2026	5/13/2026	9115828
 	Brungardt	Kenneth Francis	Jr.	C	ID01	2026	4/21/2026	10075971
 	Bryan	Dewey Gordon		C	TN08	2026	5/7/2026	10076175
+	Bucciarelli	John Anthony	III	W		2026		9116183
 	Bucciarelli	John Anthony	III	X	CT05	2026	5/15/2026	30027906
 	Buchwald	Jon		W	TX24	2026	4/15/2026	8065
 	Buck	Carrie		X	NV01	2026	5/15/2026	30027692
@@ -245,6 +246,7 @@ Hon.	Collins	Michael A.	Jr	P	GA10	2026	1/20/2026	20033840
 	Cook	Thomas Joseph		C	PA03	2026	4/9/2026	10075359
 	Cooke	Alexander R.		X	FL21	2026	5/13/2026	30027354
 	Cooke	Rebecca		X	WI03	2026	4/29/2026	30027121
+	Cooney	Joseph Patrick		W		2026		9116187
 	Cooney	Joseph Patrick		X	VA07	2026	4/29/2026	9115769
 Mr.	Cooper	Robert David	II	C	FL06	2026	6/21/2026	10076486
 Mr.	Cooper	Robert David	II	X	FL06	2026	5/18/2026	30027984
@@ -351,6 +353,7 @@ Mr.	Duffin	Michael Christian		X	VA08	2026	5/6/2026	30027226
 	Dunlap	Matt		C	ME02	2026	5/15/2026	10078199
 	Dunn	Harry		C	MD05	2026	5/24/2026	10076747
 Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2026	3/17/2026	20034114
+Hon.	Dunn	Neal Patrick MD, Facs		P	FL02	2026	6/23/2026	20034815
 	Durant	Tara Anne		W		2026		9115855
 	Durham	Kathy L.		C	NV02	2026	4/13/2026	10075532
 	Duvieilh	Candice		C	AL05	2026	4/28/2026	10076330
@@ -684,6 +687,7 @@ Hon.	Latta	Robert E.		P	OH05	2026	6/5/2026	20034726
 	Lee	Robert Eugene		A	SC04	2026	5/13/2026	10077809
 	Lee	Robert Eugene		C	SC04	2026	5/13/2026	10077723
 Hon.	Lee	Susie		P	NV03	2026	6/4/2026	20034552
+	Leigh	Danica David		W		2026		9116186
 Mr.	Lemmo	Alfred		X	MI08	2026	5/20/2026	30028154
 	Leonard	Mark Andrew		C	CA45	2026	5/15/2026	10078599
 	Lester	Joe Nathan		C	GA13	2026	5/2/2026	10076556
@@ -694,6 +698,7 @@ Hon.	Letlow	Julia		P	LA05	2026	3/12/2026	20034106
 	Levine	Matthew		A	MO06	2026	5/7/2026	10076980
 	Levine	Matthew		C	MO06	2026	4/16/2026	10075564
 	Lewis	Shane		C	CA18	2026	5/14/2026	10078304
+	Limtiaco	Alicia Anne Garrido		C	GU00	2026	6/23/2026	10081133
 	Lincoln	Kevin J.	II	C	CA13	2026	5/13/2026	10077678
 	Linderman	Hank		C	KY02	2026	5/16/2026	10075659
 	Lineberger	Ernest Robinson	III	W		2026		9115793
@@ -900,6 +905,7 @@ Mr.	Pearson	Glenn Keith		C	FL16	2026	6/4/2026	10079954
 	Peguero	Robin		C	FL27	2026	5/15/2026	10078318
 	Pelbath	Alex		C	SC01	2026	5/14/2026	10075707
 Hon.	Pelosi	Nancy		P	CA11	2026	1/23/2026	20033725
+Hon.	Pelosi	Nancy		P	CA11	2026	6/23/2026	20034836
 	Pena	Lauren B.		C	TX37	2026	4/13/2026	10075544
 	Penn	Krista		C	GA01	2026	5/17/2026	10079705
 	People	Robert		C	FL15	2026	5/15/2026	10078380
@@ -1016,6 +1022,7 @@ Hon.	Sanford	Mark		W		2026		9115825
 	Schmeelk	Jonathan Peter		X	VA07	2026	6/8/2026	9116090
 	Schneider	Jonathan		W	NY01	2026	3/4/2026	8047
 	Schnell	Alexander		C	PA03	2026	3/22/2026	10074556
+Mr.	Schultz	John Thomas		W		2026		9116184
 	Schultz	Matthew Damian		C	AK00	2026	5/29/2026	10079749
 	Schulz	Scott		C	OH07	2026	4/29/2026	10075534
 	Schwalbe	Nina		C	NY12	2026	5/22/2026	10075379
@@ -1189,6 +1196,7 @@ Hon.	Webster	Daniel		P	FL11	2026	6/1/2026	20034562
 	Weeks	Carter Jordan		D	AZ06	2026	2/18/2026	40004902
 	Welch	Danielle		C	NY03	2026	5/22/2026	10074519
 	Wellman	Frederick Paul		X	MO02	2026	4/28/2026	30026951
+Mr.	Westby	Jeremy Paul		W		2026		9116185
 	Wettach	Taylor		W		2026		9115780
 Dr.	Whalen	Jeromie Patrick		C	MA01	2026	5/15/2026	10077573
 	White	Randi		C	MD01	2026	5/3/2026	10076574

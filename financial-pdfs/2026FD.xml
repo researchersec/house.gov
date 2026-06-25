@@ -1666,6 +1666,17 @@
     <Last>Bucciarelli</Last>
     <First>John Anthony</First>
     <Suffix>III</Suffix>
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116183</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bucciarelli</Last>
+    <First>John Anthony</First>
+    <Suffix>III</Suffix>
     <FilingType>X</FilingType>
     <StateDst>CT05</StateDst>
     <Year>2026</Year>
@@ -2705,6 +2716,17 @@
     <Year>2026</Year>
     <FilingDate>4/29/2026</FilingDate>
     <DocID>30027121</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cooney</Last>
+    <First>Joseph Patrick</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116187</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3871,6 +3893,17 @@
     <Year>2026</Year>
     <FilingDate>3/17/2026</FilingDate>
     <DocID>20034114</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Dunn</Last>
+    <First>Neal Patrick MD, Facs</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/23/2026</FilingDate>
+    <DocID>20034815</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7536,6 +7569,17 @@
     <DocID>20034552</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Leigh</Last>
+    <First>Danica David</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116186</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Lemmo</Last>
     <First>Alfred</First>
@@ -7644,6 +7688,17 @@
     <Year>2026</Year>
     <FilingDate>5/14/2026</FilingDate>
     <DocID>10078304</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Limtiaco</Last>
+    <First>Alicia Anne Garrido</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GU00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/23/2026</FilingDate>
+    <DocID>10081133</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9912,6 +9967,17 @@
     <DocID>20033725</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pelosi</Last>
+    <First>Nancy</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/23/2026</FilingDate>
+    <DocID>20034836</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Pena</Last>
     <First>Lauren B.</First>
@@ -11186,6 +11252,17 @@
     <Year>2026</Year>
     <FilingDate>3/22/2026</FilingDate>
     <DocID>10074556</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Schultz</Last>
+    <First>John Thomas</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116184</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13089,6 +13166,17 @@
     <Year>2026</Year>
     <FilingDate>4/28/2026</FilingDate>
     <DocID>30026951</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Westby</Last>
+    <First>Jeremy Paul</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116185</DocID>
   </Member>
   <Member>
     <Prefix />
