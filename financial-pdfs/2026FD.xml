@@ -4126,6 +4126,17 @@
     <DocID>20034556</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Evans</Last>
+    <First>Dwight</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/24/2026</FilingDate>
+    <DocID>20034851</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Farley</Last>
     <First>Steve</First>
@@ -6390,6 +6401,17 @@
     <Year>2026</Year>
     <FilingDate>4/19/2026</FilingDate>
     <DocID>10075859</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Jackson</Last>
+    <First>Terry Antonio</First>
+    <Suffix>II</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>MD05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/24/2026</FilingDate>
+    <DocID>10075581</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
