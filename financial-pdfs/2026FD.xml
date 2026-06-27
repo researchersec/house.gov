@@ -3412,6 +3412,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Desouza</Last>
+    <First>Pedro</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>RI01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/25/2026</FilingDate>
+    <DocID>10081068</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Despain</Last>
     <First>Monique</First>
     <Suffix />
@@ -4986,6 +4997,17 @@
   <Member>
     <Prefix />
     <Last>Gordon</Last>
+    <First>Hunter</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WA01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/25/2026</FilingDate>
+    <DocID>10081067</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gordon</Last>
     <First>Mark Robert</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -5986,6 +6008,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Hinders</Last>
+    <First>Jordan Daniel</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/25/2026</FilingDate>
+    <DocID>10081141</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Ho</Last>
     <First>Thien</First>
     <Suffix />
@@ -6621,6 +6654,28 @@
     <Year>2026</Year>
     <FilingDate>6/8/2026</FilingDate>
     <DocID>9115989</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Johnson</Last>
+    <First>James Andrew</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/9/2026</FilingDate>
+    <DocID>9116190</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Johnson</Last>
+    <First>James Andrew</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/25/2026</FilingDate>
+    <DocID>40004988</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>

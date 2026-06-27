@@ -309,6 +309,7 @@ Hon.	DelBene	Suzan K.		P	WA01	2026	6/11/2026	20034727
 	Denney	Audrey		C	CA01	2026	5/14/2026	10075675
 	Denotter	Matthew		C	MI01	2026	4/30/2026	10075667
 	Desmond	Jim		X	CA48	2026	5/13/2026	30027492
+	Desouza	Pedro		C	RI01	2026	6/25/2026	10081068
 	Despain	Monique		C	OR04	2026	5/12/2026	10076923
 	Devanath	Nila		A	VA02	2026	5/15/2026	10078314
 	Devanath	Nila		A	VA02	2026	5/15/2026	10078316
@@ -452,6 +453,7 @@ Mr.	Gill	Brendan W.		W	NJ11	2026	5/8/2026	8092
 Hon.	Gonzales	Ernest Anthony Tony	II	T	TX23	2026	5/16/2026	10079695
 Hon.	Gonzales	Ernest Anthony Tony	II	X	TX23	2026	4/9/2026	9115731
 	Gonzalez	Aiden Alexander		C	PA07	2026	1/27/2026	10073267
+	Gordon	Hunter		C	WA01	2026	6/25/2026	10081067
 	Gordon	Mark Robert		C	AZ01	2026	4/23/2026	10076055
 Hon.	Gottheimer	Josh		P	NJ05	2026	1/14/2026	20033756
 Hon.	Gottheimer	Josh		P	NJ05	2026	2/26/2026	20033930
@@ -543,6 +545,7 @@ Hon.	Hill	James French		P	AR02	2026	1/23/2026	20033661
 	Hill	Jamie		X	MI02	2026	5/20/2026	30028189
 	Hill	William		X	AK00	2026	6/8/2026	9115980
 	Hilleary	William V.		X	TN06	2026	6/8/2026	9115981
+	Hinders	Jordan Daniel		C	TN08	2026	6/25/2026	10081141
 	Ho	Thien		X	CA06	2026	5/15/2026	30027870
 	Hoffman	Francis X "Frank"		C	CA40	2026	5/13/2026	10078007
 	Holbrook	Trent William		C	DC00	2026	5/8/2026	10076707
@@ -601,6 +604,8 @@ Ms.	Jewett	Lauren Ashley		C	LA01	2026	5/14/2026	10076573
 	Johnson	Cliff		X	MS01	2026	4/29/2026	30027064
 Mr.	Johnson	George Melville		C	GA03	2026	4/19/2026	10075843
 	Johnson	Jacob		X	MN01	2026	6/8/2026	9115989
+Mr.	Johnson	James Andrew		D	TN05	2026	6/9/2026	9116190
+Mr.	Johnson	James Andrew		D	TN05	2026	6/25/2026	40004988
 Hon.	Johnson	Julie		P	TX32	2026	1/15/2026	20033789
 Hon.	Johnson	Julie		P	TX32	2026	6/12/2026	20034706
 	Johnson-Green	Tabitha		D	GA10	2026	4/17/2026	9115776
