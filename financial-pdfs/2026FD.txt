@@ -182,6 +182,7 @@ Mr.	Carter	Gregory Marcus Mr		C	FL09	2026	4/13/2026	10075536
 Hon.	Case	Ed		P	HI01	2026	3/14/2026	20034176
 Hon.	Case	Ed		P	HI01	2026	4/6/2026	20034221
 Hon.	Case	Ed		P	HI01	2026	5/31/2026	20034668
+	Cass	Jeanette		C	MO04	2026	6/29/2026	10081165
 	Catanese	Paul Vincent		C	KS04	2026	4/14/2026	10075645
 Mr.	Celata	Anthony Patrick		C	MA01	2026	4/15/2026	10075684
 Mr.	Cerreta	Damon Lawrence		C	CT04	2026	5/14/2026	10078157
@@ -393,6 +394,7 @@ Hon.	Evans	Dwight		P	PA03	2026	6/24/2026	20034851
 	Fields	Cleo		P	LA06	2026	6/3/2026	20034591
 	Fields	Cleo		P	LA06	2026	6/26/2026	20034800
 	Finnie	Shaun		X	TX02	2026	5/7/2026	9115806
+Mr.	Fleetwood	Clifford Gene		C	FL20	2026	6/29/2026	10081161
 Hon.	Fleischmann	Charles J. "Chuck"		P	TN03	2026	2/9/2026	8221321
 Hon.	Fleischmann	Charles J. "Chuck"		P	TN03	2026	3/20/2026	9115704
 Hon.	Fleischmann	Charles J. "Chuck"		P	TN03	2026	5/12/2026	9115821
@@ -553,6 +555,7 @@ Hon.	Hill	James French		P	AR02	2026	1/23/2026	20033661
 	Hoffman	Francis X "Frank"		C	CA40	2026	5/13/2026	10078007
 	Holbrook	Trent William		C	DC00	2026	5/8/2026	10076707
 	Holmes	Ardelia		D	OH11	2026	4/20/2026	40004937
+	Holstein	Tommy		C	MO03	2026	6/29/2026	10081159
 	Honeycutt	Jenny Costa		C	SC01	2026	5/12/2026	10077645
 Dr.	Hook	Kristin A Dr		C	TX21	2026	5/23/2026	10079825
 	Hooper	James D.		C	MI12	2026	5/15/2026	10078623
@@ -813,10 +816,12 @@ Hon.	Miller	Max		P	OH07	2026	5/29/2026	20034651
 	Milleron	Nadia D.		C	MA01	2026	5/15/2026	10078679
 	Mims	Dan		C	TX09	2026	5/10/2026	10076834
 	Miranda	Hunter Garcia		C	CA47	2026	5/28/2026	10079883
+	Miressi	Daniel		C	CT04	2026	6/30/2026	10081167
 	Miressi	Daniel		X	CT04	2026	6/8/2026	9116030
 	Mitchell	James Gordon		W	TX17	2026	4/20/2026	8074
 	Mohamed	Liban		C	UT01	2026	5/24/2026	10079809
 	Monday	Christopher Brian		C	TN06	2026	4/13/2026	10075553
+	Monestime	Jean		C	FL24	2026	6/30/2026	10081128
 	Montanez Berrios (Dmb)	Deliris		C	TX16	2026	5/15/2026	10078423
 	Montavon	Matthew		C	FL17	2026	5/12/2026	10077614
 Mr.	Montgomery	Brian Allen		X	GA01	2026	5/13/2026	30027362
@@ -942,6 +947,7 @@ Hon.	Pfluger	August Lee	II	P	TX11	2026	4/15/2026	20034348
 	Piccinini	Katherine		C	CA10	2026	5/13/2026	10077925
 	Pietrowicz	Joshua James		C	ME01	2026	5/11/2026	10077338
 	Pinker	Justin		X	GA06	2026	5/20/2026	30028200
+	Pinto	Brooke		W	DC00	2026	6/29/2026	8137
 	Pinto	Brooke		X	DC00	2026	5/13/2026	30027317
 	Plumer	Tayla		C	FL01	2026	4/13/2026	10075541
 	Pohl	Amanda		W		2026		9115775

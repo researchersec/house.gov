@@ -2015,6 +2015,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Cass</Last>
+    <First>Jeanette</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/29/2026</FilingDate>
+    <DocID>10081165</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Catanese</Last>
     <First>Paul Vincent</First>
     <Suffix />
@@ -4335,6 +4346,17 @@
     <DocID>9115806</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Fleetwood</Last>
+    <First>Clifford Gene</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/29/2026</FilingDate>
+    <DocID>10081161</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Fleischmann</Last>
     <First>Charles J. "Chuck"</First>
@@ -6093,6 +6115,17 @@
     <Year>2026</Year>
     <FilingDate>4/20/2026</FilingDate>
     <DocID>40004937</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Holstein</Last>
+    <First>Tommy</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/29/2026</FilingDate>
+    <DocID>10081159</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8959,6 +8992,17 @@
     <Last>Miressi</Last>
     <First>Daniel</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CT04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/30/2026</FilingDate>
+    <DocID>10081167</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Miressi</Last>
+    <First>Daniel</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CT04</StateDst>
     <Year>2026</Year>
@@ -8997,6 +9041,17 @@
     <Year>2026</Year>
     <FilingDate>4/13/2026</FilingDate>
     <DocID>10075553</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Monestime</Last>
+    <First>Jean</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL24</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/30/2026</FilingDate>
+    <DocID>10081128</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -10372,6 +10427,17 @@
     <Year>2026</Year>
     <FilingDate>5/20/2026</FilingDate>
     <DocID>30028200</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pinto</Last>
+    <First>Brooke</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>DC00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>6/29/2026</FilingDate>
+    <DocID>8137</DocID>
   </Member>
   <Member>
     <Prefix />
