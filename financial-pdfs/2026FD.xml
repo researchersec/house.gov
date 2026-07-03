@@ -4999,6 +4999,17 @@
     <Last>Gilbert</Last>
     <First>Oliver G.</First>
     <Suffix>III</Suffix>
+    <FilingType>C</FilingType>
+    <StateDst>FL24</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/1/2026</FilingDate>
+    <DocID>10081132</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Gilbert</Last>
+    <First>Oliver G.</First>
+    <Suffix>III</Suffix>
     <FilingType>X</FilingType>
     <StateDst>FL24</StateDst>
     <Year>2026</Year>
@@ -8123,6 +8134,17 @@
     <Last>Lucero</Last>
     <First>Melanie Virginia</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/1/2026</FilingDate>
+    <DocID>10074522</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lucero</Last>
+    <First>Melanie Virginia</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>VA05</StateDst>
     <Year>2026</Year>
@@ -9085,6 +9107,17 @@
     <Year>2026</Year>
     <FilingDate>5/29/2026</FilingDate>
     <DocID>20034651</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Miller</Last>
+    <First>Max</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/1/2026</FilingDate>
+    <DocID>20034869</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12737,6 +12770,17 @@
     <Year>2026</Year>
     <FilingDate>6/12/2026</FilingDate>
     <DocID>20034780</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/1/2026</FilingDate>
+    <DocID>20034897</DocID>
   </Member>
   <Member>
     <Prefix />
