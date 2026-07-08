@@ -621,6 +621,17 @@
     <Last>Baker</Last>
     <First>Ethan D.</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MI11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>10078401</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Baker</Last>
+    <First>Ethan D.</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>MI11</StateDst>
     <Year>2026</Year>
@@ -769,6 +780,17 @@
     <Year>2026</Year>
     <FilingDate>5/14/2026</FilingDate>
     <DocID>10078070</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Barnett</Last>
+    <First>Michaela</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>10078155</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -3895,6 +3917,17 @@
     <DocID>20034712</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Doggett</Last>
+    <First>Lloyd</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX37</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>20034923</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Dolan</Last>
     <First>Martin William</First>
@@ -6060,6 +6093,17 @@
     <Year>2026</Year>
     <FilingDate>4/20/2026</FilingDate>
     <DocID>10075944</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Helmer</Last>
+    <First>Dan</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>VA07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>8144</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8472,6 +8516,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Mandel</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>NY04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>8143</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Manganaro</Last>
     <First>Nicholas Waln Morris</First>
     <Suffix />
@@ -8524,6 +8579,17 @@
     <Year>2026</Year>
     <FilingDate>5/13/2026</FilingDate>
     <DocID>10076590</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Martin</Last>
+    <First>Bryan</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>40004991</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13067,6 +13133,17 @@
     <Year>2026</Year>
     <FilingDate>7/2/2026</FilingDate>
     <DocID>10081205</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Thompson</Last>
+    <First>Jeremy</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/6/2026</FilingDate>
+    <DocID>10079960</DocID>
   </Member>
   <Member>
     <Prefix />
