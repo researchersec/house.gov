@@ -3987,6 +3987,17 @@
     <Last>Donahue</Last>
     <First>Amy</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WI04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/9/2026</FilingDate>
+    <DocID>10078619</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Donahue</Last>
+    <First>Amy</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>WI04</StateDst>
     <Year>2026</Year>
@@ -5532,6 +5543,17 @@
     <Year>2026</Year>
     <FilingDate>6/4/2026</FilingDate>
     <DocID>9115964</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Green</Last>
+    <First>Dan</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>FL09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>9116208</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7558,6 +7580,17 @@
     <DocID>20034767</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kelly</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>20034947</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Kent</Last>
     <First>Alexander Valiensi</First>
@@ -8130,6 +8163,17 @@
     <DocID>20034552</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lee</Last>
+    <First>Susie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NV03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>20034790</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Leigh</Last>
     <First>Danica David</First>
@@ -8381,6 +8425,17 @@
     <Year>2026</Year>
     <FilingDate>1/6/2026</FilingDate>
     <DocID>20033738</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Lombardo</Last>
+    <First>Todd</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>CA37</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>8145</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9120,6 +9175,17 @@
     <DocID>20034748</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McGuire</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>20034942</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>McGuire</Last>
     <First>Mike</First>
@@ -9514,6 +9580,17 @@
     <Year>2026</Year>
     <FilingDate>6/8/2026</FilingDate>
     <DocID>9116030</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mitchell</Last>
+    <First>Christopher Douglas</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CO05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/9/2026</FilingDate>
+    <DocID>10081239</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13353,6 +13430,17 @@
     <Year>2026</Year>
     <FilingDate>5/23/2026</FilingDate>
     <DocID>10079833</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Torres</Last>
+    <First>Ritchie John</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NY15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/8/2026</FilingDate>
+    <DocID>20034224</DocID>
   </Member>
   <Member>
     <Prefix />
