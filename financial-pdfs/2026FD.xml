@@ -3602,6 +3602,17 @@
     <Last>Deboer</Last>
     <First>Terri</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>MI03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/20/2026</FilingDate>
+    <DocID>10081342</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Deboer</Last>
+    <First>Terri</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>MI03</StateDst>
     <Year>2026</Year>
@@ -6843,6 +6854,17 @@
     <DocID>9115981</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Himes</Last>
+    <First>James A.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CT04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/20/2026</FilingDate>
+    <DocID>20035047</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Hinders</Last>
     <First>Jordan Daniel</First>
@@ -9891,6 +9913,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>McKinney</Last>
+    <First>Donavan</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MI13</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/20/2026</FilingDate>
+    <DocID>10081352</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>McKinstry</Last>
     <First>Kathy</First>
     <Suffix />
@@ -10251,6 +10284,17 @@
     <Year>2026</Year>
     <FilingDate>5/24/2026</FilingDate>
     <DocID>10079809</DocID>
+  </Member>
+  <Member>
+    <Prefix>Dr.</Prefix>
+    <Last>Moise</Last>
+    <First>Rudolph Dr</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL20</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/20/2026</FilingDate>
+    <DocID>10081344</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11373,6 +11417,17 @@
     <Year>2026</Year>
     <FilingDate />
     <DocID>9116213</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Pautsch</Last>
+    <First>David Alfred</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116228</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -15080,6 +15135,17 @@
     <Year>2026</Year>
     <FilingDate>7/17/2026</FilingDate>
     <DocID>10078578</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Welford</Last>
+    <First>Kofinsia Clyde Anthony</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>MI02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/20/2026</FilingDate>
+    <DocID>40004999</DocID>
   </Member>
   <Member>
     <Prefix />

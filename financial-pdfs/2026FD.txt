@@ -326,6 +326,7 @@ Mr.	Dawson	Dave Alan		C	IA04	2026	5/15/2026	10078652
 	De Barros	Jonathan		X	CT05	2026	5/18/2026	30027981
 	De La Cruz	Carlos		C	TX35	2026	6/13/2026	10080038
 	De La Torre	Hector		C	CA41	2026	5/2/2026	10076538
+	Deboer	Terri		A	MI03	2026	7/20/2026	10081342
 	Deboer	Terri		C	MI03	2026	7/3/2026	10075413
 	Deboer	Terri		X	MI03	2026	4/15/2026	30026933
 Ms.	Decio	Jamee		X	IN02	2026	5/13/2026	30027495
@@ -621,6 +622,7 @@ Hon.	Hill	James French		P	AR02	2026	1/23/2026	20033661
 	Hill	William		X	AK00	2026	6/8/2026	9115980
 	Hilleary	William V.		C	TN06	2026	7/16/2026	9116223
 	Hilleary	William V.		X	TN06	2026	6/8/2026	9115981
+Hon.	Himes	James A.		P	CT04	2026	7/20/2026	20035047
 	Hinders	Jordan Daniel		C	TN08	2026	6/25/2026	10081141
 	Ho	Thien		W	CA06	2026	6/30/2026	8140
 	Ho	Thien		X	CA06	2026	5/15/2026	30027870
@@ -898,6 +900,7 @@ Hon.	McGuire	John		P	VA05	2026	7/8/2026	20034942
 	McKenna	Dylan		C	IN05	2026	4/1/2026	10074471
 	McKinney	Amanda		C	WA04	2026	7/3/2026	10073304
 	McKinney	Amanda		X	WA04	2026	2/9/2026	30025655
+	McKinney	Donavan		C	MI13	2026	7/20/2026	10081352
 	McKinstry	Kathy		C	OH09	2026	4/13/2026	10075459
 	McPherson	Paul Bryant		C	IN04	2026	3/28/2026	10074411
 	Mealer	Alexandra		C	TX09	2026	5/15/2026	10077465
@@ -931,6 +934,7 @@ Hon.	Miller	Max		P	OH07	2026	7/1/2026	20034869
 	Mitchell	Christopher Douglas		C	CO05	2026	7/9/2026	10081239
 	Mitchell	James Gordon		W	TX17	2026	4/20/2026	8074
 	Mohamed	Liban		C	UT01	2026	5/24/2026	10079809
+Dr.	Moise	Rudolph Dr		C	FL20	2026	7/20/2026	10081344
 	Monday	Christopher Brian		C	TN06	2026	4/13/2026	10075553
 	Monestime	Jean		C	FL24	2026	6/30/2026	10081128
 	Monestime	Jean		X	FL24	2026	6/30/2026	30028475
@@ -1033,6 +1037,7 @@ Dr.	Pan	Richard Dr		X	CA06	2026	6/8/2026	9116048
 	Parsi	Ahsan		C	WV02	2026	5/5/2026	10076691
 	Patty	Bradley M.		C	MO05	2026	3/25/2026	10074582
 Mr.	Pautsch	David Alfred		W		2026		9116213
+Mr.	Pautsch	David Alfred		W		2026		9116228
 Mr.	Pautsch	David Alfred		X	IA01	2026	5/18/2026	30028021
 Mr.	Paz	Jonathan E.		C	MA05	2026	5/14/2026	10078243
 	Peace	Rachel		C	NJ04	2026	5/1/2026	10076357
@@ -1370,6 +1375,7 @@ Mr.	Wechtaluk	Ethan Parrott		C	MD06	2026	6/30/2026	10081169
 	Weeks	Carter Jordan		D	AZ06	2026	2/18/2026	40004902
 	Welch	Danielle		C	NY03	2026	5/22/2026	10074519
 Mr.	Welford	Kofinsia Clyde Anthony		C	MI02	2026	7/17/2026	10078578
+Mr.	Welford	Kofinsia Clyde Anthony		D	MI02	2026	7/20/2026	40004999
 	Wellman	Frederick Paul		X	MO02	2026	4/28/2026	30026951
 Mr.	Westby	Jeremy Paul		W		2026		9116185
 	Wettach	Taylor		W		2026		9115780
