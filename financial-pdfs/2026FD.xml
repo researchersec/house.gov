@@ -1025,6 +1025,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Beccia</Last>
+    <First>John</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/22/2026</FilingDate>
+    <DocID>30028518</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Beck</Last>
     <First>Chris</First>
     <Suffix />
@@ -4102,6 +4113,17 @@
     <Year>2026</Year>
     <FilingDate>7/15/2026</FilingDate>
     <DocID>20034960</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Dingell</Last>
+    <First>Debbie</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MI06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/22/2026</FilingDate>
+    <DocID>20035048</DocID>
   </Member>
   <Member>
     <Prefix />
