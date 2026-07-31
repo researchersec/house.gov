@@ -7188,6 +7188,17 @@
     <Last>Hubac</Last>
     <First>George Emil</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>10081408</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Hubac</Last>
+    <First>George Emil</First>
+    <Suffix />
     <FilingType>D</FilingType>
     <StateDst>FL03</StateDst>
     <Year>2026</Year>
@@ -12759,6 +12770,28 @@
     <Year>2026</Year>
     <FilingDate>7/14/2026</FilingDate>
     <DocID>9116218</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Roland</Last>
+    <First>Edward John</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/29/2026</FilingDate>
+    <DocID>40005000</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Roland</Last>
+    <First>Edward John</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/29/2026</FilingDate>
+    <DocID>40005001</DocID>
   </Member>
   <Member>
     <Prefix />
