@@ -1487,6 +1487,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bilger</Last>
+    <First>Raymond Allen</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>PA15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/31/2026</FilingDate>
+    <DocID>10081305</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Bilzerian</Last>
     <First>Daniel Brandon</First>
     <Suffix />
@@ -3910,6 +3921,17 @@
     <Last>Desmond</Last>
     <First>Jim</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA48</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>10075861</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Desmond</Last>
+    <First>Jim</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>CA48</StateDst>
     <Year>2026</Year>
@@ -4424,6 +4446,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Doyle</Last>
+    <First>Victoria Jane Boker</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL22</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>10079763</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Duensing</Last>
     <First>Skylar</First>
     <Suffix />
@@ -4916,6 +4949,17 @@
     <Year>2026</Year>
     <FilingDate>7/16/2026</FilingDate>
     <DocID>20034894</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>20035023</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -9418,6 +9462,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Marcel</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>FL14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>10081093</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Marques</Last>
     <First>Rhett</First>
     <Suffix />
@@ -10792,6 +10847,17 @@
     <DocID>20034806</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Morrison</Last>
+    <First>Kelly Louise</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>20034972</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Morsy</Last>
     <First>Omar</First>
@@ -12088,6 +12154,17 @@
     <Year>2026</Year>
     <FilingDate>4/3/2026</FilingDate>
     <DocID>10075056</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Pondelick</Last>
+    <First>Scot</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>7/30/2026</FilingDate>
+    <DocID>10081423</DocID>
   </Member>
   <Member>
     <Prefix />
