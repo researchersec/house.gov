@@ -391,6 +391,7 @@ Hon.	Doggett	Lloyd		P	TX37	2026	4/6/2026	20034292
 Hon.	Doggett	Lloyd		P	TX37	2026	5/6/2026	20034486
 Hon.	Doggett	Lloyd		P	TX37	2026	6/4/2026	20034712
 Hon.	Doggett	Lloyd		P	TX37	2026	7/6/2026	20034923
+Hon.	Doggett	Lloyd		P	TX37	2026	8/5/2026	20035136
 Mr.	Dolan	Martin William		C	NY14	2026	5/12/2026	10076554
 	Donahue	Amy		C	WI04	2026	7/9/2026	10078619
 	Donahue	Amy		X	WI04	2026	5/20/2026	30028164
@@ -407,6 +408,7 @@ Hon.	Donalds	Byron		P	FL19	2026	7/15/2026	20034968
 Dr.	Douglass	Eugene Farley		C	NC02	2026	4/26/2026	10076198
 	Dowell	Steven Clay	Jr.	C	TX31	2026	5/13/2026	10077985
 	Doyle	Victoria Jane Boker		C	FL22	2026	7/30/2026	10079763
+	Driscoll	Jeanine		C	NY04	2026	8/5/2026	10081409
 	Duensing	Skylar		W	IL06	2026	5/12/2026	8103
 Mr.	Duffin	Michael Christian		X	VA08	2026	5/6/2026	30027226
 	Dunigan	Adam Michael		C	VA08	2026	3/30/2026	10074608
@@ -713,6 +715,7 @@ Mr.	Johnson	James Andrew		D	TN05	2026	6/9/2026	9116190
 Mr.	Johnson	James Andrew		D	TN05	2026	6/25/2026	40004988
 Hon.	Johnson	Julie		P	TX32	2026	1/15/2026	20033789
 Hon.	Johnson	Julie		P	TX32	2026	6/12/2026	20034706
+Hon.	Johnson	Julie		P	TX32	2026	8/5/2026	20035035
 	Johnson-Green	Tabitha		D	GA10	2026	4/17/2026	9115776
 	Johnston	Mark Edmund		W		2026		9115760
 	Jones	Chris		X	AR02	2026	4/28/2026	30026963
@@ -897,6 +900,7 @@ Hon.	McCaul	Michael T.		P	TX10	2026	7/8/2026	9116211
 Hon.	McClain	Lisa		P	MI09	2026	1/7/2026	20033736
 Hon.	McClain	Lisa		P	MI09	2026	2/11/2026	20033964
 Hon.	McClain	Lisa		P	MI09	2026	3/4/2026	20034105
+Hon.	McClain	Lisa		P	MI09	2026	8/5/2026	20035131
 Hon.	McClellan	Jennifer		P	VA04	2026	4/16/2026	20034311
 	McClellan	Kevin Harrison		X	FL20	2026	1/30/2026	30025650
 	McClintock	Charlie		C	IA02	2026	7/16/2026	10077433
