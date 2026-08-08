@@ -8739,6 +8739,17 @@
     <Last>Lander</Last>
     <First>Brad</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NY10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/6/2026</FilingDate>
+    <DocID>10076118</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Lander</Last>
+    <First>Brad</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>NY10</StateDst>
     <Year>2026</Year>
@@ -14629,6 +14640,17 @@
     <Year>2026</Year>
     <FilingDate>7/1/2026</FilingDate>
     <DocID>20034897</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/6/2026</FilingDate>
+    <DocID>20035146</DocID>
   </Member>
   <Member>
     <Prefix />
