@@ -1050,6 +1050,17 @@
     <Last>Bean</Last>
     <First>Melissa Luburich</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/19/2026</FilingDate>
+    <DocID>10078678</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Bean</Last>
+    <First>Melissa Luburich</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>IL08</StateDst>
     <Year>2026</Year>
@@ -5169,6 +5180,17 @@
     <Year>2026</Year>
     <FilingDate>4/28/2026</FilingDate>
     <DocID>10076299</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Feely</Last>
+    <First>Thomas James</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/19/2026</FilingDate>
+    <DocID>10077197</DocID>
   </Member>
   <Member>
     <Prefix />
