@@ -11431,6 +11431,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Molder</Last>
+    <First>Chaz</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/20/2026</FilingDate>
+    <DocID>10082710</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Monday</Last>
     <First>Christopher Brian</First>
     <Suffix />
@@ -11582,6 +11593,17 @@
     <Year>2026</Year>
     <FilingDate>7/9/2026</FilingDate>
     <DocID>20034952</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Moore</Last>
+    <First>Tim</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NC14</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/20/2026</FilingDate>
+    <DocID>20035291</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15619,6 +15641,17 @@
     <Year>2026</Year>
     <FilingDate>8/6/2026</FilingDate>
     <DocID>20035146</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/20/2026</FilingDate>
+    <DocID>20035289</DocID>
   </Member>
   <Member>
     <Prefix />
