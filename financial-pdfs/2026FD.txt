@@ -798,6 +798,7 @@ Hon.	Keating	William R.		P	MA09	2026	3/16/2026	20034177
 Hon.	Keating	William R.		P	MA09	2026	4/13/2026	20034307
 Hon.	Keating	William R.		P	MA09	2026	5/18/2026	20034417
 Hon.	Keating	William R.		P	MA09	2026	8/13/2026	20034898
+Hon.	Keating	William R.		P	MA09	2026	8/25/2026	20035293
 	Keiser	Belinda		C	FL22	2026	7/9/2026	10080050
 	Keiser	Belinda		X	FL22	2026	6/16/2026	30028454
 	Keissieh	Claude Manuel		C	CA40	2026	4/16/2026	10075743
@@ -1073,6 +1074,7 @@ Hon.	Morrison	Kelly Louise		P	MN03	2026	5/5/2026	20034300
 Hon.	Morrison	Kelly Louise		P	MN03	2026	5/21/2026	20034520
 Hon.	Morrison	Kelly Louise		P	MN03	2026	7/9/2026	20034806
 Hon.	Morrison	Kelly Louise		P	MN03	2026	7/30/2026	20034972
+Hon.	Morrison	Kelly Louise		P	MN03	2026	8/25/2026	20035244
 	Morsy	Omar		C	VA10	2026	6/8/2026	10079982
 	Morsy	Omar		D	VA10	2026	6/8/2026	40004982
 	Morton	Maurice Gerard		C	MI13	2026	1/29/2026	10073208
@@ -1280,17 +1282,20 @@ Hon.	Roy	Chip		P	TX21	2026	5/11/2026	20034528
 Hon.	Roy	Chip		P	TX21	2026	6/10/2026	20034762
 Mr.	Ruiz	Ben Benyamin		C	IN01	2026	4/6/2026	10075098
 Hon.	Rulli	Michael		P	OH06	2026	8/7/2026	20035147
+Hon.	Rulli	Michael		P	OH06	2026	8/25/2026	20035309
 	Russ	David Honorable		C	OR06	2026	4/15/2026	10075699
 	Rutinel	Manny		C	CO08	2026	5/15/2026	10077663
 	Sabat	Ramez Elias		W	FL01	2026	8/13/2026	8151
 	Sabatini	Anthony		C	FL11	2026	5/15/2026	10078613
 	Sabio	Tony		C	VA08	2026	4/26/2026	10076201
+Mr.	Sajna	Cyrus Mr		C	TX18	2026	8/25/2026	10078671
 Mr.	Sajna	Cyrus Mr		X	TX18	2026	5/20/2026	30028194
 Hon.	Salazar	Maria Elvira		P	FL27	2026	4/21/2026	20033993
 Hon.	Salazar	Maria Elvira		P	FL27	2026	5/8/2026	20034479
 Hon.	Salazar	Maria Elvira		P	FL27	2026	6/8/2026	20034709
 Hon.	Salazar	Maria Elvira		P	FL27	2026	7/7/2026	20034928
 Hon.	Salazar	Maria Elvira		P	FL27	2026	8/7/2026	20035138
+	Samman	Tarik		C	MA05	2026	8/25/2026	10082735
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 Hon.	Sanford	Mark		W		2026		9115825
 	Schaefer	Mike		C	CA48	2026	3/30/2026	9115720
@@ -1302,6 +1307,7 @@ Hon.	Sanford	Mark		W		2026		9115825
 	Schnell	Alexander		C	PA03	2026	3/22/2026	10074556
 Mr.	Schultz	John Thomas		W		2026		9116184
 	Schultz	Matthew Damian		C	AK00	2026	5/29/2026	10079749
+	Schultz	Matthew Damian		W		2026		9116313
 	Schulz	Scott		C	OH07	2026	4/29/2026	10075534
 	Schwalbe	Nina		C	NY12	2026	5/22/2026	10075379
 	Schwartz	Daniel		C	MD01	2026	7/13/2026	10081065
