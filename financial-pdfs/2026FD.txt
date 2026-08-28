@@ -1084,6 +1084,7 @@ Hon.	Moskowitz	Jared		P	FL23	2026	3/30/2026	20034129
 Hon.	Moskowitz	Jared		P	FL23	2026	4/30/2026	20034274
 Hon.	Moskowitz	Jared		P	FL23	2026	6/19/2026	20034749
 Hon.	Moskowitz	Jared		P	FL23	2026	7/26/2026	20034963
+Hon.	Moskowitz	Jared		P	FL23	2026	8/27/2026	20035243
 	Mosley	Chaney		C	TN06	2026	6/14/2026	10078042
 	Mosley	Chaney		X	TN06	2026	5/15/2026	30027869
 Mr.	Mosolf	Patrick		C	VA02	2026	7/31/2026	10079931
@@ -1517,6 +1518,7 @@ Hon.	Walberg	Tim		P	MI05	2026	6/3/2026	20034660
 	Wallis	Charles Patrick		A	CA23	2026	5/10/2026	10077242
 	Wallis	Charles Patrick		A	CA23	2026	5/10/2026	10077244
 	Wallis	Charles Patrick		C	CA23	2026	5/10/2026	10077231
+	Walters	Rasheed Nicholas		C	MA08	2026	8/27/2026	10082743
 	Warner	William Todd		C	TN09	2026	6/26/2026	10081147
 	Warner	William Todd		X	TN09	2026	6/10/2026	9116139
 Mr.	Washington	Maurice G.		C	SC06	2026	5/6/2026	10076414
