@@ -1718,6 +1718,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Blau</Last>
+    <First>Shimon</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>CO01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/28/2026</FilingDate>
+    <DocID>30028542</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Blomquist</Last>
     <First>Kyle</First>
     <Suffix />
@@ -7251,6 +7262,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Hennessy</Last>
+    <First>Samuel Frank</First>
+    <Suffix />
+    <FilingType>X</FilingType>
+    <StateDst>MD04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/28/2026</FilingDate>
+    <DocID>30028541</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Hennrich</Last>
     <First>Brent William</First>
     <Suffix />
@@ -8238,6 +8260,17 @@
     <Year>2026</Year>
     <FilingDate>6/26/2026</FilingDate>
     <DocID>10081143</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>James</Last>
+    <First>Lindsay</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/29/2026</FilingDate>
+    <DocID>10082751</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13232,6 +13265,17 @@
     <Year>2026</Year>
     <FilingDate>7/30/2026</FilingDate>
     <DocID>10081423</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Poulos</Last>
+    <First>Jason</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MA04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>8/28/2026</FilingDate>
+    <DocID>10082745</DocID>
   </Member>
   <Member>
     <Prefix />
