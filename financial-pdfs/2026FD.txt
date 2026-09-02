@@ -132,6 +132,7 @@ Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	1/31/2026	20033903
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	3/1/2026	20034085
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	7/1/2026	20034891
 Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	8/1/2026	20035106
+Hon.	Beyer	Donald Sternoff	Jr	P	VA08	2026	9/1/2026	20035349
 	Bhatti	Ata-Ul-Salaam		C	VA01	2026	5/15/2026	10076601
 Mr.	Bialota	James M.		A	SD00	2026	5/21/2026	10079801
 Mr.	Bialota	James M.		C	SD00	2026	5/16/2026	10078682
