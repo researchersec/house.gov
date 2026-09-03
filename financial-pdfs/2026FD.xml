@@ -3225,6 +3225,17 @@
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
+    <Last>Cohen</Last>
+    <First>Steve</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/1/2026</FilingDate>
+    <DocID>20035350</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
     <Last>Cole</Last>
     <First>Tom</First>
     <Suffix />
@@ -7435,6 +7446,17 @@
     <Year>2026</Year>
     <FilingDate>8/12/2026</FilingDate>
     <DocID>20035196</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/1/2026</FilingDate>
+    <DocID>20035326</DocID>
   </Member>
   <Member>
     <Prefix />
