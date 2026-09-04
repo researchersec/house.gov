@@ -4566,6 +4566,17 @@
     <DocID>10077851</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Dixit</Last>
+    <First>Sandeep S.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>OH13</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>10082766</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Dixon</Last>
     <First>Case</First>
@@ -5367,6 +5378,17 @@
     <Year>2026</Year>
     <FilingDate>7/30/2026</FilingDate>
     <DocID>20035023</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Fields</Last>
+    <First>Cleo</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>LA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>20035345</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -8550,6 +8572,17 @@
   <Member>
     <Prefix />
     <Last>Jones</Last>
+    <First>Eric</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>10082767</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
     <First>Laura</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -10988,6 +11021,17 @@
     <Year>2026</Year>
     <FilingDate>8/10/2026</FilingDate>
     <DocID>20035180</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McGuire</Last>
+    <First>John J Mr</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>20035367</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14211,6 +14255,17 @@
     <Year>2026</Year>
     <FilingDate>8/25/2026</FilingDate>
     <DocID>20035309</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rulli</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/2/2026</FilingDate>
+    <DocID>20035365</DocID>
   </Member>
   <Member>
     <Prefix />
