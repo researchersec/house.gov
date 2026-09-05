@@ -743,6 +743,7 @@ Hon.	Jackson	Jonathan		P	IL01	2026	4/8/2026	20034301
 Hon.	Jackson	Jonathan		P	IL01	2026	5/27/2026	20034519
 Hon.	Jackson	Jonathan		P	IL01	2026	6/16/2026	20034688
 Hon.	Jackson	Jonathan		P	IL01	2026	7/15/2026	20034908
+Hon.	Jackson	Jonathan		P	IL01	2026	9/3/2026	20035370
 Mr.	Jackson	Rob Travis	Jr.	C	PA03	2026	4/19/2026	10075859
 Mr.	Jackson	Terry Antonio	II	C	MD05	2026	6/24/2026	10075581
 Mr.	Jackson	Terry Antonio	II	X	MD05	2026	4/28/2026	30026962
