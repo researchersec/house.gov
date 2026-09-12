@@ -3004,6 +3004,17 @@
     <DocID>20035190</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Cisneros</Last>
+    <First>Gilbert</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA31</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/10/2026</FilingDate>
+    <DocID>20035390</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Clark</Last>
     <First>Frederic</First>
@@ -3266,6 +3277,17 @@
     <Year>2026</Year>
     <FilingDate>9/1/2026</FilingDate>
     <DocID>20035350</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Cole</Last>
+    <First>Brian</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NH01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/11/2026</FilingDate>
+    <DocID>10082827</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -17572,6 +17594,17 @@
     <Last>Womack</Last>
     <First>David</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>WA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/10/2026</FilingDate>
+    <DocID>10082824</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Womack</Last>
+    <First>David</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>WA05</StateDst>
     <Year>2026</Year>
@@ -17731,6 +17764,17 @@
     <Year>2026</Year>
     <FilingDate>5/20/2026</FilingDate>
     <DocID>30028131</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Zamora</Last>
+    <First>Martin R.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NM03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>9/10/2026</FilingDate>
+    <DocID>10082825</DocID>
   </Member>
   <Member>
     <Prefix />
