@@ -538,6 +538,7 @@ Hon.	Fletcher	Elizabeth		P	TX07	2026	5/1/2026	20034413
 	Foltz	Robert Brandon		D	MO05	2026	4/28/2026	9115798
 	Fonken	Matthew William		C	NV02	2026	5/15/2026	10078615
 	Ford	J.D.		C	IN05	2026	4/3/2026	10074652
+	Foreman	Eric Michael		D	NE02	2026	9/28/2026	40005024
 	Forgie	Adam Robert		C	PA12	2026	4/20/2026	10075937
 	Forstag	Samuel Kelley		C	MT01	2026	5/11/2026	10076924
 	Forte	Tina		W	NY14	2026	4/15/2026	8064
@@ -952,6 +953,7 @@ Hon.	Lee	Laurel		P	FL15	2026	7/19/2026	20034694
 	Lee	Robert Eugene		C	SC04	2026	5/13/2026	10077723
 Hon.	Lee	Susie		P	NV03	2026	6/4/2026	20034552
 Hon.	Lee	Susie		P	NV03	2026	7/8/2026	20034790
+	Lehmacher	Eunice		A	SC03	2026	9/28/2026	10082983
 	Lehmacher	Eunice		C	SC03	2026	9/27/2026	10082929
 	Leigh	Danica David		W		2026		9116186
 Mr.	Lemmo	Alfred		C	MI08	2026	8/4/2026	10076529
@@ -1102,6 +1104,7 @@ Hon.	Meuser	Daniel		P	PA09	2026	4/3/2026	20034158
 Hon.	Meuser	Daniel		P	PA09	2026	4/21/2026	20034359
 Hon.	Meuser	Daniel		P	PA09	2026	5/21/2026	20034547
 Hon.	Meuser	Daniel		P	PA09	2026	7/2/2026	20034774
+Mr.	Meyer	Bradley Allen		C	IN09	2026	9/28/2026	10082976
 	Meyers	Scott Alan		C	CA30	2026	5/3/2026	10076579
 	Miguez	Blake		C	LA05	2026	3/30/2026	10073366
 	Mikhlin	Artur Anton		W		2026		9115903
@@ -1121,6 +1124,7 @@ Hon.	Miller	Max		P	OH07	2026	9/27/2026	20035528
 	Miressi	Daniel		X	CT04	2026	6/8/2026	9116030
 	Mitchell	Christopher Douglas		C	CO05	2026	7/9/2026	10081239
 	Mitchell	James Gordon		W	TX17	2026	4/20/2026	8074
+	Mitchell	Joe		C	IA02	2026	9/18/2026	9116349
 	Mohamed	Liban		C	UT01	2026	5/24/2026	10079809
 Dr.	Moise	Rudolph Dr		C	FL20	2026	7/20/2026	10081344
 	Molder	Chaz		C	TN05	2026	8/20/2026	10082710
@@ -1649,6 +1653,7 @@ Hon.	Wasserman Schultz	Debbie		P	FL25	2026	7/14/2026	20034999
 Hon.	Webster	Daniel		P	FL11	2026	6/1/2026	20034562
 Mr.	Wechtaluk	Ethan Parrott		C	MD06	2026	6/30/2026	10081169
 	Weeks	Carter Jordan		D	AZ06	2026	2/18/2026	40004902
+	Wein	Mikel		D	KY05	2026	9/10/2026	9116348
 	Welch	Danielle		C	NY03	2026	5/22/2026	10074519
 Mr.	Welford	Kofinsia Clyde Anthony		C	MI02	2026	7/17/2026	10078578
 Mr.	Welford	Kofinsia Clyde Anthony		D	MI02	2026	7/20/2026	40004999
