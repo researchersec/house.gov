@@ -126,6 +126,7 @@ Hon.	Begich	Nicholas	III	P	AK00	2026	7/7/2026	20034920
 	Benjamin	Laura S.		W	WI03	2026	4/20/2026	8069
 	Bennett	Christopher Jerman		C	CA03	2026	5/17/2026	10079702
 	Bennett	Rebecca		C	NJ07	2026	5/15/2026	10076779
+	Bennett	Timothy		C	CO07	2026	10/7/2026	10083029
 Hon.	Bentz	Cliff		P	OR02	2026	5/9/2026	20034524
 	Berg	Kaela Jo		C	MN02	2026	7/14/2026	10080012
 	Berg	Kaela Jo		X	MN02	2026	6/4/2026	9115915
@@ -356,6 +357,7 @@ Mr.	Cresitello	Donald		C	NJ11	2026	5/3/2026	10076537
 	Crockett	Douglas		C	VA09	2026	7/5/2026	10078083
 	Crockett	Douglas		X	VA09	2026	5/20/2026	30028183
 	Croisant	John Thomas		C	OK01	2026	9/4/2026	10082782
+	Croley	Mike		C	TN06	2026	10/7/2026	10083032
 	Crosby	Peter		C	UT02	2026	6/10/2026	10079966
 	Cross	Jennifer		C	MD05	2026	5/4/2026	10076680
 	Crosson	Rick		C	WI08	2026	4/16/2026	10075739
@@ -477,6 +479,7 @@ Dr.	Douglass	Eugene Farley		C	NC02	2026	4/26/2026	10076198
 	Dowell	Steven Clay	Jr.	C	TX31	2026	5/13/2026	10077985
 	Doyle	Victoria Jane Boker		C	FL22	2026	7/30/2026	10079763
 	Driscoll	Jeanine		C	NY04	2026	8/5/2026	10081409
+	Duenas	Angelica Maria		C	CA29	2026	10/7/2026	10083036
 	Duensing	Skylar		W	IL06	2026	5/12/2026	8103
 Mr.	Duffin	Michael Christian		X	VA08	2026	5/6/2026	30027226
 	Dunigan	Adam Michael		C	VA08	2026	3/30/2026	10074608
@@ -609,6 +612,7 @@ Mr.	Garza	Mauro Everett		W	TX34	2026	4/24/2026	8081
 	Getty	Christopher Roman		C	IL04	2026	9/15/2026	10078315
 	Ghusar	Mandy		C	CA04	2026	4/13/2026	10075565
 Mr.	Gibbons	Samuel Luther	IV	C	SC02	2026	6/7/2026	10079872
+Dr.	Gies	Aaron		C	NY23	2026	10/7/2026	10083005
 	Gilbert	Oliver G.	III	C	FL24	2026	7/1/2026	10081132
 	Gilbert	Oliver G.	III	X	FL24	2026	6/17/2026	9116180
 	Gilbreath	Elinor		C	ID02	2026	5/15/2026	9115880
@@ -635,6 +639,7 @@ Hon.	Gottheimer	Josh		P	NJ05	2026	6/3/2026	20034693
 Hon.	Gottheimer	Josh		P	NJ05	2026	7/7/2026	20034938
 Hon.	Gottheimer	Josh		P	NJ05	2026	8/10/2026	20035186
 Hon.	Gottheimer	Josh		P	NJ05	2026	9/14/2026	20035455
+Hon.	Gottheimer	Josh		P	NJ05	2026	10/7/2026	20035590
 	Grage	Rachel		C	FL05	2026	4/29/2026	10076092
 	Graham	James Henry		C	IN09	2026	4/21/2026	10075956
 	Gray	Chuck		C	WY00	2026	4/28/2026	10073279
@@ -1393,6 +1398,7 @@ Hon.	Rogers	Harold Dallas		P	KY05	2026	6/10/2026	9116146
 Hon.	Rogers	Harold Dallas		P	KY05	2026	7/14/2026	9116218
 Hon.	Rogers	Harold Dallas		P	KY05	2026	8/20/2026	9116311
 Hon.	Rogers	Harold Dallas		P	KY05	2026	9/23/2026	9116342
+	Rojas	Eddy		C	FL28	2026	9/24/2026	9116366
 Mr.	Roland	Edward John		D	TN03	2026	7/29/2026	40005000
 Mr.	Roland	Edward John		D	TN03	2026	7/29/2026	40005001
 	Romero	Dwayne		C	CO03	2026	5/29/2026	10075334
@@ -1430,6 +1436,7 @@ Hon.	Salazar	Maria Elvira		P	FL27	2026	6/8/2026	20034709
 Hon.	Salazar	Maria Elvira		P	FL27	2026	7/7/2026	20034928
 Hon.	Salazar	Maria Elvira		P	FL27	2026	8/7/2026	20035138
 Hon.	Salazar	Maria Elvira		P	FL27	2026	9/9/2026	20035411
+Hon.	Salazar	Maria Elvira		P	FL27	2026	10/7/2026	20035562
 	Samman	Tarik		C	MA05	2026	8/25/2026	10082735
 Hon.	Sanchez	Linda T.		P	CA38	2026	1/9/2026	20033755
 Hon.	Sanford	Mark		W		2026		9115825
@@ -1561,6 +1568,7 @@ Mr.	Tabacchi	Michael Eugene		W	IL12	2026	4/15/2026	8055
 	Tabor	Scott Edward		D	OH05	2026	3/31/2026	40004927
 	Taggart	William M.	IV	C	TX38	2026	4/28/2026	10076001
 	Talkington	Michelle		C	MD05	2026	5/15/2026	10078625
+	Tandon	Ritesh		C	CA17	2026	10/8/2026	10083039
 	Tanner	Suzzanna		C	WA03	2026	5/15/2026	10078496
 	Tarnoff	Blay		D	NY04	2026	7/13/2026	40004995
 	Taylor	Bernard		C	FL21	2026	5/15/2026	10078357
