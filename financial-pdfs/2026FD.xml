@@ -1091,6 +1091,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Barrington</Last>
+    <First>Brennan</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>OH15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/13/2026</FilingDate>
+    <DocID>40005039</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Barrios</Last>
     <First>Dan F.</First>
     <Suffix />
@@ -8350,6 +8361,17 @@
     <DocID>20035491</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/13/2026</FilingDate>
+    <DocID>20035588</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Herrera</Last>
     <First>Brandon</First>
@@ -12550,6 +12572,17 @@
     <Year>2026</Year>
     <FilingDate>7/2/2026</FilingDate>
     <DocID>20034774</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Meuser</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/14/2026</FilingDate>
+    <DocID>20035487</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -19029,6 +19062,17 @@
     <Year>2026</Year>
     <FilingDate>5/31/2026</FilingDate>
     <DocID>10079868</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Williams</Last>
+    <First>John Andrew</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>KY01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/13/2026</FilingDate>
+    <DocID>10083015</DocID>
   </Member>
   <Member>
     <Prefix />
