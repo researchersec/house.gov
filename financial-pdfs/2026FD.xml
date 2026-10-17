@@ -1157,6 +1157,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bauman</Last>
+    <First>Adam</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TX16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/15/2026</FilingDate>
+    <DocID>10083087</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Bean</Last>
     <First>Melissa Luburich</First>
     <Suffix />
@@ -8977,6 +8988,17 @@
     <DocID>10076316</DocID>
   </Member>
   <Member>
+    <Prefix>Mrs.</Prefix>
+    <Last>Hunter-Herod</Last>
+    <First>Tita L.</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>NC09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/5/2026</FilingDate>
+    <DocID>9116383</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Hurabiell</Last>
     <First>Marie</First>
@@ -11412,6 +11434,17 @@
     <Last>Macallister</Last>
     <First>Robert Tyler</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>MA09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/16/2026</FilingDate>
+    <DocID>10083042</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Macallister</Last>
+    <First>Robert Tyler</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>MA09</StateDst>
     <Year>2026</Year>
@@ -11956,6 +11989,17 @@
     <Year>2026</Year>
     <FilingDate>7/8/2026</FilingDate>
     <DocID>9116211</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McCaul</Last>
+    <First>Michael T.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TX10</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/14/2026</FilingDate>
+    <DocID>9116378</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -14552,6 +14596,17 @@
     <Year>2026</Year>
     <FilingDate>9/21/2026</FilingDate>
     <DocID>20035434</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Peters</Last>
+    <First>Scott H.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA50</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/15/2026</FilingDate>
+    <DocID>20035637</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17720,6 +17775,17 @@
     <Year>2026</Year>
     <FilingDate>10/1/2026</FilingDate>
     <DocID>20035549</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/15/2026</FilingDate>
+    <DocID>20035660</DocID>
   </Member>
   <Member>
     <Prefix />
