@@ -10385,6 +10385,17 @@
     <DocID>10081055</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Kirkland</Last>
+    <First>Kyle R</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA21</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/19/2026</FilingDate>
+    <DocID>10083017</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Kiros</Last>
     <First>Melat</First>
@@ -10878,6 +10889,17 @@
     <Year>2026</Year>
     <FilingDate>7/19/2026</FilingDate>
     <DocID>20034694</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Lee</Last>
+    <First>Laurel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL15</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/16/2026</FilingDate>
+    <DocID>20035490</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12913,6 +12935,17 @@
     <Year>2026</Year>
     <FilingDate>9/18/2026</FilingDate>
     <DocID>9116349</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Moesinger</Last>
+    <First>Robert Michael</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>UT02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/17/2026</FilingDate>
+    <DocID>10083098</DocID>
   </Member>
   <Member>
     <Prefix />
