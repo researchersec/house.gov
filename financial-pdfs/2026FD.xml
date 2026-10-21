@@ -9208,6 +9208,17 @@
     <DocID>20035370</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Jackson</Last>
+    <First>Jonathan</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>IL01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/19/2026</FilingDate>
+    <DocID>20035551</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Jackson</Last>
     <First>Rob Travis</First>
@@ -11219,6 +11230,17 @@
     <Year>2026</Year>
     <FilingDate>5/21/2026</FilingDate>
     <DocID>10074616</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Littau</Last>
+    <First>Robin</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>CA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/6/2026</FilingDate>
+    <DocID>9116385</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -15940,6 +15962,17 @@
     <DocID>20035558</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Rulli</Last>
+    <First>Michael</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/19/2026</FilingDate>
+    <DocID>20035671</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Russ</Last>
     <First>David Honorable</First>
@@ -16972,6 +17005,17 @@
     <Year>2026</Year>
     <FilingDate>4/30/2026</FilingDate>
     <DocID>20019182</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Sneed</Last>
+    <First>Andrew Rankin Guyton</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AL05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/13/2026</FilingDate>
+    <DocID>9116386</DocID>
   </Member>
   <Member>
     <Prefix />
