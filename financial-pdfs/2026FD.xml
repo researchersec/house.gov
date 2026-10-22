@@ -7009,6 +7009,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Gonzales-Torres</Last>
+    <First>Angela</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA34</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/21/2026</FilingDate>
+    <DocID>10083072</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Gonzalez</Last>
     <First>Aiden Alexander</First>
     <Suffix />
@@ -8601,6 +8612,17 @@
     <Year>2026</Year>
     <FilingDate>7/20/2026</FilingDate>
     <DocID>20035047</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Himes</Last>
+    <First>James A.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CT04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/20/2026</FilingDate>
+    <DocID>20035687</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -19557,6 +19579,17 @@
     <Year>2026</Year>
     <FilingDate>7/13/2026</FilingDate>
     <DocID>20034984</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Yakym</Last>
+    <First>Rudy C.</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>IN02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/20/2026</FilingDate>
+    <DocID>20035691</DocID>
   </Member>
   <Member>
     <Prefix />
