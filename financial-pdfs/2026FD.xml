@@ -9696,6 +9696,17 @@
     <Last>Jones</Last>
     <First>Micah Q.</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>MA06</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/21/2026</FilingDate>
+    <DocID>10083102</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
+    <First>Micah Q.</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>MA06</StateDst>
     <Year>2026</Year>
@@ -15003,6 +15014,17 @@
     <Year>2026</Year>
     <FilingDate>5/13/2026</FilingDate>
     <DocID>30027525</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Powers</Last>
+    <First>Joy</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/21/2026</FilingDate>
+    <DocID>10083110</DocID>
   </Member>
   <Member>
     <Prefix />
