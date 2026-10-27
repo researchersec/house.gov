@@ -13304,6 +13304,39 @@
     <Last>Morales</Last>
     <First>Cristian</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA43</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/23/2026</FilingDate>
+    <DocID>10083123</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Morales</Last>
+    <First>Cristian</First>
+    <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>CA43</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/23/2026</FilingDate>
+    <DocID>10083124</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Morales</Last>
+    <First>Cristian</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>CA43</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/23/2026</FilingDate>
+    <DocID>10076570</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Morales</Last>
+    <First>Cristian</First>
+    <Suffix />
     <FilingType>D</FilingType>
     <StateDst>CA43</StateDst>
     <Year>2026</Year>
@@ -17236,6 +17269,17 @@
     <Year>2026</Year>
     <FilingDate>7/12/2026</FilingDate>
     <DocID>9116271</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Staten</Last>
+    <First>Geral Defrance</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/14/2026</FilingDate>
+    <DocID>9116387</DocID>
   </Member>
   <Member>
     <Prefix />
