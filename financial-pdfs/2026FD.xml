@@ -7086,6 +7086,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Golladay</Last>
+    <First>Anna</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>TN03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/29/2026</FilingDate>
+    <DocID>10083134</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Gonzales</Last>
     <First>Christopher J.</First>
     <Suffix />
@@ -8141,6 +8152,39 @@
     <DocID>9116357</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/27/2026</FilingDate>
+    <DocID>9116389</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/27/2026</FilingDate>
+    <DocID>9116390</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Harshbarger</Last>
+    <First>Diana</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>TN01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/27/2026</FilingDate>
+    <DocID>9116391</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Harvey</Last>
     <First>Cooke Costa</First>
@@ -8535,6 +8579,17 @@
     <Year>2026</Year>
     <FilingDate>10/13/2026</FilingDate>
     <DocID>20035588</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hern</Last>
+    <First>Kevin</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OK01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/28/2026</FilingDate>
+    <DocID>20035710</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -12715,6 +12770,17 @@
     <Year>2026</Year>
     <FilingDate>6/8/2026</FilingDate>
     <DocID>9116025</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Meline</Last>
+    <First>Spencer Harrison</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/28/2026</FilingDate>
+    <DocID>10082938</DocID>
   </Member>
   <Member>
     <Prefix />
