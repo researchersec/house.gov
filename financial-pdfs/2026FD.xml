@@ -11772,6 +11772,28 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Maggio</Last>
+    <First>Jordan Smith</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>NY01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/28/2026</FilingDate>
+    <DocID>9116393</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Maggio</Last>
+    <First>Jordan Smith</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst />
+    <Year>2026</Year>
+    <FilingDate />
+    <DocID>9116394</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Males</Last>
     <First>Joe</First>
     <Suffix />
@@ -16270,6 +16292,17 @@
     <DocID>10075699</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Russell</Last>
+    <First>Ron Charles</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>ME01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/29/2026</FilingDate>
+    <DocID>10079934</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Ruszkowski ( Rush )</Last>
     <First>Rob</First>
@@ -18171,6 +18204,17 @@
     <Year>2026</Year>
     <FilingDate>10/15/2026</FilingDate>
     <DocID>20035660</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Taylor</Last>
+    <First>David J.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/29/2026</FilingDate>
+    <DocID>20035727</DocID>
   </Member>
   <Member>
     <Prefix />
