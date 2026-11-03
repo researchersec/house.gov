@@ -1629,6 +1629,17 @@
     <DocID>20035555</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Beyer</Last>
+    <First>Donald Sternoff</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/1/2026</FilingDate>
+    <DocID>20035743</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Bhatti</Last>
     <First>Ata-Ul-Salaam</First>
@@ -7833,6 +7844,28 @@
     <DocID>30027116</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Hall</Last>
+    <First>Thomas David</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/30/2026</FilingDate>
+    <DocID>40005046</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Hall</Last>
+    <First>Thomas David</First>
+    <Suffix />
+    <FilingType>W</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/30/2026</FilingDate>
+    <DocID>8161</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Halpin</Last>
     <First>Patrick</First>
@@ -10119,6 +10152,17 @@
     <Year>2026</Year>
     <FilingDate>9/12/2026</FilingDate>
     <DocID>20035431</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kean</Last>
+    <First>Thomas H.</First>
+    <Suffix>Jr</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>NJ07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/30/2026</FilingDate>
+    <DocID>20035591</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -12618,6 +12662,17 @@
     <DocID>20035367</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McGuire</Last>
+    <First>John J Mr</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/1/2026</FilingDate>
+    <DocID>20035484</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>McGuire</Last>
     <First>Mike</First>
@@ -13023,6 +13078,17 @@
     <Year>2026</Year>
     <FilingDate>8/13/2026</FilingDate>
     <DocID>20033779</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Miller</Last>
+    <First>Carol Devine</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WV01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/30/2026</FilingDate>
+    <DocID>20035734</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
