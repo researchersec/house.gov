@@ -6110,6 +6110,17 @@
     <Last>Finnie</Last>
     <First>Shaun</First>
     <Suffix />
+    <FilingType>A</FilingType>
+    <StateDst>TX02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/2/2026</FilingDate>
+    <DocID>10083020</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Finnie</Last>
+    <First>Shaun</First>
+    <Suffix />
     <FilingType>C</FilingType>
     <StateDst>TX02</StateDst>
     <Year>2026</Year>
@@ -9780,6 +9791,17 @@
     <DocID>40004988</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Johnson</Last>
+    <First>James Andrew</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>TN05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/2/2026</FilingDate>
+    <DocID>40005047</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Johnson</Last>
     <First>Julie</First>
@@ -10438,6 +10460,17 @@
     <Year>2026</Year>
     <FilingDate>5/11/2026</FilingDate>
     <DocID>10076243</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Khan</Last>
+    <First>Afzal</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NV01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>10083175</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -11934,6 +11967,17 @@
     <Year>2026</Year>
     <FilingDate>5/15/2026</FilingDate>
     <DocID>10078195</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Mann</Last>
+    <First>Bethany</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>MO03</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/2/2026</FilingDate>
+    <DocID>10083046</DocID>
   </Member>
   <Member>
     <Prefix>Hon.</Prefix>
@@ -19205,6 +19249,17 @@
     <Year>2026</Year>
     <FilingDate>7/2/2026</FilingDate>
     <DocID>20034915</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Wagner</Last>
+    <First>Ann</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>MO02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/2/2026</FilingDate>
+    <DocID>20035751</DocID>
   </Member>
   <Member>
     <Prefix />
