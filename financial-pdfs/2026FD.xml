@@ -9861,6 +9861,17 @@
     <Last>Jones</Last>
     <First>Chris</First>
     <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AR02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>10075582</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Jones</Last>
+    <First>Chris</First>
+    <Suffix />
     <FilingType>X</FilingType>
     <StateDst>AR02</StateDst>
     <Year>2026</Year>
@@ -11087,6 +11098,17 @@
     <Year>2026</Year>
     <FilingDate>7/24/2026</FilingDate>
     <DocID>20035065</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Latta</Last>
+    <First>Robert E.</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>OH05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>20035763</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17128,6 +17150,17 @@
     <DocID>10073306</DocID>
   </Member>
   <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Sheth</Last>
+    <First>Nirav</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>WA07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/3/2026</FilingDate>
+    <DocID>10083176</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Shinkle</Last>
     <First>Caroline</First>
@@ -17577,6 +17610,17 @@
     <Year>2026</Year>
     <FilingDate>10/14/2026</FilingDate>
     <DocID>9116387</DocID>
+  </Member>
+  <Member>
+    <Prefix>Mr.</Prefix>
+    <Last>Staten</Last>
+    <First>Geral Defrance</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>VA02</StateDst>
+    <Year>2026</Year>
+    <FilingDate>10/23/2026</FilingDate>
+    <DocID>9116396</DocID>
   </Member>
   <Member>
     <Prefix />
