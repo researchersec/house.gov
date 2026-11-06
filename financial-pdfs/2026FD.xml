@@ -2059,6 +2059,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Bokash</Last>
+    <First>David Eugene (E)</First>
+    <Suffix />
+    <FilingType>D</FilingType>
+    <StateDst>IN04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/4/2026</FilingDate>
+    <DocID>40005049</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Bonck</Last>
     <First>Jon</First>
     <Suffix />
@@ -10451,6 +10462,17 @@
     <DocID>20035652</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Kelly</Last>
+    <First>Mike</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/4/2026</FilingDate>
+    <DocID>20035765</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Kent</Last>
     <First>Alexander Valiensi</First>
@@ -13089,6 +13111,17 @@
     <Year>2026</Year>
     <FilingDate>10/14/2026</FilingDate>
     <DocID>20035487</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Meuser</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>20035662</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
@@ -16609,6 +16642,17 @@
     <Year>2026</Year>
     <FilingDate>10/7/2026</FilingDate>
     <DocID>20035562</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Salazar</Last>
+    <First>Maria Elvira</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>FL27</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>20035778</DocID>
   </Member>
   <Member>
     <Prefix />
