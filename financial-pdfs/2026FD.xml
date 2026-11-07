@@ -111,6 +111,17 @@
     <DocID>10081549</DocID>
   </Member>
   <Member>
+    <Prefix />
+    <Last>Albright</Last>
+    <First>Joe</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL16</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>10076295</DocID>
+  </Member>
+  <Member>
     <Prefix>Hon.</Prefix>
     <Last>Alford</Last>
     <First>Mark</First>
@@ -5503,6 +5514,17 @@
   <Member>
     <Prefix />
     <Last>Dunigan</Last>
+    <First>Adam</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>VA08</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>10083188</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Dunigan</Last>
     <First>Adam Michael</First>
     <Suffix />
     <FilingType>C</FilingType>
@@ -7314,6 +7336,17 @@
     <Year>2026</Year>
     <FilingDate>10/7/2026</FilingDate>
     <DocID>20035590</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Gottheimer</Last>
+    <First>Josh</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>NJ05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>20035770</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -17456,6 +17489,17 @@
     <Year>2026</Year>
     <FilingDate>9/22/2026</FilingDate>
     <DocID>10082926</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Smith</Last>
+    <First>Ceretta</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>GA12</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>10083179</DocID>
   </Member>
   <Member>
     <Prefix />
