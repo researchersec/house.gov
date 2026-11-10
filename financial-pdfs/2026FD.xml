@@ -10649,6 +10649,17 @@
     <DocID>9116376</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Khanna</Last>
+    <First>Rohit</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA17</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/5/2026</FilingDate>
+    <DocID>9116399</DocID>
+  </Member>
+  <Member>
     <Prefix>Mr.</Prefix>
     <Last>Kidd</Last>
     <First>Robert G</First>
@@ -12792,6 +12803,17 @@
     <Year>2026</Year>
     <FilingDate>11/1/2026</FilingDate>
     <DocID>20035484</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McGuire</Last>
+    <First>John J Mr</First>
+    <Suffix>III</Suffix>
+    <FilingType>P</FilingType>
+    <StateDst>VA05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/6/2026</FilingDate>
+    <DocID>20035775</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -14970,6 +14992,17 @@
     <Year>2026</Year>
     <FilingDate>10/2/2026</FilingDate>
     <DocID>20035553</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Pelosi</Last>
+    <First>Nancy</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>CA11</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/6/2026</FilingDate>
+    <DocID>20035780</DocID>
   </Member>
   <Member>
     <Prefix />
