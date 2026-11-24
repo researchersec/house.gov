@@ -2916,6 +2916,17 @@
     <DocID>20035275</DocID>
   </Member>
   <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Case</Last>
+    <First>Ed</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>HI01</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/21/2026</FilingDate>
+    <DocID>20036891</DocID>
+  </Member>
+  <Member>
     <Prefix />
     <Last>Cass</Last>
     <First>Jeanette</First>
@@ -11101,6 +11112,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Lamb</Last>
+    <First>Mark</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>AZ05</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/20/2026</FilingDate>
+    <DocID>10083205</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Lambert</Last>
     <First>Brian Keith</First>
     <Suffix />
@@ -12649,6 +12671,17 @@
     <Year>2026</Year>
     <FilingDate>4/16/2026</FilingDate>
     <DocID>20034311</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>McClellan</Last>
+    <First>Jennifer</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>VA04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/20/2026</FilingDate>
+    <DocID>20036883</DocID>
   </Member>
   <Member>
     <Prefix />
