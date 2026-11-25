@@ -6349,6 +6349,17 @@
   </Member>
   <Member>
     <Prefix />
+    <Last>Flippo</Last>
+    <First>David</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>NV04</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/23/2026</FilingDate>
+    <DocID>10082941</DocID>
+  </Member>
+  <Member>
+    <Prefix />
     <Last>Flores</Last>
     <First>Eric</First>
     <Suffix />
@@ -6445,6 +6456,17 @@
     <Year>2026</Year>
     <FilingDate>4/3/2026</FilingDate>
     <DocID>10074652</DocID>
+  </Member>
+  <Member>
+    <Prefix />
+    <Last>Ford</Last>
+    <First>La Shawn K.</First>
+    <Suffix />
+    <FilingType>C</FilingType>
+    <StateDst>IL07</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/23/2026</FilingDate>
+    <DocID>10083257</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -7919,6 +7941,17 @@
     <Year>2026</Year>
     <FilingDate>4/19/2026</FilingDate>
     <DocID>10075824</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Hageman</Last>
+    <First>Harriet</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>WY00</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/23/2026</FilingDate>
+    <DocID>20035776</DocID>
   </Member>
   <Member>
     <Prefix />
@@ -13342,6 +13375,17 @@
     <Year>2026</Year>
     <FilingDate>11/5/2026</FilingDate>
     <DocID>20035662</DocID>
+  </Member>
+  <Member>
+    <Prefix>Hon.</Prefix>
+    <Last>Meuser</Last>
+    <First>Daniel</First>
+    <Suffix />
+    <FilingType>P</FilingType>
+    <StateDst>PA09</StateDst>
+    <Year>2026</Year>
+    <FilingDate>11/24/2026</FilingDate>
+    <DocID>20036848</DocID>
   </Member>
   <Member>
     <Prefix>Mr.</Prefix>
